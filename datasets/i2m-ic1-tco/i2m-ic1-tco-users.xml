@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:gi2mo="http://purl.org/gi2mo/ns#"
+         xmlns:oid="http://purl.org/innovonto/legacy/types#"
+         xmlns:inov="http://purl.org/innovonto/types/#">
+
+    <inov:User rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/d07f252b-fd89-47d3-901a-8bdb6fa32f57">
+        <gi2mo:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/1af09b12-0e21-4784-bd25-8628a89bb9d3" />
+
+        <oid:role>ROLE_EXPLORATOR</oid:role>
+        <inov:hasSubmittedIdeasFor rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+        <inov:hasSubmittedIdeasFor rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-ic1-tco"/>
+    </inov:User>
+</rdf:RDF>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:gi2mo="http://purl.org/gi2mo/ns#"
+         xmlns:inov="http://purl.org/innovonto/types/">
+
+
+    <gi2mo:IdeaContest rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO">
+        <dcterms:title>Transparent Conductive Oxides (TCO)</dcterms:title>
+        <dcterms:description>In the first test phase of the project, "Transparent Conductive Oxides" (TCO) was selected
+            as the technology, which was developed by the Leibniz Institute for New Materials (INM). TCO are conductive
+            and flexible materials which are used in the form of thin coatings in various areas (e.g. foils or
+            displays).
+        </dcterms:description>
+        <dcterms:created>2017-09-21</dcterms:created>
+        <gi2mo:startDate>2018-03-09</gi2mo:startDate>
+        <gi2mo:endDate>2018-09-24</gi2mo:endDate>
+
+        <rdfs:seeAlso
+                rdf:resource="https://i2m.imp.fu-berlin.de/ergebnisse/"/>
+        <rdfs:comment>
+
+        </rdfs:comment>
+
+    </gi2mo:IdeaContest>
+
+    <inov:Challenge rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-ic1-tco">
+
+    </inov:Challenge>
+
+    <inov:ResearchDescription rdf:about="http://www.ideas-to-market.de/TCO/research-descriptions/detailed">
+        <gi2mo:hasIdeaContest rdf:resource="http://purl.org/innovonto/ideaContests/TCO"/>
+        <dcterms:created>2018-03-09</dcterms:created>
+
+        <dcterms:title>Detailed Research Description</dcterms:title>
+        <!-- TODO How to include the images? -->
+        <dcterms:description>
+            What is TCO?
+            Transparent conductive oxides are materials that can be used as thin coatings to make materials and surfaces
+            intelligent. They are transparent, conductive and flexible.
+
+            What is the function?
+
+            TCO coatings transform surfaces from objects and rooms into conductive and therefore interactive and
+            touch-sensitive surfaces. Due to its transparency the original look and texture of surfaces is not changed.
+
+            How can it be used?
+
+            With TCO ink widely differing materials and objects can get coated, such as:
+            - Temperature-sensitive materials such as plastic foils
+            - Three-dimensional molded geometries
+            - Complex geometries
+            - Small and thin objects
+            - large surfaces
+            - flexible materials
+
+            Where is it already used?
+
+            TCO coatings have versatile use cases such as smart labels, smart watches, intelligent textiles and
+            instruments. For manufacturing, TCO ink is spread out over large areas of plastic foil, paper, glass or
+            textiles, resulting in extremely thin and transparent electronic components.
+
+            Transparent conductive oxides are used to manufacture displays and touch screens. With TCO ink transparent
+            electrodes are printed on to plastic foil. The flexibility allows for use in flexible displays and touch
+            screens.
+
+            TCO can be used as coatings for electrochromic devices such as Smart Windows, sun roofs, rearview mirrors,
+            temperature-regulating windows in buildings or UV protection
+
+            How is it made?
+
+            In the process of making TCO coatings and patterns, TCO ink is used. The TCO ink is made out of
+            Indium-Tin-Oxide (ITO) nanoparticles with an average size of 30 nanometers. ITO particles are dispersed in a
+            solvent by using a surfactant. The dispersion is mixed with a binder and a photo initiator before printing.
+            The ink can be applied as coatings or patterns by so called wet chemical methods, as e.g. printing,
+            dip-coating and spray coating in a single step. Afterwards the printed films are hardened under
+            UV-irradiation at low temperatures under 130°C.
+
+            With roll-to-roll production (R2R), plastic and metal foils can be imprinted in a fast and cost-efficient
+            way. It starts with a roll of a flexible material that is re-reeled after the process to create an output
+            roll. The R2R-process is cost-efficient with low material consumption and can use conventional printing
+            processes like gravure and Inkjet printing with low temperature.
+
+            What are the advantages for manufacutring?
+
+            In contrast to conventional manufactruring processes (e.g. sputter) of TCO coatings, the coating with TCO
+            ink can be made in one single process step. Such production times and manufacturing costs can be reduced.
+        </dcterms:description>
+    </inov:ResearchDescription>
+</rdf:RDF>

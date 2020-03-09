@@ -1,0 +1,165 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:gi2mo="http://purl.org/gi2mo/ns#"
+         xmlns:oid="http://purl.org/innovonto/legacy/types#"
+         xmlns:inov="http://purl.org/innovonto/types#">
+
+    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/1af09b12-0e21-4784-bd25-8628a89bb9d3">
+        <gi2mo:minMaxRating rdf:parseType="Resource">
+            <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4</gi2mo:ratingValue>
+            <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5</gi2mo:maxRatingValue>
+            <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1</gi2mo:minRatingValue>
+            <gi2mo:hasCreator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/edb3b325-a2cf-4998-b37c-79885ae50dbc"/>
+            <dcterms:description>Novelty of the idea</dcterms:description>
+        </gi2mo:minMaxRating>
+        <dcterms:title>Smart fridge</dcterms:title>
+        <gi2mo:minMaxRating rdf:parseType="Resource">
+            <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4</gi2mo:ratingValue>
+            <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5</gi2mo:maxRatingValue>
+            <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1</gi2mo:minRatingValue>
+            <gi2mo:hasCreator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/edb3b325-a2cf-4998-b37c-79885ae50dbc"/>
+            <dcterms:description>
+                If you could buy such a product, how likely would you do so?
+            </dcterms:description>
+        </gi2mo:minMaxRating>
+        <rdfs:seeAlso>http://purl.org/innovonto/i2m-legacy/139</rdfs:seeAlso>
+        <inov:hasAnnotation>
+            <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/3042">
+                <inov:hasResourceCandidate>
+                    <inov:ResourceCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/resourceCandidates/3042">
+                        <inov:hasLinkedResource rdf:resource="http://dbpedia.org/resource/Refrigerator"/>
+                        <inov:text>fridge</inov:text>
+                    </inov:ResourceCandidate>
+                </inov:hasResourceCandidate>
+                <inov:annotationState>approved</inov:annotationState>
+            </inov:AnnotationCandidate>
+        </inov:hasAnnotation>
+        <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+        <inov:hasAnnotation>
+            <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/3046">
+                <inov:hasResourceCandidate>
+                    <inov:ResourceCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/resourceCandidates/3046">
+                        <inov:hasLinkedResource rdf:resource="http://dbpedia.org/resource/Calendar_date"/>
+                        <inov:text>dates</inov:text>
+                    </inov:ResourceCandidate>
+                </inov:hasResourceCandidate>
+                <inov:annotationState>approved</inov:annotationState>
+            </inov:AnnotationCandidate>
+        </inov:hasAnnotation>
+        <gi2mo:content>
+            TCO is covering the fridge door, giving information about expiry dates, contents, use of energy, temperature and other useful things.
+        </gi2mo:content>
+        <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/In+which+of+the+following+areas+can+the+idea+be+applied%3F"/>
+        <inov:textualRefinement rdf:parseType="Resource">
+            <gi2mo:content>
+                less food waste, less energy costs, in nursery information about medicines
+            </gi2mo:content>
+            <dcterms:description>Which problem does the idea solve?</dcterms:description>
+        </inov:textualRefinement>
+        <inov:hasAnnotation>
+            <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/3044">
+                <inov:hasResourceCandidate>
+                    <inov:ResourceCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/resourceCandidates/3044">
+                        <inov:hasLinkedResource rdf:resource="http://dbpedia.org/resource/Information"/>
+                        <inov:text>information</inov:text>
+                    </inov:ResourceCandidate>
+                </inov:hasResourceCandidate>
+                <inov:annotationState>approved</inov:annotationState>
+            </inov:AnnotationCandidate>
+        </inov:hasAnnotation>
+        <inov:challenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-ic1-tco"/>
+        <gi2mo:minMaxRating rdf:parseType="Resource">
+            <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2</gi2mo:ratingValue>
+            <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5</gi2mo:maxRatingValue>
+            <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1</gi2mo:minRatingValue>
+            <gi2mo:hasCreator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/e460b5ac-9860-41dc-b818-604d3de7946b"/>
+            <dcterms:description>
+                If you could buy such a product, how likely would you do so?
+            </dcterms:description>
+        </gi2mo:minMaxRating>
+        <gi2mo:textualReview rdf:parseType="Resource">
+            <gi2mo:content>Additional value is low</gi2mo:content>
+            <gi2mo:hasCreator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/e460b5ac-9860-41dc-b818-604d3de7946b"/>
+            <dcterms:description>Do you have any other comments on this idea?</dcterms:description>
+        </gi2mo:textualReview>
+        <gi2mo:minMaxRating rdf:parseType="Resource">
+            <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3</gi2mo:ratingValue>
+            <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5</gi2mo:maxRatingValue>
+            <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1</gi2mo:minRatingValue>
+            <gi2mo:hasCreator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/e460b5ac-9860-41dc-b818-604d3de7946b"/>
+            <dcterms:description>Elaboration of the idea</dcterms:description>
+        </gi2mo:minMaxRating>
+        <dcterms:created>2018-05-27T12:04Z</dcterms:created>
+        <inov:hasAnnotation>
+            <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/3045">
+                <inov:hasResourceCandidate>
+                    <inov:ResourceCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/resourceCandidates/3045">
+                        <inov:hasLinkedResource rdf:resource="http://dbpedia.org/resource/Shelf_life"/>
+                        <inov:text>expiry</inov:text>
+                    </inov:ResourceCandidate>
+                </inov:hasResourceCandidate>
+                <inov:annotationState>approved</inov:annotationState>
+            </inov:AnnotationCandidate>
+        </inov:hasAnnotation>
+        <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Who+is+using+the+idea%3F"/>
+        <gi2mo:minMaxRating rdf:parseType="Resource">
+            <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4</gi2mo:ratingValue>
+            <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5</gi2mo:maxRatingValue>
+            <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1</gi2mo:minRatingValue>
+            <gi2mo:hasCreator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/e460b5ac-9860-41dc-b818-604d3de7946b"/>
+            <dcterms:description>Feasibility of the idea</dcterms:description>
+        </gi2mo:minMaxRating>
+        <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/OntoideaLegacyAppAc1"/>
+        <gi2mo:minMaxRating rdf:parseType="Resource">
+            <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4</gi2mo:ratingValue>
+            <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5</gi2mo:maxRatingValue>
+            <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1</gi2mo:minRatingValue>
+            <gi2mo:hasCreator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/edb3b325-a2cf-4998-b37c-79885ae50dbc"/>
+            <dcterms:description>Elaboration of the idea</dcterms:description>
+        </gi2mo:minMaxRating>
+        <inov:hasAnnotation>
+            <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/3043">
+                <inov:hasResourceCandidate>
+                    <inov:ResourceCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/resourceCandidates/3043">
+                        <inov:hasLinkedResource rdf:resource="http://dbpedia.org/resource/Door"/>
+                        <inov:text>door</inov:text>
+                    </inov:ResourceCandidate>
+                </inov:hasResourceCandidate>
+                <inov:annotationState>approved</inov:annotationState>
+            </inov:AnnotationCandidate>
+        </inov:hasAnnotation>
+        <gi2mo:minMaxRating rdf:parseType="Resource">
+            <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3</gi2mo:ratingValue>
+            <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5</gi2mo:maxRatingValue>
+            <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1</gi2mo:minRatingValue>
+            <gi2mo:hasCreator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/edb3b325-a2cf-4998-b37c-79885ae50dbc"/>
+            <dcterms:description>Feasibility of the idea</dcterms:description>
+        </gi2mo:minMaxRating>
+        <gi2mo:minMaxRating rdf:parseType="Resource">
+            <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2</gi2mo:ratingValue>
+            <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5</gi2mo:maxRatingValue>
+            <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1</gi2mo:minRatingValue>
+            <gi2mo:hasCreator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/e460b5ac-9860-41dc-b818-604d3de7946b"/>
+            <dcterms:description>Value of the idea</dcterms:description>
+        </gi2mo:minMaxRating>
+        <gi2mo:minMaxRating rdf:parseType="Resource">
+            <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2</gi2mo:ratingValue>
+            <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5</gi2mo:maxRatingValue>
+            <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1</gi2mo:minRatingValue>
+            <gi2mo:hasCreator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/e460b5ac-9860-41dc-b818-604d3de7946b"/>
+            <dcterms:description>Novelty of the idea</dcterms:description>
+        </gi2mo:minMaxRating>
+        <inov:icon>/media/tco/icons/139.png</inov:icon>
+        <gi2mo:minMaxRating rdf:parseType="Resource">
+            <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4</gi2mo:ratingValue>
+            <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5</gi2mo:maxRatingValue>
+            <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1</gi2mo:minRatingValue>
+            <gi2mo:hasCreator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/edb3b325-a2cf-4998-b37c-79885ae50dbc"/>
+            <dcterms:description>Value of the idea</dcterms:description>
+        </gi2mo:minMaxRating>
+        <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/COMPLETE"/>
+        <gi2mo:hasCreator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/d07f252b-fd89-47d3-901a-8bdb6fa32f57"/>
+    </gi2mo:Idea>
+</rdf:RDF>
+
