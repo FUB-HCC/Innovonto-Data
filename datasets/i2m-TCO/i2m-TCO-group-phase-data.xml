@@ -1,0 +1,884 @@
+<rdf:RDF
+        xmlns:dcterms="http://purl.org/dc/terms/"
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:inov="http://purl.org/innovonto/types/#"
+        xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+        xmlns:gi2mo="http://purl.org/gi2mo/ns#"
+        xmlns:oid="http://purl.org/innovonto/legacy/types#">
+    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/8a1eb223-4c95-4cda-9b01-0980f088303a">
+        <oid:filteredInGroupPhase>true</oid:filteredInGroupPhase>
+    </gi2mo:Idea>
+    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/dbb4089a-66c0-45a2-a269-50a3db55ed1e">
+        <oid:filteredInGroupPhase>true</oid:filteredInGroupPhase>
+    </gi2mo:Idea>
+    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/77e4b892-e454-4502-99e7-aa5be55ea427">
+        <oid:filteredInGroupPhase>false</oid:filteredInGroupPhase>
+    </gi2mo:Idea>
+    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/1cd47321-20e3-439e-b765-ad5ff8d5ac45">
+        <oid:filteredInGroupPhase>true</oid:filteredInGroupPhase>
+    </gi2mo:Idea>
+    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/347a7a4e-54b0-45b7-8479-ae7701b0434b">
+        <oid:filteredInGroupPhase>true</oid:filteredInGroupPhase>
+    </gi2mo:Idea>
+    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/80257178-6d76-430e-8f3b-133137768d0f">
+        <oid:filteredInGroupPhase>true</oid:filteredInGroupPhase>
+    </gi2mo:Idea>
+    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/951432ae-bb35-473e-8f26-0db2e6c0bdba">
+        <oid:filteredInGroupPhase>true</oid:filteredInGroupPhase>
+    </gi2mo:Idea>
+    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/0b19157e-d37c-4a45-ac82-4ce98d663d2d">
+        <oid:filteredInGroupPhase>true</oid:filteredInGroupPhase>
+    </gi2mo:Idea>
+    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/d40324a8-44a6-428e-b1de-74b7503f0bac">
+        <oid:filteredInGroupPhase>true</oid:filteredInGroupPhase>
+    </gi2mo:Idea>
+    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/dcf54d53-cd3d-4ede-aaba-b8470bee7377">
+        <oid:filteredInGroupPhase>true</oid:filteredInGroupPhase>
+    </gi2mo:Idea>
+    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/e26f54b9-d5dd-4c66-93fd-fbaf263b2440">
+        <oid:filteredInGroupPhase>true</oid:filteredInGroupPhase>
+    </gi2mo:Idea>
+    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/a4dc741a-ad3d-4c2e-8178-680fc73ca008">
+        <oid:filteredInGroupPhase>true</oid:filteredInGroupPhase>
+    </gi2mo:Idea>
+    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/2be4e523-b905-435e-ac0a-3e7c88cde5cd">
+        <oid:filteredInGroupPhase>false</oid:filteredInGroupPhase>
+    </gi2mo:Idea>
+    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/5374100c-e1c4-4db2-95a5-186d548e127c">
+        <oid:filteredInGroupPhase>false</oid:filteredInGroupPhase>
+    </gi2mo:Idea>
+    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/92d6d97d-1134-46e8-9cb0-7b17b3d1d3d6">
+        <oid:filteredInGroupPhase>true</oid:filteredInGroupPhase>
+    </gi2mo:Idea>
+    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/f0f0ba3c-b5e8-46d6-806f-88ec74535662">
+        <oid:filteredInGroupPhase>false</oid:filteredInGroupPhase>
+    </gi2mo:Idea>
+    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/7b0cc4df-5554-43b4-9270-4d34c27c7007">
+        <oid:filteredInGroupPhase>true</oid:filteredInGroupPhase>
+    </gi2mo:Idea>
+    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/43ed15f7-94ca-480b-94d7-66623adb43a9">
+        <oid:filteredInGroupPhase>false</oid:filteredInGroupPhase>
+    </gi2mo:Idea>
+    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/8f80869a-7145-4f0e-b9cf-62cf623c92a2">
+        <oid:filteredInGroupPhase>true</oid:filteredInGroupPhase>
+    </gi2mo:Idea>
+    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/2c34bff0-aa29-4909-9af1-faac59c60762">
+        <oid:filteredInGroupPhase>true</oid:filteredInGroupPhase>
+    </gi2mo:Idea>
+    <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/c18f7481-d266-411c-bda4-f9cc8046c09b">
+        <inov:isCreatorOf>
+            <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/1a57877d-861d-4ac9-a347-80b3f4672d41">
+                <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/c18f7481-d266-411c-bda4-f9cc8046c09b"/>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Einfache Anzeige für jeden Endverbraucher, keine technische Ausbildung nötig</oid:contentGerman>
+                        <dcterms:description>What are the strengths of your idea?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Einfache Überprüfung für Konsumenten, ob Lebensmittel und Medikamente dienrichtige Temperatur haben. </oid:contentGerman>
+                        <dcterms:description>What effects do you expect your idea to have?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Einfache optische Anzeige von parametern ohne zusätzliche technische Geräte. </oid:contentGerman>
+                        <dcterms:description>How is the problem you are solving solved?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/175-5"/>
+                <inov:inspiredBy>
+                    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/e9077173-567f-49cf-979a-0a361aa08cd8">
+                        <oid:filteredInGroupPhase>false</oid:filteredInGroupPhase>
+                    </gi2mo:Idea>
+                </inov:inspiredBy>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Preis, Zuverlässigkeit</oid:contentGerman>
+                        <dcterms:description>What problems do you expect your idea to have?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Kostendruck bei Lebensmitteln, bei pharmazeutischen Produkten muss Fälschungssicherheit gegeben sein.</oid:contentGerman>
+                        <dcterms:description>What are the weaknesses of your idea?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <gi2mo:hasReview>
+                    <gi2mo:MinMaxRating>
+                        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+                        >2.5</gi2mo:ratingValue>
+                        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+                        >5.0</gi2mo:maxRatingValue>
+                        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+                        >1.0</gi2mo:minRatingValue>
+                        <dcterms:title>Group Phase Rating</dcterms:title>
+                    </gi2mo:MinMaxRating>
+                </gi2mo:hasReview>
+                <dcterms:created>2018-06-20T18:00Z</dcterms:created>
+                <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Direkte und unsichtbare Integration von Temperatursensoren in jedes Objekt.</oid:contentGerman>
+                        <dcterms:description>What's new in your idea?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Anwendungen auch im Sichehreitsbereich, ob eine kritische Temperatur überschritten wurde.</oid:contentGerman>
+                        <dcterms:description>What goals idea to have?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <gi2mo:content>Use TCO coating as temperature sensitive label (i.e. bottle lable for wine to indicate right temperature for consumption - just to highlight one use case) - many more cases in mind dependant on cost and sensitivity</gi2mo:content>
+                <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/TCO-Group-Phase"/>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Connaisseure, Ärzte, ...</oid:contentGerman>
+                        <dcterms:description>What is the intended target group for your idea?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <oid:status>
+                    <oid:IdeaStatus rdf:about="http://purl.org/innovonto/i2m-legacy/status/GROUP_PHASE_IDEA"/>
+                </oid:status>
+                <oid:enhancedInGroupPhase>true</oid:enhancedInGroupPhase>
+            </gi2mo:Idea>
+        </inov:isCreatorOf>
+        <inov:isCreatorOf>
+            <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/b6ec6bdf-1d0e-4338-b5d7-394398332521">
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Integration der Sensoren in flexible Pflaster</oid:contentGerman>
+                        <dcterms:description>How is the problem you are solving solved?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/GROUP_PHASE_IDEA"/>
+                <gi2mo:hasReview>
+                    <gi2mo:MinMaxRating>
+                        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+                        >4.833333333333333</gi2mo:ratingValue>
+                        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+                        >5.0</gi2mo:maxRatingValue>
+                        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+                        >1.0</gi2mo:minRatingValue>
+                        <dcterms:title>Group Phase Rating</dcterms:title>
+                    </gi2mo:MinMaxRating>
+                </gi2mo:hasReview>
+                <inov:inspiredBy>
+                    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/2abf6994-045d-4630-87b5-33420a7fe844">
+                        <oid:filteredInGroupPhase>false</oid:filteredInGroupPhase>
+                    </gi2mo:Idea>
+                </inov:inspiredBy>
+                <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/c18f7481-d266-411c-bda4-f9cc8046c09b"/>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Sportler, Patienten, selbstoptimierer</oid:contentGerman>
+                        <dcterms:description>What is the intended target group for your idea?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+                <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/180-5"/>
+                <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+                <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/TCO-Group-Phase"/>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">TCO alleine ermöglicht die Funktion nicht. Silberleitlack wäre evtl. schon ausreichend. </oid:contentGerman>
+                        <dcterms:description>What are the weaknesses of your idea?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Erfassen von Vitalparametern mit komfortabel tragbarer Elektronik </oid:contentGerman>
+                        <dcterms:description>What's new in your idea?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <dcterms:created>2018-06-20T18:00Z</dcterms:created>
+                <gi2mo:content>TCO Stickers monitor heartbeat, body temperature and other health factors directly on your skin.</gi2mo:content>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Flexible, tragbare Elektronik zur Messung von Gesundheit und Fitnessdaten.</oid:contentGerman>
+                        <dcterms:description>Describe your vision for the idea.</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <oid:enhancedInGroupPhase>true</oid:enhancedInGroupPhase>
+            </gi2mo:Idea>
+        </inov:isCreatorOf>
+        <inov:isCreatorOf>
+            <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/bbcff208-14c8-450c-a161-0d9cb9dfa28f">
+                <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+                <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/c18f7481-d266-411c-bda4-f9cc8046c09b"/>
+                <oid:enhancedInGroupPhase>false</oid:enhancedInGroupPhase>
+                <dcterms:created>2018-06-20T18:00Z</dcterms:created>
+                <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/TCO-Group-Phase"/>
+                <gi2mo:content>an invisible sticker could be attached to any surface in your home and connects via wifi to a „smart-home-hub“ it would make preexisting „non-smart“ objects like doorhandles and light switches „smart“ when combined with a certain behavior. &#xD;
+                    example:if a window is opened at a certain temperature the air-condition reacts and stops heating  - cause not every part of a system has to be able to react.</gi2mo:content>
+                <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/161-5"/>
+                <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/GROUP_PHASE_IDEA"/>
+                <dcterms:title>interaktive sticker</dcterms:title>
+                <inov:inspiredBy>
+                    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/fa48b051-a6b7-4a1a-8657-1519e50e96c9">
+                        <oid:filteredInGroupPhase>false</oid:filteredInGroupPhase>
+                    </gi2mo:Idea>
+                </inov:inspiredBy>
+                <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+            </gi2mo:Idea>
+        </inov:isCreatorOf>
+        <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+        <inov:isCreatorOf>
+            <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/573ab11a-d2b4-4fea-8ecb-883374ab46e5">
+                <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/c18f7481-d266-411c-bda4-f9cc8046c09b"/>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Eine Sonnenbrille kann man schnell absetzen, wenn man zB in einen Tunnel fährt.</oid:contentGerman>
+                        <dcterms:description>What are the weaknesses of your idea?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <oid:enhancedInGroupPhase>true</oid:enhancedInGroupPhase>
+                <inov:inspiredBy>
+                    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/acc89470-bce7-4c4a-8501-f1b272eec103">
+                        <oid:filteredInGroupPhase>false</oid:filteredInGroupPhase>
+                    </gi2mo:Idea>
+                </inov:inspiredBy>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Unauffälliger als eine Sonnenbrille </oid:contentGerman>
+                        <dcterms:description>What are the strengths of your idea?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <dcterms:created>2018-06-20T18:00Z</dcterms:created>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Verändertes Absorptionsverhalten der Kontaktlinse</oid:contentGerman>
+                        <dcterms:description>How is the problem you are solving solved?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <gi2mo:hasReview>
+                    <gi2mo:MinMaxRating>
+                        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+                        >2.3333333333333335</gi2mo:ratingValue>
+                        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+                        >5.0</gi2mo:maxRatingValue>
+                        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+                        >1.0</gi2mo:minRatingValue>
+                        <dcterms:title>Group Phase Rating</dcterms:title>
+                    </gi2mo:MinMaxRating>
+                </gi2mo:hasReview>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Tragen des Sonnenschutzes direkt auf den Augen </oid:contentGerman>
+                        <dcterms:description>How does your idea work?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Nie wieder die Sonnenbrille vergessen, kein verrutschen der Brille,</oid:contentGerman>
+                        <dcterms:description>What makes your idea better than existing solutions?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/GROUP_PHASE_IDEA"/>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Wanderer, Sportler, Senioren </oid:contentGerman>
+                        <dcterms:description>What is the intended target group for your idea?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <gi2mo:content>My idea already exists for sun-glasses but you could transfere it to contact lenses so that the surfaces darkens automatically when exposed to sunlight.</gi2mo:content>
+                <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/TCO-Group-Phase"/>
+                <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/167-5"/>
+                <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Einfaches Verfügbarmachen von Sonnenschutz, ohne eine zusätzliche Sonnenbrille mitzutragen. Senioren, die oft empfindliche Augen haben, brauchen keine Brille mit extra seitenschutz </oid:contentGerman>
+                        <dcterms:description>Describe your vision for the idea.</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+            </gi2mo:Idea>
+        </inov:isCreatorOf>
+        <inov:isCreatorOf>
+            <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/9f568478-9c93-418a-8e42-9b3833015ccb">
+                <dcterms:created>2018-06-20T18:00Z</dcterms:created>
+                <inov:inspiredBy>
+                    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/f65ca10d-bcac-46b4-b505-5fc21dff7f5d">
+                        <oid:filteredInGroupPhase>false</oid:filteredInGroupPhase>
+                    </gi2mo:Idea>
+                </inov:inspiredBy>
+                <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/TCO-Group-Phase"/>
+                <oid:enhancedInGroupPhase>false</oid:enhancedInGroupPhase>
+                <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+                <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/GROUP_PHASE_IDEA"/>
+                <dcterms:title>material stress</dcterms:title>
+                <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+                <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/c18f7481-d266-411c-bda4-f9cc8046c09b"/>
+                <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/140-5"/>
+                <gi2mo:content>Transparent coating applied by spraying or as adhesive mat. The layer reacts on different impacts (mechanical micro-disruption, temperature, vibration, chemicals, ...) and indicates the affected area by changing from transparant to a highly visible color. Could be used for sensitive parts like wings of planes or important elements of a bridge.</gi2mo:content>
+            </gi2mo:Idea>
+        </inov:isCreatorOf>
+        <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+        <oid:role>ROLE_GROUP_PHASE_PARTICIPANT</oid:role>
+        <inov:isCreatorOf>
+            <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/db63d722-47b8-4683-af74-efc7cefb4ee4">
+                <dcterms:title>Digital Post-its</dcterms:title>
+                <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/TCO-Group-Phase"/>
+                <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/GROUP_PHASE_IDEA"/>
+                <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+                <dcterms:created>2018-06-20T18:00Z</dcterms:created>
+                <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/162-5"/>
+                <inov:inspiredBy>
+                    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/94f546a8-abb1-4f0c-97ec-d68c12c152b5">
+                        <oid:filteredInGroupPhase>false</oid:filteredInGroupPhase>
+                    </gi2mo:Idea>
+                </inov:inspiredBy>
+                <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/c18f7481-d266-411c-bda4-f9cc8046c09b"/>
+                <oid:enhancedInGroupPhase>false</oid:enhancedInGroupPhase>
+                <gi2mo:content>Use TCO als a small flexible transparent display you could attach like a post-it onto a flip-cart to show video content etc.</gi2mo:content>
+                <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+            </gi2mo:Idea>
+        </inov:isCreatorOf>
+    </inov:Ideator>
+    <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/b2214b43-dc2a-4057-8854-fbf2a725d49c">
+        <inov:isCreatorOf>
+            <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/2100eae2-1372-4b52-8cbe-bfcf816217ff">
+                <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/b2214b43-dc2a-4057-8854-fbf2a725d49c"/>
+                <gi2mo:content>To monitor the vital functions and photosynthesis of trees in cities or special plants you could place a transparent tag with TCO-circuits directly on an leave of a certain plant.
+
+                    Plantform – Plattform für alles Stakeholder (Agrarimdustrie, Community, Stadtversorgung)</gi2mo:content>
+                <oid:enhancedInGroupPhase>true</oid:enhancedInGroupPhase>
+                <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/GROUP_PHASE_IDEA"/>
+                <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/178-4"/>
+                <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Blätter fallen ab, Outdoor-Tauglichkeit der Technologie, woher kommt die Energie?</oid:contentGerman>
+                        <dcterms:description>What are the weaknesses of your idea?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">TCO auf einem „Referenzblatt“, (evtl. am Stamm) bietet
+                            ——&gt; Ring um Stamm
+
+
+                            Verknüpfung mit GIS</oid:contentGerman>
+                        <dcterms:description>How is the problem you are solving solved?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/TCO-Group-Phase"/>
+                <inov:inspiredBy>
+                    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/9f1394cb-df11-4be1-9233-a64b6f82ffde">
+                        <oid:filteredInGroupPhase>false</oid:filteredInGroupPhase>
+                    </gi2mo:Idea>
+                </inov:inspiredBy>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Für Industrie und unterschiedliche Arten von Endnutzern (großer Markt)
+
+                            Langzeitdaten erheben, schnell intervenieren
+                            Predictive Maintenance für Bäume, insbesondere in trockenen Gegendem
+
+                            Community und Nachbarschaften stärken
+
+                            Mensch-Natur-Technik Netzwerke, Crowd-Gardening </oid:contentGerman>
+                        <dcterms:description>What are the strengths of your idea?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Bisher Analysen über indirekte Verfahren
+
+                            Weniger Abhängigkeit von „intuitivem Wissen“</oid:contentGerman>
+                        <dcterms:description>What's new in your idea?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <dcterms:created>2018-06-20T18:00Z</dcterms:created>
+                <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+            </gi2mo:Idea>
+        </inov:isCreatorOf>
+        <inov:isCreatorOf>
+            <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/26758245-e91a-4557-8397-57cb48b8e34d">
+                <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Security with regard to the freshness of products
+                            Simple to understand highly efficient </oid:contentGerman>
+                        <dcterms:description>What effects do you expect your idea to have?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">TCO - Beschichtung macht „einfache Oberflächen“ an einer kleinen ausgewählten Stelle smart </oid:contentGerman>
+                        <dcterms:description>How is the problem you are solving solved?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/GROUP_PHASE_IDEA"/>
+                <gi2mo:content>Use TCO coating as temperature sensitive label (i.e. bottle lable for wine to indicate right temperature for consumption - just to highlight one use case) - many more cases in mind dependant on cost and sensitivity</gi2mo:content>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Kostenintensität bei Massenproduktion (Wiederverwendbarkeit?)</oid:contentGerman>
+                        <dcterms:description>What problems do you expect your idea to have?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+                <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/175-4"/>
+                <inov:inspiredBy rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/e9077173-567f-49cf-979a-0a361aa08cd8"/>
+                <oid:enhancedInGroupPhase>true</oid:enhancedInGroupPhase>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Kosten? Insbesondere bei hohen Stückzahlen?</oid:contentGerman>
+                        <dcterms:description>What are the weaknesses of your idea?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Many use cases, hoher Bedarf bei Endkunden</oid:contentGerman>
+                        <dcterms:description>What are the strengths of your idea?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/b2214b43-dc2a-4057-8854-fbf2a725d49c"/>
+                <dcterms:created>2018-06-20T18:00Z</dcterms:created>
+                <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/TCO-Group-Phase"/>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Mehr Sicherheit in Ernährung
+                            Mehr Transparenz für Produktionsprozesse </oid:contentGerman>
+                        <dcterms:description>What goals idea to have?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">günstige, biegsame, Sensorik zur Überwachung Temperatur-sensitiver Logistik (Nahrungsmittel / Organe), verlässliches Gütesiegel </oid:contentGerman>
+                        <dcterms:description>What's new in your idea?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+            </gi2mo:Idea>
+        </inov:isCreatorOf>
+        <inov:isCreatorOf>
+            <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/d7395f48-d0c3-4c60-aa3f-91c0777f2c30">
+                <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/TCO-Group-Phase"/>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Direkter Nutzen für Patienten / Kunden aber auch Unternehmen (Positionierung)</oid:contentGerman>
+                        <dcterms:description>What are the strengths of your idea?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/168-4"/>
+                <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/GROUP_PHASE_IDEA"/>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">TCO Beschichtung als direkt–Feedback </oid:contentGerman>
+                        <dcterms:description>How is the problem you are solving solved?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+                <gi2mo:content>This tag could be attached to doorhandles, water faucets, toilet seats and other objects in public toilettes to control and remind the cleaning personal to disinfect in a appropriate interval.
+
+                    could be attached to existing facilities…</gi2mo:content>
+                <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+                <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/b2214b43-dc2a-4057-8854-fbf2a725d49c"/>
+                <dcterms:created>2018-06-20T18:00Z</dcterms:created>
+                <oid:enhancedInGroupPhase>true</oid:enhancedInGroupPhase>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Schnelle Sichtbarkeit von Reinigungsbedarf, ermöglicht Reinigen nach Bedarf (und damit Zeitersparnis)</oid:contentGerman>
+                        <dcterms:description>What's new in your idea?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <inov:inspiredBy>
+                    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/810bda91-8068-48ee-83e3-ef2b6a54a01e">
+                        <oid:filteredInGroupPhase>false</oid:filteredInGroupPhase>
+                    </gi2mo:Idea>
+                </inov:inspiredBy>
+            </gi2mo:Idea>
+        </inov:isCreatorOf>
+        <oid:role>ROLE_GROUP_PHASE_PARTICIPANT</oid:role>
+        <inov:isCreatorOf>
+            <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/42ee90a8-fa60-4ed2-9cff-06f5ee1fa004">
+                <gi2mo:content>My idea already exists for sun-glasses but you could transfere it to contact lenses so that the surfaces darkens automatically when exposed to sunlight.</gi2mo:content>
+                <oid:enhancedInGroupPhase>false</oid:enhancedInGroupPhase>
+                <dcterms:title>sun contact lenses automatische Sonnenlinse</dcterms:title>
+                <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/b2214b43-dc2a-4057-8854-fbf2a725d49c"/>
+                <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/TCO-Group-Phase"/>
+                <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/GROUP_PHASE_IDEA"/>
+                <dcterms:created>2018-06-20T18:00Z</dcterms:created>
+                <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+                <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+                <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/167-4"/>
+                <inov:inspiredBy rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/acc89470-bce7-4c4a-8501-f1b272eec103"/>
+            </gi2mo:Idea>
+        </inov:isCreatorOf>
+        <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+        <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+    </inov:Ideator>
+    <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/fd21d8c2-da98-45f5-bfcd-0d199b6a2e61">
+        <inov:isCreatorOf>
+            <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/4eef5cd4-4e8d-499e-8830-2bf453960961">
+                <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/180-2"/>
+                <dcterms:created>2018-06-20T18:00Z</dcterms:created>
+                <gi2mo:content>TCO Stickers monitor heartbeat, body temperature and other health factors directly on your skin.</gi2mo:content>
+                <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+                <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/GROUP_PHASE_IDEA"/>
+                <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/fd21d8c2-da98-45f5-bfcd-0d199b6a2e61"/>
+                <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+                <inov:inspiredBy rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/2abf6994-045d-4630-87b5-33420a7fe844"/>
+                <oid:enhancedInGroupPhase>true</oid:enhancedInGroupPhase>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Sportaffine, Senioren, Jeder</oid:contentGerman>
+                        <dcterms:description>What is the intended target group for your idea?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Wohlfühlgefühl inkl digitalen Therapeut und bei Senioren Monitoring Gesundheitszustand</oid:contentGerman>
+                        <dcterms:description>Describe your vision for the idea.</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/TCO-Group-Phase"/>
+            </gi2mo:Idea>
+        </inov:isCreatorOf>
+        <inov:isCreatorOf>
+            <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/d968f7ee-2a03-467d-84dd-d466e9eb9e36">
+                <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/GROUP_PHASE_IDEA"/>
+                <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/171-2"/>
+                <dcterms:title>active wallpaper</dcterms:title>
+                <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+                <dcterms:created>2018-06-20T18:00Z</dcterms:created>
+                <inov:inspiredBy>
+                    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/20696367-ac5d-4ce5-b669-4f4d8cd181bb">
+                        <oid:filteredInGroupPhase>false</oid:filteredInGroupPhase>
+                    </gi2mo:Idea>
+                </inov:inspiredBy>
+                <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+                <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/fd21d8c2-da98-45f5-bfcd-0d199b6a2e61"/>
+                <gi2mo:content>a TCO wallpaper could add more functions to a normal wall and could be used more like a big interface. Control your smart home, change temperature, turn on/off lights … use gestures like swiping along the wall to dimm the light , etc.</gi2mo:content>
+                <oid:enhancedInGroupPhase>false</oid:enhancedInGroupPhase>
+                <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/TCO-Group-Phase"/>
+            </gi2mo:Idea>
+        </inov:isCreatorOf>
+        <inov:isCreatorOf>
+            <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/6bd3b271-7f99-4cb5-a152-d089772c7bbd">
+                <dcterms:created>2018-06-20T18:00Z</dcterms:created>
+                <oid:enhancedInGroupPhase>true</oid:enhancedInGroupPhase>
+                <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Sauberkeit, keimfrei, mehr Qualität </oid:contentGerman>
+                        <dcterms:description>What goals idea to have?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <gi2mo:hasReview>
+                    <gi2mo:MinMaxRating>
+                        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+                        >3</gi2mo:ratingValue>
+                        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+                        >5.0</gi2mo:maxRatingValue>
+                        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+                        >1.0</gi2mo:minRatingValue>
+                        <dcterms:title>Group Phase Rating</dcterms:title>
+                    </gi2mo:MinMaxRating>
+                </gi2mo:hasReview>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Öffentliche Einrichtungen und Institutionen, Hotels, Unternehmen</oid:contentGerman>
+                        <dcterms:description>What is the intended target group for your idea?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/fd21d8c2-da98-45f5-bfcd-0d199b6a2e61"/>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Wird nicht mehr richtig gereinigt</oid:contentGerman>
+                        <dcterms:description>What problems do you expect your idea to have?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/TCO-Group-Phase"/>
+                <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/168-2"/>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">2 Anwendungsbereiche
+                            a sichtbar wenn Keime vorhanden sind bzw. Reinigung notwendig
+                            b Sprühvariante als Controlling</oid:contentGerman>
+                        <dcterms:description>How could the idea be implemented differently?</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <gi2mo:content>This tag could be attached to doorhandles, water faucets, toilet seats and other objects in public toilettes to control and remind the cleaning personal to disinfect in a appropriate interval.
+
+                    could be attached to existing facilities…</gi2mo:content>
+                <inov:inspiredBy rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/810bda91-8068-48ee-83e3-ef2b6a54a01e"/>
+                <inov:hasTextualRefinement>
+                    <inov:TextualRefinement>
+                        <oid:contentGerman xml:lang="de">Keimfrei, Sauberkeit, digitale Wächter</oid:contentGerman>
+                        <dcterms:description>Describe your vision for the idea.</dcterms:description>
+                    </inov:TextualRefinement>
+                </inov:hasTextualRefinement>
+                <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+                <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/GROUP_PHASE_IDEA"/>
+            </gi2mo:Idea>
+        </inov:isCreatorOf>
+        <inov:isCreatorOf>
+            <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/a800b492-b8f1-44f5-8bf0-e2084da8c2d5">
+                <oid:enhancedInGroupPhase>false</oid:enhancedInGroupPhase>
+                <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/161-2"/>
+                <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/TCO-Group-Phase"/>
+                <dcterms:created>2018-06-20T18:00Z</dcterms:created>
+                <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/fd21d8c2-da98-45f5-bfcd-0d199b6a2e61"/>
+                <inov:inspiredBy rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/fa48b051-a6b7-4a1a-8657-1519e50e96c9"/>
+                <dcterms:title>interaktive sticker</dcterms:title>
+                <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/GROUP_PHASE_IDEA"/>
+                <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+                <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+                <gi2mo:content>an invisible sticker could be attached to any surface in your home and connects via wifi to a „smart-home-hub“ it would make preexisting „non-smart“ objects like doorhandles and light switches „smart“ when combined with a certain behavior. &#xD;
+                    example:if a window is opened at a certain temperature the air-condition reacts and stops heating  - cause not every part of a system has to be able to react.</gi2mo:content>
+            </gi2mo:Idea>
+        </inov:isCreatorOf>
+        <oid:role>ROLE_GROUP_PHASE_PARTICIPANT</oid:role>
+        <inov:isCreatorOf>
+            <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/0c6a89dd-d035-4af7-b48b-11453cac37d5">
+                <gi2mo:content>Transparent coating applied by spraying or as adhesive mat. The layer reacts on different impacts (mechanical micro-disruption, temperature, vibration, chemicals, ...) and indicates the affected area by changing from transparant to a highly visible color. Could be used for sensitive parts like wings of planes or important elements of a bridge.</gi2mo:content>
+                <oid:enhancedInGroupPhase>false</oid:enhancedInGroupPhase>
+                <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/fd21d8c2-da98-45f5-bfcd-0d199b6a2e61"/>
+                <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/140-2"/>
+                <dcterms:title>material stress</dcterms:title>
+                <dcterms:created>2018-06-20T18:00Z</dcterms:created>
+                <inov:inspiredBy rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/f65ca10d-bcac-46b4-b505-5fc21dff7f5d"/>
+                <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/GROUP_PHASE_IDEA"/>
+                <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/TCO-Group-Phase"/>
+                <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+                <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+            </gi2mo:Idea>
+        </inov:isCreatorOf>
+        <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+        <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+    </inov:Ideator>
+    <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/dff4c404-09be-4cee-96fc-2c0cb4d41ab7">
+        <inov:isCreatorOf>
+            <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/8397751b-7a3f-4f76-bd42-1f1b488b8afe">
+                <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/TCO-Group-Phase"/>
+                <gi2mo:hasReview>
+                    <gi2mo:MinMaxRating>
+                        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+                        >3.1666666666666665</gi2mo:ratingValue>
+                        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+                        >5.0</gi2mo:maxRatingValue>
+                        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+                        >1.0</gi2mo:minRatingValue>
+                        <dcterms:title>Group Phase Rating</dcterms:title>
+                    </gi2mo:MinMaxRating>
+                </gi2mo:hasReview>
+                <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+                <dcterms:created>2018-06-20T18:00Z</dcterms:created>
+                <oid:enhancedInGroupPhase>false</oid:enhancedInGroupPhase>
+                <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+                <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/dff4c404-09be-4cee-96fc-2c0cb4d41ab7"/>
+                <dcterms:title>circuit leaves!</dcterms:title>
+                <gi2mo:content>To monitor the vital functions and photosynthesis of trees in cities or special plants you could place a transparent tag with TCO-circuits directly on an leave of a certain plant.</gi2mo:content>
+                <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/GROUP_PHASE_IDEA"/>
+                <inov:inspiredBy rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/9f1394cb-df11-4be1-9233-a64b6f82ffde"/>
+                <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/178-1"/>
+            </gi2mo:Idea>
+        </inov:isCreatorOf>
+        <inov:isCreatorOf>
+            <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/13280e58-0c66-41d7-9112-bd98419fadf2">
+                <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/dff4c404-09be-4cee-96fc-2c0cb4d41ab7"/>
+                <gi2mo:content>a TCO wallpaper could add more functions to a normal wall and could be used more like a big interface. Control your smart home, change temperature, turn on/off lights … use gestures like swiping along the wall to dimm the light , etc.</gi2mo:content>
+                <inov:inspiredBy rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/20696367-ac5d-4ce5-b669-4f4d8cd181bb"/>
+                <dcterms:created>2018-06-20T18:00Z</dcterms:created>
+                <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/TCO-Group-Phase"/>
+                <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/GROUP_PHASE_IDEA"/>
+                <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/171-1"/>
+                <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+                <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+                <dcterms:title>active wallpaper</dcterms:title>
+                <oid:enhancedInGroupPhase>false</oid:enhancedInGroupPhase>
+            </gi2mo:Idea>
+        </inov:isCreatorOf>
+        <oid:role>ROLE_GROUP_PHASE_PARTICIPANT</oid:role>
+        <inov:isCreatorOf>
+            <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/a1d66853-ff0e-4083-835e-c3835a574bf6">
+                <inov:inspiredBy rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/fa48b051-a6b7-4a1a-8657-1519e50e96c9"/>
+                <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/161-1"/>
+                <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/TCO-Group-Phase"/>
+                <gi2mo:content>an invisible sticker could be attached to any surface in your home and connects via wifi to a „smart-home-hub“ it would make preexisting „non-smart“ objects like doorhandles and light switches „smart“ when combined with a certain behavior. &#xD;
+                    example:if a window is opened at a certain temperature the air-condition reacts and stops heating  - cause not every part of a system has to be able to react.</gi2mo:content>
+                <oid:enhancedInGroupPhase>false</oid:enhancedInGroupPhase>
+                <dcterms:created>2018-06-20T18:00Z</dcterms:created>
+                <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+                <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/GROUP_PHASE_IDEA"/>
+                <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/dff4c404-09be-4cee-96fc-2c0cb4d41ab7"/>
+                <dcterms:title>interaktive sticker</dcterms:title>
+                <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+            </gi2mo:Idea>
+        </inov:isCreatorOf>
+        <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+        <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+    </inov:Ideator>
+    <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/b39bd494-1991-4403-bdde-c4728fe977ce">
+        <inov:isCreatorOf>
+            <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/b841a6e2-8294-491e-a7c3-1201e308b5ea">
+                <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+                <dcterms:created>2018-06-20T18:00Z</dcterms:created>
+                <gi2mo:hasReview>
+                    <gi2mo:MinMaxRating>
+                        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+                        >3.1666666666666665</gi2mo:ratingValue>
+                        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+                        >5.0</gi2mo:maxRatingValue>
+                        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+                        >1.0</gi2mo:minRatingValue>
+                        <dcterms:title>Group Phase Rating</dcterms:title>
+                    </gi2mo:MinMaxRating>
+                </gi2mo:hasReview>
+                <oid:enhancedInGroupPhase>false</oid:enhancedInGroupPhase>
+                <gi2mo:content>Using TCO technology for solar panel finishing in future: With TCO technology solar panel applications can be supplied with a flexible electrified surface finish, covering a wide field of use cases.</gi2mo:content>
+                <dcterms:title>SOLAR PANEL SURFACES</dcterms:title>
+                <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/b39bd494-1991-4403-bdde-c4728fe977ce"/>
+                <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+                <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/GROUP_PHASE_IDEA"/>
+                <inov:inspiredBy>
+                    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/a3994718-10c5-49ec-9e11-1a848dc7b506">
+                        <oid:filteredInGroupPhase>false</oid:filteredInGroupPhase>
+                    </gi2mo:Idea>
+                </inov:inspiredBy>
+                <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/185-3"/>
+                <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/TCO-Group-Phase"/>
+            </gi2mo:Idea>
+        </inov:isCreatorOf>
+        <inov:isCreatorOf>
+            <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/24f6fd2e-c7e1-47f1-ae98-2f97a3157d0b">
+                <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+                <oid:enhancedInGroupPhase>false</oid:enhancedInGroupPhase>
+                <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/TCO-Group-Phase"/>
+                <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/GROUP_PHASE_IDEA"/>
+                <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+                <gi2mo:content>Use TCO als a small flexible transparent display you could attach like a post-it onto a flip-cart to show video content etc.</gi2mo:content>
+                <dcterms:created>2018-06-20T18:00Z</dcterms:created>
+                <inov:inspiredBy rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/94f546a8-abb1-4f0c-97ec-d68c12c152b5"/>
+                <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/162-3"/>
+                <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/b39bd494-1991-4403-bdde-c4728fe977ce"/>
+                <dcterms:title>Digital Post-its</dcterms:title>
+            </gi2mo:Idea>
+        </inov:isCreatorOf>
+        <inov:isCreatorOf>
+            <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/fafa08d3-37e2-4288-b0b1-a81c40640cb1">
+                <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+                <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+                <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/b39bd494-1991-4403-bdde-c4728fe977ce"/>
+                <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/GROUP_PHASE_IDEA"/>
+                <gi2mo:content>an invisible sticker could be attached to any surface in your home and connects via wifi to a „smart-home-hub“ it would make preexisting „non-smart“ objects like doorhandles and light switches „smart“ when combined with a certain behavior. &#xD;
+                    example:if a window is opened at a certain temperature the air-condition reacts and stops heating  - cause not every part of a system has to be able to react.</gi2mo:content>
+                <dcterms:title>interaktive sticker</dcterms:title>
+                <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/TCO-Group-Phase"/>
+                <inov:inspiredBy rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/fa48b051-a6b7-4a1a-8657-1519e50e96c9"/>
+                <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/161-3"/>
+                <gi2mo:hasReview>
+                    <gi2mo:MinMaxRating>
+                        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+                        >3.5</gi2mo:ratingValue>
+                        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+                        >5.0</gi2mo:maxRatingValue>
+                        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+                        >1.0</gi2mo:minRatingValue>
+                        <dcterms:title>Group Phase Rating</dcterms:title>
+                    </gi2mo:MinMaxRating>
+                </gi2mo:hasReview>
+                <dcterms:created>2018-06-20T18:00Z</dcterms:created>
+                <oid:enhancedInGroupPhase>false</oid:enhancedInGroupPhase>
+            </gi2mo:Idea>
+        </inov:isCreatorOf>
+        <oid:role>ROLE_GROUP_PHASE_PARTICIPANT</oid:role>
+        <inov:isCreatorOf>
+            <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/e437dbed-abb7-48aa-bc87-55d2841b10fa">
+                <inov:inspiredBy rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/f65ca10d-bcac-46b4-b505-5fc21dff7f5d"/>
+                <oid:enhancedInGroupPhase>false</oid:enhancedInGroupPhase>
+                <dcterms:created>2018-06-20T18:00Z</dcterms:created>
+                <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/TCO-Group-Phase"/>
+                <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/b39bd494-1991-4403-bdde-c4728fe977ce"/>
+                <gi2mo:content>Transparent coating applied by spraying or as adhesive mat. The layer reacts on different impacts (mechanical micro-disruption, temperature, vibration, chemicals, ...) and indicates the affected area by changing from transparant to a highly visible color. Could be used for sensitive parts like wings of planes or important elements of a bridge.</gi2mo:content>
+                <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/140-3"/>
+                <gi2mo:hasReview>
+                    <gi2mo:MinMaxRating>
+                        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+                        >3.1666666666666665</gi2mo:ratingValue>
+                        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+                        >5.0</gi2mo:maxRatingValue>
+                        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+                        >1.0</gi2mo:minRatingValue>
+                        <dcterms:title>Group Phase Rating</dcterms:title>
+                    </gi2mo:MinMaxRating>
+                </gi2mo:hasReview>
+                <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+                <dcterms:title>material stress</dcterms:title>
+                <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/GROUP_PHASE_IDEA"/>
+                <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+            </gi2mo:Idea>
+        </inov:isCreatorOf>
+        <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+        <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+    </inov:Ideator>
+    <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/9b595459-494b-4232-a21f-fe36de4b20aa">
+        <inov:isCreatorOf>
+            <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/c4649d02-05e8-4fc3-a350-69fff0aaa3c2">
+                <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/9b595459-494b-4232-a21f-fe36de4b20aa"/>
+                <dcterms:title>circuit leaves!</dcterms:title>
+                <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/178-6"/>
+                <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/TCO-Group-Phase"/>
+                <gi2mo:content>To monitor the vital functions and photosynthesis of trees in cities or special plants you could place a transparent tag with TCO-circuits directly on an leave of a certain plant.</gi2mo:content>
+                <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+                <inov:inspiredBy rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/9f1394cb-df11-4be1-9233-a64b6f82ffde"/>
+                <oid:enhancedInGroupPhase>false</oid:enhancedInGroupPhase>
+                <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/GROUP_PHASE_IDEA"/>
+                <dcterms:created>2018-06-20T18:00Z</dcterms:created>
+                <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+            </gi2mo:Idea>
+        </inov:isCreatorOf>
+        <inov:isCreatorOf>
+            <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/66c4479f-b673-4626-81ca-6be68999a2dc">
+                <dcterms:title>Digital Post-its</dcterms:title>
+                <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/162-6"/>
+                <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/GROUP_PHASE_IDEA"/>
+                <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+                <oid:enhancedInGroupPhase>false</oid:enhancedInGroupPhase>
+                <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/9b595459-494b-4232-a21f-fe36de4b20aa"/>
+                <inov:inspiredBy rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/94f546a8-abb1-4f0c-97ec-d68c12c152b5"/>
+                <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/TCO-Group-Phase"/>
+                <dcterms:created>2018-06-20T18:00Z</dcterms:created>
+                <gi2mo:content>Use TCO als a small flexible transparent display you could attach like a post-it onto a flip-cart to show video content etc.</gi2mo:content>
+                <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+            </gi2mo:Idea>
+        </inov:isCreatorOf>
+        <inov:isCreatorOf>
+            <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/1e98c40b-d3f7-42fc-abe8-ebbaa49e7e41">
+                <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/TCO-Group-Phase"/>
+                <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+                <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/9b595459-494b-4232-a21f-fe36de4b20aa"/>
+                <gi2mo:content>an invisible sticker could be attached to any surface in your home and connects via wifi to a „smart-home-hub“ it would make preexisting „non-smart“ objects like doorhandles and light switches „smart“ when combined with a certain behavior. &#xD;
+                    example:if a window is opened at a certain temperature the air-condition reacts and stops heating  - cause not every part of a system has to be able to react.</gi2mo:content>
+                <inov:inspiredBy rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/fa48b051-a6b7-4a1a-8657-1519e50e96c9"/>
+                <dcterms:created>2018-06-20T18:00Z</dcterms:created>
+                <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/GROUP_PHASE_IDEA"/>
+                <oid:enhancedInGroupPhase>false</oid:enhancedInGroupPhase>
+                <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+                <dcterms:title>interaktive sticker</dcterms:title>
+                <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/161-6"/>
+            </gi2mo:Idea>
+        </inov:isCreatorOf>
+        <oid:role>ROLE_GROUP_PHASE_PARTICIPANT</oid:role>
+        <inov:isCreatorOf>
+            <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/81b1b59e-6591-478b-8165-13fcea6ed77c">
+                <gi2mo:content>Transparent coating applied by spraying or as adhesive mat. The layer reacts on different impacts (mechanical micro-disruption, temperature, vibration, chemicals, ...) and indicates the affected area by changing from transparant to a highly visible color. Could be used for sensitive parts like wings of planes or important elements of a bridge.</gi2mo:content>
+                <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/GROUP_PHASE_IDEA"/>
+                <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/9b595459-494b-4232-a21f-fe36de4b20aa"/>
+                <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+                <inov:inspiredBy rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/f65ca10d-bcac-46b4-b505-5fc21dff7f5d"/>
+                <dcterms:created>2018-06-20T18:00Z</dcterms:created>
+                <oid:enhancedInGroupPhase>false</oid:enhancedInGroupPhase>
+                <dcterms:title>material stress</dcterms:title>
+                <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/140-6"/>
+                <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/TCO-Group-Phase"/>
+                <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+            </gi2mo:Idea>
+        </inov:isCreatorOf>
+        <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+        <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+    </inov:Ideator>
+</rdf:RDF>

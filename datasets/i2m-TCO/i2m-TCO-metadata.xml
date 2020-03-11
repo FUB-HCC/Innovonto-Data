@@ -3,10 +3,10 @@
          xmlns:dcterms="http://purl.org/dc/terms/"
          xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
          xmlns:gi2mo="http://purl.org/gi2mo/ns#"
-         xmlns:inov="http://purl.org/innovonto/types/">
-
+         xmlns:inov="http://purl.org/innovonto/types/#">
 
     <gi2mo:IdeaContest rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO">
+        <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
         <dcterms:title>Transparent Conductive Oxides (TCO)</dcterms:title>
         <dcterms:description>In the first test phase of the project, "Transparent Conductive Oxides" (TCO) was selected
             as the technology, which was developed by the Leibniz Institute for New Materials (INM). TCO are conductive
@@ -19,21 +19,26 @@
 
         <rdfs:seeAlso
                 rdf:resource="https://i2m.imp.fu-berlin.de/ergebnisse/"/>
-        <rdfs:comment>
 
+        <rdfs:comment>
+            Explorer-Phase: 14.05.2018 - 27.05.2018
+            Elaborator-Phase: 04.06.2018 - 10.06.2018
+            Group Workshop: 20.06.2018
         </rdfs:comment>
 
     </gi2mo:IdeaContest>
 
     <inov:Challenge rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO">
-
+        <dcterms:title>Transparent Conductive Oxides: Ideas to Market Challenge Number 1</dcterms:title>
+        <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+        <inov:hasResearchDescription rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/researchDescriptions/i2m-tco-detailed"/>
     </inov:Challenge>
 
-    <inov:ResearchDescription rdf:about="http://www.ideas-to-market.de/TCO/research-descriptions/detailed">
-        <gi2mo:hasIdeaContest rdf:resource="http://purl.org/innovonto/ideaContests/i2m-TCO"/>
-        <dcterms:created>2018-03-09</dcterms:created>
+    <inov:ResearchDescription rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/researchDescriptions/i2m-tco-detailed">
+        <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
 
         <dcterms:title>Detailed Research Description</dcterms:title>
+        <dcterms:created>2018-03-09</dcterms:created>
         <!-- TODO How to include the images? -->
         <dcterms:description>
             What is TCO?

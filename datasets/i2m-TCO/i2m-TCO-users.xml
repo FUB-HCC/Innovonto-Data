@@ -1,15 +1,220 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-         xmlns:gi2mo="http://purl.org/gi2mo/ns#"
-         xmlns:oid="http://purl.org/innovonto/legacy/types#"
-         xmlns:inov="http://purl.org/innovonto/types/#">
-
-    <inov:User rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/d07f252b-fd89-47d3-901a-8bdb6fa32f57">
-        <gi2mo:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/1af09b12-0e21-4784-bd25-8628a89bb9d3" />
-
-        <oid:role>ROLE_EXPLORATOR</oid:role>
+<rdf:RDF
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:inov="http://purl.org/innovonto/types/#"
+        xmlns:oid="http://purl.org/innovonto/legacy/types#">
+    <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/720d1285-b963-4952-92af-06462563b08e">
+        <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+        <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+        <oid:role>ROLE_ELABORATOR</oid:role>
+    </inov:Ideator>
+    <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/4fa14467-7d17-4142-8384-c3b8898fbc05">
+        <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+        <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+        <oid:role>ROLE_EXPLORER</oid:role>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/bfdc4620-d860-4ab8-86ac-be1c35c88d68"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/9d1544c7-2051-4c50-8a14-de2af538b885"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/d5f0c657-384c-4b58-aa03-e1055e12a243"/>
+    </inov:Ideator>
+    <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/583fe434-db34-4e7c-9735-56c116e66f9c">
+        <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+        <inov:highestDegree>Master/Diploma</inov:highestDegree>
+        <inov:gender>female</inov:gender>
+        <oid:role>ROLE_EXPLORER</oid:role>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/9eee943f-b704-43e7-abc7-95aa189262a3"/>
+        <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/0acdd7fb-57dd-4ecd-bc8f-49912ee716ec"/>
+        <inov:nationality>German</inov:nationality>
+        <inov:occupationalGroup>Industry</inov:occupationalGroup>
+        <inov:age>24</inov:age>
+        <inov:occupation>Student but also Assistant for Marketing and Communication for IP-Commercialisation </inov:occupation>
+    </inov:Ideator>
+    <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/f0f3b9cd-644b-4035-81b5-62adf7380531">
+        <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+        <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+        <oid:role>ROLE_EXPLORER</oid:role>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/7e3f2b91-66bc-4377-b002-97d79ca10bb0"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/13df40f2-ef4b-498c-a9c5-c4a9942cdda4"/>
+    </inov:Ideator>
+    <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/91b17179-1c00-4c02-84ad-48ecd28d7413">
+        <inov:occupationalGroup>Industry</inov:occupationalGroup>
+        <inov:highestDegree>Master/Diploma</inov:highestDegree>
+        <inov:age>31</inov:age>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/37ee6da5-2a8b-4123-bc05-12c17b687a8f"/>
+        <inov:nationality>german</inov:nationality>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/5ad7a2d0-7fe1-4b8a-af83-d37d6e9cca92"/>
+        <oid:role>ROLE_EXPLORER</oid:role>
         <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
         <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
-    </inov:User>
+        <inov:gender>female</inov:gender>
+    </inov:Ideator>
+    <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/5945e835-d256-47d2-90e5-8471e34b7653">
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/1d3fbb24-07e1-41c5-b112-c59502917e93"/>
+        <inov:occupation>student</inov:occupation>
+        <oid:role>ROLE_EXPLORER</oid:role>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/894f972b-0b86-4b78-a41c-40810e0ab0e5"/>
+        <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+        <inov:nationality>german</inov:nationality>
+        <inov:gender>female</inov:gender>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/7e54fe9c-8de8-406c-ac2b-1f75b47d5d7e"/>
+        <inov:highestDegree>Bachelor</inov:highestDegree>
+        <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/b28b7c13-72c8-4775-9b17-6decf76cd4b4"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/33bd13d1-6367-4065-b017-5587ca80b749"/>
+        <inov:age>25</inov:age>
+        <inov:occupationalGroup>Academia</inov:occupationalGroup>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/90c4550e-97c9-4b0a-a5f1-8ff0a244f5ea"/>
+    </inov:Ideator>
+    <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/acf04a38-0452-41a2-aa16-8b35a9da96c7">
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/55ea193b-16f8-408d-b4c9-f820679c2aab"/>
+        <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+        <oid:role>ROLE_EXPLORER</oid:role>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/0926d8f9-b77c-4c69-b4a9-0a8ece152e0d"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/c4c3deef-509b-4343-ac87-74faf1b8816d"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/8937c092-4bbb-4f3e-b4e2-ba772f6d3398"/>
+        <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/d4b52a43-e724-482a-b322-fceb759161dc"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/a9881362-fad6-4882-b234-83567e2192c7"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/61f22dbc-93c3-48f8-8b78-bd929e70f24d"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/68de8d44-d494-40b6-b1c4-4545ff0bc2f7"/>
+    </inov:Ideator>
+    <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/f2e6cf73-37b3-4538-8478-d0126ea86301">
+        <inov:occupationalGroup>Academia</inov:occupationalGroup>
+        <inov:highestDegree>Master/Diploma</inov:highestDegree>
+        <inov:gender>male</inov:gender>
+        <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+        <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+        <oid:role>ROLE_ELABORATOR</oid:role>
+    </inov:Ideator>
+    <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/acf01ec4-79f0-4394-b411-c9568b3bac5a">
+        <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+        <inov:occupationalGroup>Industry</inov:occupationalGroup>
+        <inov:occupation>Project Engineer</inov:occupation>
+        <inov:nationality>German</inov:nationality>
+        <oid:role>ROLE_EXPLORER</oid:role>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/f65ca10d-bcac-46b4-b505-5fc21dff7f5d"/>
+        <inov:gender>male</inov:gender>
+        <inov:highestDegree>Master/Diploma</inov:highestDegree>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/967a7150-ffa3-4cf1-914f-07ded6351f4b"/>
+        <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+    </inov:Ideator>
+    <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/43f24885-e8e6-4402-8b91-bbe9741c2144">
+        <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+        <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+        <oid:role>ROLE_ELABORATOR</oid:role>
+    </inov:Ideator>
+    <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/16fbcbe8-1649-4035-ab1c-314152e8f7a4">
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/81d67bd3-9710-4254-9a32-c1b6b83c97b1"/>
+        <inov:occupationalGroup>Industry</inov:occupationalGroup>
+        <inov:gender>male</inov:gender>
+        <inov:age>53</inov:age>
+        <inov:occupation>Management Consultant</inov:occupation>
+        <inov:nationality>German</inov:nationality>
+        <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+        <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+        <inov:highestDegree>Master/Diploma</inov:highestDegree>
+        <oid:role>ROLE_EXPLORER</oid:role>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/49368635-20d9-4e03-98ca-f6a37c43a71e"/>
+    </inov:Ideator>
+    <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/8a075510-7120-40da-91b3-52cc58d075c4">
+        <inov:nationality>German</inov:nationality>
+        <inov:age>28</inov:age>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/afcf4966-10e9-4f0b-af71-20e88717ff3a"/>
+        <oid:role>ROLE_EXPLORER</oid:role>
+        <inov:gender>female</inov:gender>
+        <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+        <inov:highestDegree>Master/Diploma</inov:highestDegree>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/95d84528-3b37-409e-9f7b-68b543dea187"/>
+        <inov:occupation>Research Assistant</inov:occupation>
+        <inov:occupationalGroup>Academia</inov:occupationalGroup>
+        <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+    </inov:Ideator>
+    <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/c5cd7343-1b30-4f4e-bef8-5e8e94886c55">
+        <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+        <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+        <oid:role>ROLE_EXPLORER</oid:role>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/d40324a8-44a6-428e-b1de-74b7503f0bac"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/347a7a4e-54b0-45b7-8479-ae7701b0434b"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/dbb4089a-66c0-45a2-a269-50a3db55ed1e"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/e26f54b9-d5dd-4c66-93fd-fbaf263b2440"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/77e4b892-e454-4502-99e7-aa5be55ea427"/>
+    </inov:Ideator>
+    <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/3547742e-9b86-489b-b847-42120eff7c92">
+        <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+        <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+        <oid:role>ROLE_EXPLORER</oid:role>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/fdc0c0b3-4d4c-476c-81ff-1d650e60fc32"/>
+    </inov:Ideator>
+    <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/43f7c9ff-f990-4a18-b3ff-b4404fad8a49">
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/94f546a8-abb1-4f0c-97ec-d68c12c152b5"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/dcf54d53-cd3d-4ede-aaba-b8470bee7377"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/fa48b051-a6b7-4a1a-8657-1519e50e96c9"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/2abf6994-045d-4630-87b5-33420a7fe844"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/951432ae-bb35-473e-8f26-0db2e6c0bdba"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/a4dc741a-ad3d-4c2e-8178-680fc73ca008"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/5374100c-e1c4-4db2-95a5-186d548e127c"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/1cd47321-20e3-439e-b765-ad5ff8d5ac45"/>
+        <oid:role>ROLE_EXPLORER</oid:role>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/80257178-6d76-430e-8f3b-133137768d0f"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/810bda91-8068-48ee-83e3-ef2b6a54a01e"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/e9077173-567f-49cf-979a-0a361aa08cd8"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/acc89470-bce7-4c4a-8501-f1b272eec103"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/2be4e523-b905-435e-ac0a-3e7c88cde5cd"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/9f1394cb-df11-4be1-9233-a64b6f82ffde"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/20696367-ac5d-4ce5-b669-4f4d8cd181bb"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/0b19157e-d37c-4a45-ac82-4ce98d663d2d"/>
+        <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+        <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+    </inov:Ideator>
+    <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/ab0332e9-c00f-4a1a-8af4-72cbb720e9bd">
+        <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+        <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+        <inov:nationality>German</inov:nationality>
+        <inov:gender>male</inov:gender>
+        <inov:age>45</inov:age>
+        <inov:highestDegree>Master/Diploma</inov:highestDegree>
+        <inov:occupation>Think Tank Digitaliszation and Technology</inov:occupation>
+        <inov:occupationalGroup>Industry</inov:occupationalGroup>
+        <oid:role>ROLE_ELABORATOR</oid:role>
+    </inov:Ideator>
+    <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/ad110b86-b70f-4142-9161-eb79e85f4658">
+        <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+        <inov:highestDegree>HighSchool</inov:highestDegree>
+        <inov:occupationalGroup>Industry</inov:occupationalGroup>
+        <inov:gender>male</inov:gender>
+        <oid:role>ROLE_EXPLORER</oid:role>
+        <inov:occupation>Salesadviser</inov:occupation>
+        <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+        <inov:age>40</inov:age>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/3573b82b-6093-4aff-a3ac-bcc2cb072794"/>
+        <inov:nationality>german</inov:nationality>
+    </inov:Ideator>
+    <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/5e1cd1fb-f70d-439e-bacc-c28fee9b6bb1">
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/a3994718-10c5-49ec-9e11-1a848dc7b506"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/8a1eb223-4c95-4cda-9b01-0980f088303a"/>
+        <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/7b0cc4df-5554-43b4-9270-4d34c27c7007"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/f0f0ba3c-b5e8-46d6-806f-88ec74535662"/>
+        <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+        <oid:role>ROLE_EXPLORER</oid:role>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/43ed15f7-94ca-480b-94d7-66623adb43a9"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/2c34bff0-aa29-4909-9af1-faac59c60762"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/1ea205f9-85e0-4cfb-8efb-beee47acc7f7"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/92d6d97d-1134-46e8-9cb0-7b17b3d1d3d6"/>
+    </inov:Ideator>
+    <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/35492d8b-e28f-4780-81b2-d91d38e6a1ca">
+        <inov:nationality>German</inov:nationality>
+        <inov:occupation>Researcher</inov:occupation>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/0e462279-5ff8-43b8-9589-16b84a67294e"/>
+        <inov:gender>female</inov:gender>
+        <inov:age>27</inov:age>
+        <inov:highestDegree>Master/Diploma</inov:highestDegree>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/2983d0d1-713d-4ffc-97eb-a0e7335458d8"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/d52d5c19-f9e3-43ff-9417-9756d9b4d530"/>
+        <inov:occupationalGroup>Academia</inov:occupationalGroup>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/e6dd84e2-3106-465d-8ba2-0f79c7997f12"/>
+        <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/8f80869a-7145-4f0e-b9cf-62cf623c92a2"/>
+        <oid:role>ROLE_EXPLORER</oid:role>
+        <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+        <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
+    </inov:Ideator>
 </rdf:RDF>
