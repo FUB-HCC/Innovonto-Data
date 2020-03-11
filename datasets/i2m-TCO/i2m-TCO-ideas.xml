@@ -68,7 +68,7 @@
                 <inov:annotationState>approved</inov:annotationState>
             </inov:AnnotationCandidate>
         </inov:hasAnnotation>
-        <inov:challenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-ic1-tco"/>
+        <inov:challenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
         <gi2mo:minMaxRating rdf:parseType="Resource">
             <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2</gi2mo:ratingValue>
             <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5</gi2mo:maxRatingValue>

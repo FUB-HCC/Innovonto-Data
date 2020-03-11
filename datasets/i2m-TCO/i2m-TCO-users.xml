@@ -9,7 +9,7 @@
         <gi2mo:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/1af09b12-0e21-4784-bd25-8628a89bb9d3" />
 
         <oid:role>ROLE_EXPLORATOR</oid:role>
-        <inov:hasSubmittedIdeasFor rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
-        <inov:hasSubmittedIdeasFor rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-ic1-tco"/>
+        <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
+        <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
     </inov:User>
 </rdf:RDF>

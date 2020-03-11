@@ -25,12 +25,12 @@
 
     </gi2mo:IdeaContest>
 
-    <inov:Challenge rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-ic1-tco">
+    <inov:Challenge rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO">
 
     </inov:Challenge>
 
     <inov:ResearchDescription rdf:about="http://www.ideas-to-market.de/TCO/research-descriptions/detailed">
-        <gi2mo:hasIdeaContest rdf:resource="http://purl.org/innovonto/ideaContests/TCO"/>
+        <gi2mo:hasIdeaContest rdf:resource="http://purl.org/innovonto/ideaContests/i2m-TCO"/>
         <dcterms:created>2018-03-09</dcterms:created>
 
         <dcterms:title>Detailed Research Description</dcterms:title>
