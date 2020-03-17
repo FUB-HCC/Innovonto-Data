@@ -1,0 +1,1167 @@
+<rdf:RDF
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:inov="http://purl.org/innovonto/types/#"
+    xmlns:gi2mo="http://purl.org/gi2mo/ns#"
+    xmlns:oid="http://purl.org/innovonto/legacy/types#">
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/5093d89a-e930-43a0-873a-b0de781c6be6">
+    <inov:age>29</inov:age>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/5cbe6d8f-89f1-4a2f-bbb3-f088964e3b79"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/330eae13-c233-4f5c-9bec-d627f20c0823"/>
+    <inov:occupation>self-employed</inov:occupation>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/f5039781-4348-4995-ac46-17130363a00e"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/4a9fec01-3c16-457f-b600-0f08d1591968"/>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/665e9483-cef3-4f3f-bc0f-439fd9fd2c0e"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/218a8140-bab9-4f2c-a50b-1254705c288b"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/75b97f75-1e8f-4f8a-b171-ed255687d98d"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/ada8a84e-6c7f-403c-a11b-842562fce9e5"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/8af6f8b6-0973-4992-8ea3-585d5efd7e10"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/5c32718d-706d-4779-9450-42191460ff76"/>
+    <inov:nationality>usa</inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/a1bb04eb-bd48-4dab-b90f-070d25a2c787"/>
+    <inov:gender>Female</inov:gender>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/d7897eab-a0ed-42a9-9ec3-596d00f3633f"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-metaphorical"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/09243ccf-3495-4b4c-82a3-79d6d3b794ae">
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-abstract"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/38c55775-2352-409d-adf4-ecb50123e60a"/>
+    <inov:nationality>United States</inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/6103638e-b5d2-4414-97e1-687f1c2659ea"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/bcbda5c3-fc3d-42a0-b194-4e088a24cea8"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/ae61b733-242b-479f-af17-3fb75b2b7dfc"/>
+    <inov:age>65</inov:age>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/ffe740c2-ac31-4c6b-8fa7-2ad8b83b27bb"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/ae55e94c-8950-4187-b743-3fd8ca75b07d"/>
+    <inov:highestDegree>2 years college, no degree</inov:highestDegree>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/d920db63-3a6e-4a05-860e-471374361817"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/12b66ef6-05e2-4020-8933-e6a28e43c8c1"/>
+    <inov:gender>Female</inov:gender>
+    <inov:occupation>CNA</inov:occupation>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/49d1ddf9-5630-4b96-9c20-0317a16b1981"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/90b8305e-0e56-4150-a730-931c014cd486">
+    <inov:gender>Female</inov:gender>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/4f8d7b82-4e41-4fec-a708-d0b1f2fcd7b4"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/634bf9be-ca21-4852-a358-fa405c244a95"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/2e75c4cf-7cd8-4397-958f-1c489db5959f"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/2328d235-a99a-400d-954e-bf50c8bc1e15"/>
+    <inov:age>30</inov:age>
+    <inov:occupation>Inventory Training Employee</inov:occupation>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/0eac890b-3133-487b-ab95-eeedebcc2495"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-technical"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:nationality>American </inov:nationality>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/a431576d-8cdf-489b-a749-cfeca164fe13">
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/c56b5e3a-8892-4b10-87aa-36ef4ceb8beb"/>
+    <inov:occupation>Histology Lab Manager</inov:occupation>
+    <inov:gender>Male</inov:gender>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/62e6029a-5432-4931-860a-879a57ed8ec5"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/bf3a9f8a-eb14-4451-92c5-5855dc118936"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/2677ce82-8fe4-4747-863e-67ad54d21bdb"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/7ef72ba6-cb37-4bb2-a4d0-3b6d40c52d6e"/>
+    <inov:nationality>American</inov:nationality>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/b50b4357-dd00-4f43-bbfb-d201cdcef3a0"/>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/919ddf1c-e133-4d5b-945a-66a6ab79fd64"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/1e950700-b926-42ba-a1e8-986febd32679"/>
+    <inov:age>30</inov:age>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-technical"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/549b0bce-0bca-45b0-af60-69489c7b61bf"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/956374c2-f0c0-416e-8c19-c2519d77be7b">
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/b68e6899-56ef-489a-b4b3-799f1b3cd120"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/d9d91e76-621c-42b2-a89c-90b166de1c61"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/fd10c764-4e2a-4f82-acc3-d7619b433079"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/b54b426c-8adb-4693-971d-609e6daf66e5"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/be1aaf9c-051a-4130-9d3a-d94c0fc87808"/>
+    <inov:nationality>American</inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/605207aa-a137-4456-96da-a28107b075fc"/>
+    <inov:occupation>Web Developer</inov:occupation>
+    <inov:gender>Male</inov:gender>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/2af3dd7d-10f3-4d33-84ef-13c650ac6a48"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/28e481c9-0524-4760-8a3c-0f2eb4ace134"/>
+    <inov:age>33</inov:age>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-metaphorical"/>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/4f127129-72ba-4f13-9e04-4688a87967b9">
+    <inov:nationality>American--US--Caucasian </inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/04349e16-b880-41fb-86a4-0e522273c0bf"/>
+    <inov:age>43</inov:age>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-metaphorical"/>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/91f342c1-79e7-4a33-a6f2-d1bf2cbfe0a4"/>
+    <inov:occupation>Teacher</inov:occupation>
+    <inov:gender>Female</inov:gender>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/a873b083-fc6f-4917-bc3c-5e89d2a9ea62"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/4ca4dd25-8b5c-48d1-80d6-58197fd1da1d"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/6f7a5f9b-dc13-4467-a0e8-bc72a1b26025"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/249a7d5d-3af4-4508-9c65-043e7cae628d">
+    <inov:age>22</inov:age>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/593be4ea-f6b7-4128-88d5-d389aa8fa729"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/1e8c1e0a-3b6e-4c68-8e8e-3eeea79869de"/>
+    <inov:occupation>Loan Counselor </inov:occupation>
+    <inov:nationality>United States</inov:nationality>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-abstract"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/5ce2fed6-4d35-4991-9700-206d00778424"/>
+    <inov:gender>Male</inov:gender>
+    <inov:highestDegree>High Scool</inov:highestDegree>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/49b955fe-c72b-478b-996a-e99ea1d2807c">
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/45ce63b8-8fa4-478b-9723-4653b252433c"/>
+    <inov:nationality>United States</inov:nationality>
+    <inov:gender>Male</inov:gender>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-technical"/>
+    <inov:age>27</inov:age>
+    <inov:highestDegree>High Scool</inov:highestDegree>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/92c95115-eca2-4841-9e2d-785097a6403c"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/cc348091-b90c-473e-8114-0ad87dcbb049"/>
+    <inov:occupation>Computer technician</inov:occupation>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/f5f925ca-61c1-4223-b380-f1f6aa245b03"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/0f63b9c7-9b24-42ef-878e-3de0a9e8eb4a">
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/4c5f5078-3af4-41af-af82-2390ac45c12d"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-technical"/>
+    <inov:gender>Male</inov:gender>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/338fc5d4-1f24-4c65-bf6a-2b4b0b713a76"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/8376b08f-bcb0-4e4a-bd25-598dbef5839e"/>
+    <inov:occupation>manager</inov:occupation>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/c3838663-2a49-4021-b08e-0a80ab55c756"/>
+    <inov:age>44</inov:age>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/e55302b1-5557-4965-baaa-c36cde95c1e0"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/e2ea947f-5a59-4924-bd3f-2605107098fb"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/bf82ff6d-59c7-40b0-92a9-467cee9dc85c"/>
+    <inov:highestDegree>Ph.D</inov:highestDegree>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/e10735ba-fdbd-4d8c-84df-7f511ae00f42"/>
+    <inov:nationality>US</inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/b5edb8c6-b485-47d2-b28c-a71602d1a346"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/02ed0f7e-6fa9-42a7-9c28-466c734c7a87">
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/407c1722-c323-4a7b-a3e4-f2887eefa3a1"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-metaphorical"/>
+    <inov:age>42</inov:age>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/6b836760-66f3-49e2-8ce5-44a161573c9e"/>
+    <inov:gender>Male</inov:gender>
+    <inov:highestDegree>High Scool</inov:highestDegree>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/928dfdcf-5411-41b5-a2bf-14f09cf0329c"/>
+    <inov:occupation>web developer</inov:occupation>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:nationality>American</inov:nationality>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/a84e3787-8cef-4577-bb79-8b5692549a78">
+    <inov:occupation>sales</inov:occupation>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-abstract"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/6a5a502c-e051-40cb-94dd-93d6b822a748"/>
+    <inov:gender>Male</inov:gender>
+    <inov:nationality>american</inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/e5e6254b-b813-4004-8367-3a9df9cf05e7"/>
+    <inov:highestDegree>High Scool</inov:highestDegree>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/5dea4d79-e759-4ad8-83de-4cee47d98523"/>
+    <inov:age>31</inov:age>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/f1a966f3-88eb-49d0-8979-bda1a0ffc0d8"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/99dac2e5-5fe9-4244-8a21-15b22b95b9cc">
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/5012e651-9579-4cde-93a0-3ba0eebb0c7c"/>
+    <inov:occupation>Teacher</inov:occupation>
+    <inov:gender>Female</inov:gender>
+    <inov:age>34</inov:age>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/6acfd458-4078-4dca-ab41-22253456582f"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/97110833-db6e-4570-8213-78155e018fc7"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-metaphorical"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/fe50beee-6b74-4e07-b240-1f3063085e3d"/>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/33dac169-1135-4add-a25f-68e9ff0521f7"/>
+    <inov:nationality>White</inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/a4944840-e06b-44b0-b2d9-1f53ebf0447e"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/545d90e8-79ef-44e5-b577-d20414ea56e7">
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/e2f59271-a533-4768-927a-b9eaac4c17fc"/>
+    <inov:gender>Female</inov:gender>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/c94e9378-da3f-4a1a-ae10-5c2fba19f2c8"/>
+    <inov:occupation>unemployed</inov:occupation>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/cdb4cc5b-4d8a-41d4-a692-aa8e3130ecc8"/>
+    <inov:nationality>American</inov:nationality>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-technical"/>
+    <inov:age>35</inov:age>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/44c4c5a2-a554-4877-b746-c4575d3933d0"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/46dee0fe-cc29-4b35-b93e-18ba2fb2067d"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/1aaff625-ae8a-41e9-bbc6-37fecb5e00fb"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/5b8bf51c-7eaf-4290-954e-a955965d78de">
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/0e5ea96b-d017-4d07-8627-af1593593d8a"/>
+    <inov:occupation>assistant general hotel manager</inov:occupation>
+    <inov:age>33</inov:age>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/42342916-7f8f-4d26-bb09-d60e4190821b"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-technical"/>
+    <inov:highestDegree>High Scool</inov:highestDegree>
+    <inov:gender>Female</inov:gender>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/563899f5-7711-4551-b6d3-271543d7f805"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/21ff151c-03e3-46e7-8cf3-f5ab35a9058d"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/fa1dde51-fa6f-4e8e-b83a-fe23d6a1ba75"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/f33d0987-569a-466c-bc56-178e2c41ff95"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/e3f4bd21-e424-4cd2-bc38-9d7189e09ee1"/>
+    <inov:nationality>United States</inov:nationality>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/053ce89a-7c60-4915-b722-6d5562495293">
+    <inov:occupation>System Analyst</inov:occupation>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/ceb7582b-97cb-467f-99aa-f2eae842fb06"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/9e1840e8-0543-41ce-83e2-ae978b5048f7"/>
+    <inov:nationality>United States</inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/4cfce53a-a250-4de2-af08-3ada57bc8fb0"/>
+    <inov:gender>Female</inov:gender>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/bba7fd86-82eb-40b2-a9b2-3dac8feb3cad"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-technical"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/22b0e188-06eb-45d2-98e0-e33a6ca7e11a"/>
+    <inov:age>36</inov:age>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/3054aba4-0738-4410-b157-4fd7392f4bf8"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/83ca4dc6-0e23-4d11-b8bb-55d5a277dc3a"/>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/eadec934-9fd0-4f4b-bf73-5eb5fea77665">
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/9ab68d58-bacd-4333-927d-49c068cd235d"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/57150bd7-048d-49bc-86e2-c1f178f1a8e2"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/386162b9-4b28-4021-888f-69295e97ff3a"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/799f4e4d-ac9e-4563-8b7d-1c577d0d29f8"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/92c0172a-1a60-4cb9-9bb4-dde014ad11ad"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-metaphorical"/>
+    <inov:age>35</inov:age>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/ecee9a44-27a3-4e11-adf1-36e159ebdd0e"/>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+    <inov:nationality>United States</inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/3228dfb5-5ed5-4617-b178-9b430c5e53c0"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:occupation>Software Development</inov:occupation>
+    <inov:gender>Male</inov:gender>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/04f84d28-e1d0-4603-b4d5-06f429497533">
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/41b9e50b-924b-48ab-b370-d3bfdd0d513d"/>
+    <inov:nationality>US</inov:nationality>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/9e73400e-b690-4936-ad14-b1d144a33a13"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/80d9839f-9fd6-4807-8a21-4035aac48e33"/>
+    <inov:age>30</inov:age>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/64ca3aa0-4237-4d46-a92e-2807f00291a8"/>
+    <inov:gender>Male</inov:gender>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/ce08ee96-4422-4afe-8afc-5551c6647187"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-abstract"/>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/9660eb93-cef2-4cfd-82d8-52077c0d9a20"/>
+    <inov:occupation>Analyst</inov:occupation>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/5bf182e9-0160-4c67-b3f6-6775d64ff732"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/85e6db6d-447b-48ba-aebe-f81a9e69a232"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/c0874944-3587-4961-b060-e982862fe832"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/2a06c579-c172-4f4c-bb9b-7c087ea6fd07"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/acbf812b-fd73-4253-b4d6-dc5579ce7fb2">
+    <inov:gender>Male</inov:gender>
+    <inov:highestDegree>High Scool</inov:highestDegree>
+    <inov:age>23</inov:age>
+    <inov:occupation>Retail</inov:occupation>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/1d4d54bf-22ac-4749-aaca-ba766b6d7b73"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/2a182b35-f0bf-49dd-a2cb-20594c660506"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/b0c452cf-bd4b-4aa2-ba7e-eba7893ea598"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-abstract"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/f2de56e8-7d78-4c77-bf18-56aa72b07f12"/>
+    <inov:nationality>United States</inov:nationality>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/c1522619-359c-41cc-b0e4-c20bc072de49">
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/a0a67b3e-5f93-4f3c-9545-cc09898a46bd"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/bd6b9711-7209-4258-8345-ec1c7ab0987d"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/95e3509f-a9a0-4049-a0fc-c0317f23d5da"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/d56a8a03-2db9-4e41-983d-b76ce5a5e78d"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/b5cc1a78-ca2b-490a-be14-f29198ee5937"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/feb9824f-cc08-44a6-89cf-9d6bb20425dc"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/d668115a-aeec-4216-9c79-da2db7c3b092"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/8d98a62b-4b69-4ffd-b18d-e05dfe424bdb"/>
+    <inov:nationality>United States</inov:nationality>
+    <inov:occupation>Personal assistant</inov:occupation>
+    <inov:gender>Male</inov:gender>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-metaphorical"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/ab5e81b4-7d52-44ab-9a41-b31f2915fedb"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/4d41672c-95ab-4b22-842b-3b48450e5cd0"/>
+    <inov:age>26</inov:age>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/6ef2ffa0-a4b0-41de-aab0-104be5730fe6"/>
+    <inov:highestDegree>High Scool</inov:highestDegree>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/1f263044-cfc1-406e-b8eb-599db53f0651">
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-technical"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/c6b6f7b1-46d8-407c-a672-549864bcb880"/>
+    <inov:gender>Male</inov:gender>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/c872a619-14b2-4813-9395-b399b972e411"/>
+    <inov:occupation>Data entry</inov:occupation>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/5387404e-afa1-4723-b005-c189807ff0ba"/>
+    <inov:age>21</inov:age>
+    <inov:nationality>United States</inov:nationality>
+    <inov:highestDegree>High Scool</inov:highestDegree>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/4a77c75f-9a08-4cf4-88e2-32d757d6499a"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/796aa5f7-f9bf-4eb6-92fc-cbc73e5418b5">
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/c83bcf1f-3879-471e-89bb-e5a580a51bee"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/406b2518-b64a-4806-badb-d298bb0372bc"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/5cbc794d-5c3d-4199-8f61-8a85b5f8aa2c"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/c697fefe-6aa1-4ac0-b6bd-f3d1fa2a2a01"/>
+    <inov:occupation>Retail/Supervisor</inov:occupation>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/5c9ea81b-9c37-4b73-bb3d-b6e989680494"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:nationality>American</inov:nationality>
+    <inov:gender>Male</inov:gender>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/ebee6a1f-9fc2-4e94-b887-b6d1b87edbc2"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-metaphorical"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/071578e0-1e3d-4f67-b6b5-ebfe55aa107a"/>
+    <inov:age>28</inov:age>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/ba9ddd4b-0126-43a3-83a5-393cc4d3cc57"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/7d739cb7-81f0-4f91-b351-66dc83074e55"/>
+    <inov:highestDegree>Master / Diploma</inov:highestDegree>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/44b1a29c-c23a-4059-a25b-3eb5c39e153d">
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/85574f30-79b5-413f-9f88-cf06e094a930"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/fe4294aa-16dc-4179-b8f1-7ca765469391"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/77fac221-2bf3-4bc9-bc75-580a97e66e80"/>
+    <inov:age>20</inov:age>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/161fec8d-0e1a-458c-8fa4-c3dfb4082275"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/42507290-683e-469b-8c1f-a7df97f90285"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/ddf57a6b-043a-4b50-b9fb-f77d9cd6ca09"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/ec16636a-6232-47ce-ab16-7f7cb6025fa1"/>
+    <inov:highestDegree>High Scool</inov:highestDegree>
+    <inov:gender>Male</inov:gender>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/d1b7786c-90bd-46ec-97e5-eca5156864c5"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/a9ada547-b648-4767-a3a6-0817f5a84bec"/>
+    <inov:occupation>Freelancer</inov:occupation>
+    <inov:nationality>American</inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/7d2be57d-4cd0-4d4e-a5b1-004d7f8bbcca"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-technical"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/4cd148c0-19a2-4a3e-95cc-47b085fc8197"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/2b075fb5-16c8-4cf0-a789-3e6cad312028"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/11133dd6-bf99-4ff7-9d2c-b24a376297c7"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/c074435e-96e3-45df-a5b3-fd8929aa15d6"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/e43d39c4-cb12-4f22-8981-fed6ff5bc263"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/c7445e69-06d0-4a99-bddc-32348cc8dd7e"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/571ee317-46e9-4151-8a9e-be3d5c0c13eb"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/06de2171-e7f0-483c-9797-300cfe747466">
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/0f840697-76fc-4e81-b96d-3a3daae6d77a"/>
+    <inov:nationality>American</inov:nationality>
+    <inov:age>28</inov:age>
+    <inov:gender>Male</inov:gender>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-metaphorical"/>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+    <inov:occupation>Data analyst </inov:occupation>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/f6481430-0fc9-466b-a64e-a158ce9ac318"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/97179b5b-fe20-474c-8c8e-02ad6edaf083"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/eb5229e3-f006-411f-bbe7-399eebcde2b0">
+    <inov:age>52</inov:age>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/847d911c-1d83-44ad-8ee5-ed9494bbb799"/>
+    <inov:nationality>AMERICAN</inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/c0b21783-f553-4f71-8759-4c5dc0481578"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/4840ab71-42e8-46d9-9634-d6baa89db3f9"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-abstract"/>
+    <inov:gender>Male</inov:gender>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/5d889119-ec67-48b0-aa77-d4e956004bdb"/>
+    <inov:occupation>manager</inov:occupation>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/b55f6e47-e5e3-41c3-b21d-5cb78dbaa173">
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-abstract"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/4d46d65e-43dc-4cc1-bf89-5800ea28d946"/>
+    <inov:occupation>Line Manager</inov:occupation>
+    <inov:age>39</inov:age>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/a593417d-0f25-4edb-bdc8-41050b242f8c"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/2c15edcf-2e09-430a-a2e8-979ed8f686b7"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/421bc142-ca7c-4852-806b-db306e05b6e6"/>
+    <inov:nationality>American</inov:nationality>
+    <inov:gender>Female</inov:gender>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/a42f5aa9-99c5-4db0-b937-1922cb0d95eb">
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/b9c291c4-143e-4b25-8630-b211ebfea420"/>
+    <inov:highestDegree>Asssociates Degree 2 year</inov:highestDegree>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/ef63a728-7445-45b2-b961-b1613093ee0d"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/8d993ce1-1af8-4c29-a89b-70fe5e94a3a4"/>
+    <inov:age>64</inov:age>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/3493047b-0562-4108-816c-b8e20d5940b5"/>
+    <inov:gender>Male</inov:gender>
+    <inov:occupation>crowd source worker</inov:occupation>
+    <inov:nationality>United States</inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/f82e5941-af36-43ab-97b9-959625b25fb1"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-technical"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/154502f5-e28d-4e0c-b656-42e82b21de68"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/a0409c6b-5ad3-43c8-8a4e-eb74f5416297">
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/2b1d2ed0-b69a-4f6b-93f7-96d6f6f8412a"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-abstract"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/20deb576-d10c-46d5-8831-737c72e0f45e"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/842ac505-9e33-459c-947f-f1d9d520cb6a"/>
+    <inov:nationality>usa</inov:nationality>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/3fc5c12e-d09e-4273-93e6-e691775d9617"/>
+    <inov:gender>Female</inov:gender>
+    <inov:age>45</inov:age>
+    <inov:occupation>social work</inov:occupation>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/97b8506a-8007-4d2c-a380-105233052b5c">
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/d471ef67-62a7-4cb0-a652-93ca53d8768c"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/843bad05-15d9-4ed3-9538-511142404863"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/8d7570d0-4265-47a6-9f3e-fce82430452d"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/b746030b-4c9d-4ad0-873e-a8548d30c7de"/>
+    <inov:occupation>QA Specialist</inov:occupation>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/40fd4639-6cfb-4491-867f-5ad3493cebf3"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/b3d82b61-6299-4b90-bf8c-c54d01a9093a"/>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-abstract"/>
+    <inov:age>34</inov:age>
+    <inov:nationality>American</inov:nationality>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:gender>Female</inov:gender>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/39459709-5315-49e3-b0bc-3d680a9e1491">
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/8228f07e-4c41-4ed0-aa1a-10f455af4b50"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/87ae5f5d-5e5c-4d7d-adfb-c14311712d86"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-technical"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/9ed3531a-42fd-4487-af63-02dd572b055f"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/9ea220c3-0f91-47ab-b605-78d8bbeb8913"/>
+    <inov:highestDegree>High Scool</inov:highestDegree>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/f2ddc550-de76-4c4c-9de2-c4eab763c8ee"/>
+    <inov:gender>Male</inov:gender>
+    <inov:nationality>American</inov:nationality>
+    <inov:occupation>Retail</inov:occupation>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/f0af84cc-93df-403e-9bc6-aff5d0e98a1d"/>
+    <inov:age>24</inov:age>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/4e8597a8-1407-4fdd-8299-96c00254511c"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/ecdd297d-3792-4a4c-8ae3-7dc23c3210df"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/5c39e6dd-2ebf-4880-ad4e-0f2e13e5a057">
+    <inov:gender>Male</inov:gender>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/e9efbcac-76f1-4dc3-b08a-fb33218e6583"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/6523c9fd-0981-46d9-be72-2e5a17269830"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/32ad1fd3-9cea-4411-9140-4de77ae8f067"/>
+    <inov:nationality>United States</inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/584397b2-a2de-46c6-b0c3-0a1d244ed6b4"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/504c0112-b0bf-471d-89c0-eba61c85fa68"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/36782a45-dc91-4496-98d7-deb47d9e2dc6"/>
+    <inov:age>34</inov:age>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-technical"/>
+    <inov:occupation>Financial Analyst</inov:occupation>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/4d943802-eeef-490c-914d-a9c56338dddd">
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/9e85f6ae-99a8-4294-9f23-13a6526c85f8"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/2fb17a0d-3b2a-404b-8889-c663067c477e"/>
+    <inov:occupation>homemaker</inov:occupation>
+    <inov:nationality>united states</inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/46a0fda4-b01b-4bd2-847e-5e063562fa0c"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/aeaff89c-b8aa-41d6-b4db-bd359fe5d42c"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-technical"/>
+    <inov:age>29</inov:age>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:highestDegree>High Scool</inov:highestDegree>
+    <inov:gender>Female</inov:gender>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/61010b1e-2e4b-4e43-9a57-41ffa055e4ce"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/1aa2bde6-922d-449d-b8a5-55a98b22d5ff"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/7b194670-5efa-4654-9a46-f982d8631a25">
+    <inov:gender>Female</inov:gender>
+    <inov:occupation>Preschool teacher</inov:occupation>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:nationality>American</inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/d073142e-9c17-4446-8aa4-0ba8d29a5cf2"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-abstract"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/8a81a47e-bcde-44af-812b-1f458c6bb5ef"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/517f8297-c4b8-4b72-8857-8e6270f7ee30"/>
+    <inov:highestDegree>High Scool</inov:highestDegree>
+    <inov:age>35</inov:age>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/38c3a0ba-8629-4291-b59f-10365291dbc4"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/797ae4a2-0491-4651-a877-b78b07c6cc3f">
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/0f5d2e27-969a-4ab0-830c-5a903cca23e9"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:occupation>retail</inov:occupation>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-metaphorical"/>
+    <inov:gender>Female</inov:gender>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/aaeda24a-c3bd-4171-ade3-191ca7037bc4"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/284949a9-d763-4ceb-9735-428013981270"/>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+    <inov:nationality>American</inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/152c11ae-97fb-4c66-87e2-fbe74e61d55b"/>
+    <inov:age>26</inov:age>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/5873d570-91a2-4a62-81c9-c40174dd741c">
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/9d14945a-a59c-4361-aa25-f7c21b643381"/>
+    <inov:highestDegree>High Scool</inov:highestDegree>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/04f538e6-e528-40e2-be7a-593d4ec870e1"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/b42bdb2c-2a4e-432f-acfc-22deb444d2d8"/>
+    <inov:gender>Male</inov:gender>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/1a00ccf5-3c7e-484c-9190-6bc9b21670a4"/>
+    <inov:nationality>American</inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/30882df2-aa4b-46de-b353-bb8a92dc2d95"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/bf881e27-a8fe-4777-bc47-a4aa1be00b7d"/>
+    <inov:occupation>Material handler</inov:occupation>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-metaphorical"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:age>36</inov:age>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/3abfd4c6-4ee9-489e-8010-45eae8d88438"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/879ed3e2-4ccb-4de3-ad86-234b6336888a">
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/7ca38815-0c05-4362-9d38-036bfacf14e4"/>
+    <inov:age>39</inov:age>
+    <inov:occupation>Brewer</inov:occupation>
+    <inov:gender>Male</inov:gender>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/3866ab9b-e840-43fd-ae92-00259763ea2e"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/f2432245-46dd-4364-9f73-ceca583122e5"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/b05453f0-512d-49e4-9c4d-e1ef24251cc3"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-metaphorical"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/441b84bc-0375-4ec1-bf90-d9f7a35ec7c0"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/b2a767e5-37a4-4bab-b4d8-4fda1e4bc02e"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/5c3b2072-9669-47a2-ba85-2a37b7c56303"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/520152f3-625a-4878-95aa-ec22f5f62a19"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/4805df0f-c994-40d3-a607-6671e9a6c8c9"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/6fc14245-67c0-4188-b539-650339b1ab5a"/>
+    <inov:nationality>United States</inov:nationality>
+    <inov:highestDegree>Professional Traning</inov:highestDegree>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/c656b0a5-4756-462e-bdef-f8e0d361358d">
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/ce0c1da1-641e-4668-9a9b-d08392693b72"/>
+    <inov:gender>Male</inov:gender>
+    <inov:nationality>United States</inov:nationality>
+    <inov:age>25</inov:age>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/cad20cbf-ee80-4ec6-b6bb-0a29d9290cdd"/>
+    <inov:occupation>Sales representative</inov:occupation>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-abstract"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/cf9c5c98-64e4-49c3-a8c5-44487dcf6dc6"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/83ede486-d69f-4f87-9e86-ec9c0d7d32d9"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/cd6fd890-a2a8-4797-a031-4fcf2fa887c5"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/b4bd80f5-ac71-4b68-a27f-080f793c827f"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/2771e100-0b07-46a7-b0fc-6de2fc3967a9"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/f4298748-4003-46a9-9e2d-172018c1dacf"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/7fc183a6-56d8-4424-8bc9-7799739ae096"/>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/0956c616-c6fc-475e-869b-a36e60d43342">
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/14dfafa5-b876-45ea-bdac-1807c5147ecf"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/ea1eea37-af2b-4800-a297-2472a60ffbf9"/>
+    <inov:age>32</inov:age>
+    <inov:highestDegree>High Scool</inov:highestDegree>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-abstract"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/9a75285f-1808-4210-8cdd-416a7a256d26"/>
+    <inov:nationality>American</inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/7c61955e-8324-47cb-860e-d6e846a0a731"/>
+    <inov:occupation>Web design</inov:occupation>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/1008da5f-acfa-468e-ae3b-a17f8408867c"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/53a84472-a19d-405c-bb30-7b8bb3924a88"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/b75e0a7a-0d46-460a-9574-e04f3483b57e"/>
+    <inov:gender>Male</inov:gender>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/e92b21c2-369a-416a-9135-9c0f05d4031b">
+    <inov:age>36</inov:age>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/13c6ac48-022a-41d9-bf3e-43a0877639c6"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/e2f1554b-272f-4ef6-84f1-a0864b89012c"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/1535ca41-601a-4a62-85ca-49025c4dd555"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/f148e733-21cc-4e24-bb1f-f9d9beb5de6f"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/9b3cc2f6-5aa5-4907-beeb-aab7f511c45a"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/9a4817de-fcb2-4564-a0fe-7ace8641054d"/>
+    <inov:nationality>United States</inov:nationality>
+    <inov:gender>Female</inov:gender>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/5954bf5b-398b-4e5a-9a19-f2e2c2f6c36a"/>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/0f379f94-4876-4815-ace2-ddf86a72a4da"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/55dc6e49-4aa5-44a8-8733-19dc6274aed4"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-technical"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/3ce0157e-1f26-4293-bc93-189343a96516"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/4a947967-3d93-49d9-9432-44b7497bd0bb"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/261cc4af-7d30-4a2e-8090-73f886a11075"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/c74716f6-4568-460e-b1e4-7acf8d5eace0"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/56b86063-4910-404f-a1aa-dd4dd109dfef"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/1c17f218-3563-4c42-af61-4c420138b45d"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/ecd0b79c-e300-46dc-a574-fcc55126f2a8"/>
+    <inov:occupation>Homemaker</inov:occupation>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/978f6d14-25cd-4dba-a13a-00a0feff01ee">
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-abstract"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/b71d616e-81ed-4c4d-9bb2-0922f49c4a6f"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/6b85a1b1-afb3-4b76-88b3-04fa5537ade1"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/d8767149-c8a3-4a96-b3a1-2cef705478d4"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/84e452cc-7029-4939-acbb-bfa0afe242b4"/>
+    <inov:nationality>United States</inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/66b56794-5f36-42a6-8a13-a96c89efc735"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/13b182c0-f98e-4011-b601-336041150054"/>
+    <inov:age>20</inov:age>
+    <inov:occupation>sales</inov:occupation>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/5f92ea42-0418-4b18-bb1e-3c1470e3e17c"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/979398a4-71d2-46ef-b8ac-c6e8ae47f92a"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/53023185-bd38-4073-8688-659a1db5eb8a"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/2e0b4d4f-ec10-4b88-93ae-d731a3880623"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/a6c41fb7-42e7-466f-b2aa-26e48b330afa"/>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/59c4868e-add8-469b-ba89-b04b03098e59"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:gender>Female</inov:gender>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/790b4a10-fd34-44ac-bebd-ce95b045ed21"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/f832c268-310a-4fd1-9fcd-8676ab85ca0a"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/b96727f6-c1bb-4234-b721-6d8ec1c33390">
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/099ac3ee-d2ba-4f7f-a81f-ffe97a1190fb"/>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+    <inov:age>26</inov:age>
+    <inov:nationality>United States</inov:nationality>
+    <inov:occupation>CPA</inov:occupation>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/0be1e387-07fd-455d-9c96-2d1701379c92"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-metaphorical"/>
+    <inov:gender>Female</inov:gender>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/bf2a19f4-d7d4-459a-94e3-b2131604f279"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/4171231c-766c-4bba-9e0b-4dfa8f0d1cf6">
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-abstract"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/033ae853-c609-4594-a4b1-699ce2d4b248"/>
+    <inov:occupation>employed in service sector</inov:occupation>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+    <inov:age>33</inov:age>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/b2691b6c-0ad0-45b6-a639-f07afb326835"/>
+    <inov:gender>Female</inov:gender>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/fb16bc51-7959-4815-ac9e-2b4f77f97565"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/28a8fa54-4fd1-4796-b60a-a596c22dc29f"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/2d274598-4c64-4612-a5ea-adf0569393c9"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/0eca804b-dbc1-4fc7-9d69-7da637cfe4ad"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/e66218e4-9b92-4321-b91d-494aa0025ab6"/>
+    <inov:nationality>white</inov:nationality>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/5f41c3a3-c996-4a89-a465-28d9c17f09a1">
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/b4ffa15f-b359-4abc-9ffb-efcb84869624"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/298f023a-48dc-4ed9-bd4d-6cc6d52db94f"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-metaphorical"/>
+    <inov:age>40</inov:age>
+    <inov:highestDegree>Master / Diploma</inov:highestDegree>
+    <inov:nationality>United States</inov:nationality>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/ebb54b62-49d4-46fe-9c5b-fad3c5b6080f"/>
+    <inov:gender>Male</inov:gender>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/2e5e4667-abb2-4b68-b031-d6248800afce"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/eb9edd44-5e7c-4d34-8a89-cb2470efe544"/>
+    <inov:occupation>hr specialist</inov:occupation>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/a1dbe3db-5959-4ce0-95d9-3215b75990b6"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/97984a5e-b9c1-40ae-a073-ff706b653ad5">
+    <inov:gender>Female</inov:gender>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/9b0a6333-4a93-4d6b-8c17-a66a326ab236"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/5a9f8310-3219-42e1-a996-bfe01ef74cf4"/>
+    <inov:age>41</inov:age>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/f6c0d511-bcd3-4f59-9d6e-0ac1814adb8d"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-metaphorical"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/c21edb55-1b33-4129-a0c8-984eba28f22a"/>
+    <inov:nationality>American </inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/926a8f25-45ba-491a-bc57-2df710ad13c8"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/03506be3-5366-4900-a994-431b14b0a3a2"/>
+    <inov:occupation>assistant </inov:occupation>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/4d2d9e3a-89f6-4a1d-b468-e476cff6a27e"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/f2c5928e-281f-464a-bb50-577391ed1c66"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/6bf69ef4-9aca-4e86-a85e-079fdfbb5827"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/b55c126b-7f1b-4cc1-83de-67950ecc7e33"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/4a54925d-12b6-4790-aa8b-0b676bb48f7a">
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/9f1b2d59-e393-4b46-9812-7d12360b55e0"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/2ecbb5dd-0d80-4e2b-9a2f-a6feb7c61959"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/cf65b021-620f-43fe-9473-1712be788cde"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/c82bf1d4-dbca-4524-a722-c425ad959aa7"/>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/c22eddef-a9f2-4e0d-8bc7-766ce2912120"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/0cb9b87d-aced-4e73-8e9c-e70058dbadd6"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/8c768672-f341-47e4-9e5e-696bca0049b3"/>
+    <inov:age>61</inov:age>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/779c37ed-e6c4-44ca-bcbf-6b4d807627ef"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/69730105-93eb-4cad-87cf-cdd895202617"/>
+    <inov:occupation>marketing manager</inov:occupation>
+    <inov:gender>Female</inov:gender>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-technical"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/726540a9-0775-48bb-bf8c-a9a7e196a5bd"/>
+    <inov:nationality>American</inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/efd50c16-af7e-48fa-825b-ff512e54817b"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/9198ac8e-ef74-46e3-80fa-e2528da9910b"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/738161a0-c3c8-4197-997f-121642c63734">
+    <inov:occupation>landscaper</inov:occupation>
+    <inov:nationality>United States</inov:nationality>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/4e2fb05d-bd80-49c8-8b2c-cfddc27435ff"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-abstract"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/f2fd7afa-a2cb-4cdf-ab5d-26f8f02193e4"/>
+    <inov:gender>Male</inov:gender>
+    <inov:age>34</inov:age>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/38bcbbd1-8fd0-4a59-8222-82d02e10d6e8"/>
+    <inov:highestDegree>High Scool</inov:highestDegree>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/64c7e816-c3a0-4024-9fd3-f685d1a40353"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/fd3d9f19-cf6b-4a77-a310-7dde84b28fe4">
+    <inov:nationality>American</inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/2d6a2e81-5449-4615-9de7-0f7f7f0ec093"/>
+    <inov:occupation>IT Consultant</inov:occupation>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/660d8aa1-b315-4e46-ba17-4747b3ffcb63"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/2eaa6afc-fe6b-4ef9-9ad5-3d24758073e1"/>
+    <inov:highestDegree>High Scool</inov:highestDegree>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/8f7c8fd1-f182-436b-9241-e81b13dcdb68"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/8eeff72e-9651-45af-94e0-df6eba78686f"/>
+    <inov:age>41</inov:age>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-abstract"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/490003da-f722-47ea-ab0a-2371b711da4e"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/d96cdfb7-7fd4-4d04-8806-9ef25336e74d"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/9ff589a1-ed49-4389-bb11-15c3f42a1a0e"/>
+    <inov:gender>Female</inov:gender>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/beacc8df-3e46-42cc-9a9a-6b0ab8b95477">
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/8425902d-c092-43c1-9d81-8941ae46b6af"/>
+    <inov:gender>Male</inov:gender>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/6d8289b5-c37b-489a-8aa4-2a56a68e0d29"/>
+    <inov:age>26</inov:age>
+    <inov:nationality>American</inov:nationality>
+    <inov:occupation>software engineer</inov:occupation>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/87fea162-6984-4d1c-a540-35fd31a0cfc6"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/58b68cd9-e029-4ed9-ad87-cea6bda1162d"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/b36994e2-961a-48d6-97fe-c36ab188abbf"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/6d2a9fae-7df5-403b-a0fe-01f6d4374e9d"/>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-metaphorical"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/22f13e0a-9560-4f90-9872-17ed0f3e7d3e"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/326bd4f0-83eb-44f0-8e31-a48dee560cf6"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/3185779f-95e5-4f0a-a174-9fe236b662e1">
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/4584dc35-8f33-4000-b959-746a9eb85038"/>
+    <inov:age>58</inov:age>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/56ad8374-31b2-4c15-8ba2-6e54880141d2"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/1969134c-7d87-4124-a786-143ecebb5be8"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/23fafdca-ed21-44fe-9287-6dd7d595de4a"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/a8c2f08d-f2f9-4a0c-bc41-fdfbce6a4f57"/>
+    <inov:nationality>American</inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/5ee3a4dd-06a0-49dd-b856-ed218a6cb294"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/ec2ec07f-3a35-418f-86d7-e8d26c4b3f1a"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/a65dfaed-4217-4b9e-bb43-bfde6ad14385"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/6b6ccd9d-3d84-4d42-ac24-5f9d8d6d2187"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/581976e8-6ed9-4dc5-83b0-8983ebecbbdb"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-technical"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/84755670-0ba6-419a-baeb-16508c4ad301"/>
+    <inov:gender>Male</inov:gender>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/1a829664-f59b-415b-9cb1-03aeb48ed90e"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/f04b5c28-45e7-467f-87c9-3300400b59ef"/>
+    <inov:occupation>production manager</inov:occupation>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/3e1f60d3-5da0-4bea-8904-54a3ec0d7a32"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/dce23576-bd33-415c-8168-c797f9930e9a"/>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/5f419801-7282-42d6-80cb-ffcd2b718022"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/76664ced-7646-4f0c-94a4-6df77ae0ffd7"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/cdc43075-df0e-40e8-85b9-13c390a50814"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/e8165fdc-81f3-4a23-a39e-88c3097d97cd">
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/b4c6ad3a-e7cc-4095-963d-c12d8aebc845"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/c8b136ae-b550-419a-bdf0-3dbc3e7a59ee"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:age>58</inov:age>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/348b9d8e-a782-4d81-9aea-03ee6aeaa0cd"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-technical"/>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+    <inov:gender>Female</inov:gender>
+    <inov:occupation>Service Coordinator</inov:occupation>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/230ab326-cb4d-4809-b5ce-41282fff5a15"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/8ebb2f78-6866-4d38-a559-268acba75367"/>
+    <inov:nationality>American</inov:nationality>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/2eb99a8d-1c54-4355-bc9e-7a7eb1454b59">
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/0c29e355-ea67-4192-9dc8-998530cbbf00"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/6800a793-641b-46f4-a7e5-20b29b1fdc22"/>
+    <inov:occupation>independent contractor</inov:occupation>
+    <inov:gender>Male</inov:gender>
+    <inov:age>35</inov:age>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:highestDegree>High Scool</inov:highestDegree>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-metaphorical"/>
+    <inov:nationality>american</inov:nationality>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/bcbd1835-70bd-4a24-bbc3-a9368ddb4a53"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/0ac26d34-11f3-4612-a30f-f73c7d2c81be"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/041417b5-35e9-48d7-9ae6-f454b29e47e6">
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+    <inov:age>45</inov:age>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/7da783c9-1b4a-4e60-b213-5753626070c4"/>
+    <inov:gender>Female</inov:gender>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/89b614c0-d52b-45f6-8bee-dd2440dd25d6"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-technical"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/01487af4-3ed1-4746-a162-2379a8e1a63a"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/07eb82d6-41bc-4523-b666-53f7bd8d41a7"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/865caad6-4ea1-4b5d-88c3-88ed57de2b1d"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/d5c76b47-e258-453f-a776-349857d18a36"/>
+    <inov:occupation>pc tech</inov:occupation>
+    <inov:nationality>american</inov:nationality>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/eae18004-f818-45e1-9da4-68f902555346">
+    <inov:gender>Male</inov:gender>
+    <inov:age>38</inov:age>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/0d68dd9a-b0fe-40e0-be50-416dc68d8dd4"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/e4af5af5-9579-4b46-87a3-b0756aca8dfe"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/14929d3c-c113-44e0-bfff-13b8a0807996"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/bf3deaa8-665f-458d-b2f2-716a20130c5c"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-technical"/>
+    <inov:nationality>USA</inov:nationality>
+    <inov:occupation>Tech support</inov:occupation>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/a8e49642-5684-4b38-902d-3bf3c69e2f12"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/001bba5e-645b-463a-978b-13c0b430970a"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/ed08de93-34a9-4281-a65e-4876e0ab1fe3">
+    <inov:nationality>United States</inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/66eb023e-1d4c-4363-b01f-3f646a4cd322"/>
+    <inov:gender>Female</inov:gender>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/bbe9cf77-d399-4e3a-b741-b7653b716c2d"/>
+    <inov:age>25</inov:age>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/0f0e2a3f-2781-4a26-bfd7-77a06178de94"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-metaphorical"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/677adcc3-c4e8-4b21-b1e9-0d5fd6d693e1"/>
+    <inov:occupation>food delivery</inov:occupation>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/244a1859-24d9-42a0-b631-637154296e11"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/f54cb0d9-5da5-4a86-84a3-5997ec8385f7"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/4e9cb6ae-b164-422a-b165-9d67051eb6a2"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/cb310312-1ffa-459c-a877-b392607c9e8a">
+    <inov:highestDegree>High Scool</inov:highestDegree>
+    <inov:nationality>American</inov:nationality>
+    <inov:gender>Male</inov:gender>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/f378202f-68d9-41a7-9e70-41321fb202f5"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/322dafdf-bae9-49b6-931e-ca8bb1f2f417"/>
+    <inov:age>42</inov:age>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-metaphorical"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/d5344d28-dec4-4343-b988-feb9953f0c8c"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:occupation>Computer programmer</inov:occupation>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/f5b3ac04-e400-48ad-9aef-1a12602a8d56">
+    <inov:nationality>American</inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/60791911-d5b8-4522-94ff-8a91e2f9718a"/>
+    <inov:age>31</inov:age>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/4cd81cb3-ee92-444d-b610-bea4a5bd66b7"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/ba0c3843-fc72-49ee-b47d-6d8472781181"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/202cf23d-9ee7-4914-83da-997ec8f86b1d"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/335c2867-17c0-4917-b64b-829ec0cae14f"/>
+    <inov:gender>Male</inov:gender>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/7c760e1c-82dd-4b8b-af3e-f96bd3507508"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/f80a1268-a772-457b-9927-d0bc547cc5cd"/>
+    <inov:occupation>Crowd Worker</inov:occupation>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/e4785b27-6f7a-45de-b584-d2a81f505eb6"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/8e832191-7991-4345-9395-065ebea5b29e"/>
+    <inov:highestDegree>High Scool</inov:highestDegree>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-abstract"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/019cb2eb-d6ee-4fba-abfc-181ce89fa213"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/163de961-0df1-444f-bcec-d0021815596d">
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/197ad11e-b4b0-4459-9015-d824a1886a90"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/aaa37de9-1866-4583-9384-114964cc28e0"/>
+    <inov:nationality>United States</inov:nationality>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-metaphorical"/>
+    <inov:gender>Male</inov:gender>
+    <inov:occupation>I.T</inov:occupation>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+    <inov:age>27</inov:age>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/e68df97b-5800-49f1-9849-68fda0a3d4a0">
+    <inov:nationality>United States</inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/7a594b4f-4411-4108-bd8e-e71a6af9b34b"/>
+    <inov:highestDegree>High Scool</inov:highestDegree>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-technical"/>
+    <inov:gender>Male</inov:gender>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/4bdc61d5-70c8-4595-b0d3-e61f57de4cc3"/>
+    <inov:age>30</inov:age>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/e9c55c6c-49e2-425f-93ec-62c10315157e"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/a50cd029-3653-47f5-b549-64250c771949"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/c5057b0e-3620-44f6-90fe-beb4b37a108f"/>
+    <inov:occupation>retail</inov:occupation>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/83e7ec40-718c-495c-9066-b033e6f897ab"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/ba28929b-9cfc-432e-8a91-6fc13e9c307e"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/4932c83f-4001-4607-815b-02e45ff988cf">
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/f70cb38b-cdbc-4456-8b66-160e90e819b5"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-metaphorical"/>
+    <inov:nationality>United States</inov:nationality>
+    <inov:gender>Other</inov:gender>
+    <inov:occupation>Writer</inov:occupation>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/8439ade5-39d3-40ad-ae11-93bfc2d6b39d"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/0b959bb4-5178-4dc9-990f-5ed0781c5908"/>
+    <inov:age>40</inov:age>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/fa6add54-2fcd-42c9-9043-8fb40a3eea0a"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/d4b102a5-0bf8-468d-93d2-b5fb1e9baf8f"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/f902e222-184d-4f2a-bad4-0f247573f641">
+    <inov:age>47</inov:age>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/b130f306-90d9-4974-9248-5f4af342b2e5"/>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-metaphorical"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/40afb333-7958-48c7-9ba6-42525325521c"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/734ddee8-1223-4e8a-8fbe-b2243874a2be"/>
+    <inov:nationality>United States</inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/60e01f67-7726-4246-96f8-0bccc3c26117"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/6af1571b-bfdf-47a2-93fd-9791f21d37d0"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/fe9d94b9-2863-43bb-9eca-e9917908a5ad"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/f77ea20d-72e8-4838-8ffd-6fcbbc5b1758"/>
+    <inov:occupation>Collections Agent (financial)</inov:occupation>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:gender>Male</inov:gender>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/00b4f017-d00c-4057-9404-7ea10569bf0f"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/3df348fd-6f2e-45d5-8963-0b498354b13e"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/7e8ec691-d61f-4b3a-bec6-230dcd8d4f84">
+    <inov:nationality>American</inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/f4478d2f-2c46-4d73-b1d8-b5afb4437ae4"/>
+    <inov:occupation>Independent Contractor</inov:occupation>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-abstract"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:highestDegree>High Scool</inov:highestDegree>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/8ccebff7-4853-442f-bbc6-524284df048a"/>
+    <inov:age>25</inov:age>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/9ff48507-99e9-40bf-94f3-3b792a4f0083"/>
+    <inov:gender>Male</inov:gender>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/4161188a-9da8-4419-8ff7-b1923a864629"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/9c2692dd-4abe-4198-a860-dc353b140930"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/330309a3-7d3e-4d7b-8ddd-7318a85c59d3">
+    <inov:nationality>American</inov:nationality>
+    <inov:highestDegree>High Scool</inov:highestDegree>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/0b155e04-b08e-4e43-bf6f-473f052abefb"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:gender>Male</inov:gender>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-metaphorical"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/58b5df4d-0b6a-4393-ae0e-d9374b084306"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/9ca1902e-d1f6-44c6-81d2-d1777cb7c215"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/d35f5810-9953-4732-a23d-1687f32f91ee"/>
+    <inov:age>33</inov:age>
+    <inov:occupation>Self-employed. Computer Repair.</inov:occupation>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/dad45ce9-d90e-43f6-bfa2-0b4f4ae6e359">
+    <inov:age>29</inov:age>
+    <inov:gender>Male</inov:gender>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:highestDegree>Master / Diploma</inov:highestDegree>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-abstract"/>
+    <inov:nationality>American</inov:nationality>
+    <inov:occupation>Programmer</inov:occupation>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/c4027f27-b039-4cc7-9a19-cdeeb7b70138"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/54b79524-dbe7-4776-9977-8e49973b96dc"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/387b2ba3-32a9-4e76-a98f-049a5e54f3de"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/c1280dc0-5b09-4482-8237-87cd99b3b188"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/62f19b24-2a12-49ee-9da9-beb355911f78">
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/c24aefa0-71d2-4c14-af05-d82029baa33c"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/6600c7fc-6381-4d7e-a59e-6928dfc55ede"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/d70cacf4-1700-458c-8e77-94c8a609ea5c"/>
+    <inov:gender>Male</inov:gender>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/fb85b2da-bc85-4ecc-b44c-5e9b94a72238"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-technical"/>
+    <inov:nationality>usa</inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/8f82ba7b-fcb5-4ec1-a898-3b33dbeb9e4d"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/f11bd02c-6d8a-417e-8d90-7bebb50e6f4c"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/bff11bde-36cf-4e0c-bde6-e17ae730971e"/>
+    <inov:age>46</inov:age>
+    <inov:occupation>accountant</inov:occupation>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/f4cb1889-cf3d-45f9-8eb6-6d21668aeee9"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/019608bc-24e7-4a93-92fd-fb90653632e2">
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/7cb1e8a6-3bfe-4612-af2e-fe47e9ff9de0"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/234d5733-a928-4de3-bebe-7b093364eb8c"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/5ce812f9-c9bb-4b01-b34a-cf1fe166f203"/>
+    <inov:gender>Male</inov:gender>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/10251071-fffb-4d49-baaa-9b23e984b55c"/>
+    <inov:nationality>Hispanic American </inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/befc8dc0-f36c-4d6f-849b-5c7df4e79fb1"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/eb93ab18-ecdc-4f36-9609-fac0868d2d1b"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:occupation>Inventory Trainer </inov:occupation>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/6e247afe-e777-4097-925d-d1b3eceea23b"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/1e8982d7-ece3-4b68-9537-7338d741b551"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/93f33ce6-3204-42bc-ac86-19408cdbbeee"/>
+    <inov:age>40</inov:age>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-abstract"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/c75057de-9785-4e77-9b41-4e59b9cab34a">
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/9eca6492-76be-4cf2-b323-eac6c23a2240"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/2b105667-95b4-49d5-b2bc-cc1a836eeec1"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-abstract"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/5d63e004-948a-4c39-a847-3673fc6e2c01"/>
+    <inov:occupation>audio engineer</inov:occupation>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:gender>Male</inov:gender>
+    <inov:highestDegree>High Scool</inov:highestDegree>
+    <inov:nationality>United States</inov:nationality>
+    <inov:age>29</inov:age>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/aa375320-b915-4b4c-bd54-33b3b6df6c18">
+    <inov:nationality>US</inov:nationality>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-technical"/>
+    <inov:gender>Female</inov:gender>
+    <inov:age>42</inov:age>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:occupation>Medical imaging</inov:occupation>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/207ed8be-e222-441c-bb86-3c75fc918208"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/720a2108-12b0-40bf-ab4a-6ac33e4f1fdf"/>
+    <inov:highestDegree>AAS</inov:highestDegree>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/e67499df-cee3-44d2-bde9-c5729ddec8d4"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/8ad9b9a4-8ca5-4d24-b472-53e948ba81fc">
+    <inov:highestDegree>High Scool</inov:highestDegree>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/7eaa0a43-2d8e-4e29-a51a-6d6458811e10"/>
+    <inov:age>36</inov:age>
+    <inov:occupation>csr</inov:occupation>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/b43d3cb5-6c59-4371-b6f2-ca719cfd4c28"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/c85388dd-d954-41c9-a96a-0bd180d01b10"/>
+    <inov:nationality>american</inov:nationality>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:gender>Female</inov:gender>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-abstract"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/bf2366ba-352d-449e-b41d-14e9eaf28723">
+    <inov:age>29</inov:age>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-technical"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/78626711-9605-4539-84f0-598c3418e865"/>
+    <inov:highestDegree>Master / Diploma</inov:highestDegree>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/0a34a320-c309-4aab-bae2-27a94aaa8c30"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/d44f2467-2e64-48ac-9bf0-a91bced9cfe3"/>
+    <inov:nationality>American</inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/1993da2b-008e-44de-aa1f-20f91df22123"/>
+    <inov:occupation>Registered nurse</inov:occupation>
+    <inov:gender>Female</inov:gender>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/c72d6bd7-264f-4a54-a748-a5a043078277">
+    <inov:occupation>Tech Support</inov:occupation>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/d89cc7d4-d2d2-4bb5-9b6a-cf8216eed2a1"/>
+    <inov:age>32</inov:age>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-metaphorical"/>
+    <inov:gender>Male</inov:gender>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/0a31f7b4-c1ba-4847-af90-3910b18c3e95"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/c33a4713-1d25-447f-b81c-666a3c2fcc46"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/bfd3dc28-c41f-427c-8e15-7b6cb49bea99"/>
+    <inov:nationality>American</inov:nationality>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/458ce313-3b2e-4f84-bc5d-9c7fab1b1705">
+    <inov:gender>Male</inov:gender>
+    <inov:age>27</inov:age>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-metaphorical"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/fb44e846-7fb3-42d9-984a-f08ff4c2a165"/>
+    <inov:nationality>American</inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/f7b396d0-3d15-4593-87f8-258fe69cd600"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/abd49db3-43fb-40df-b42e-6e432bba329a"/>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/c3861de0-e372-43e8-961e-8a49f806e9d5"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/35bd2d38-901e-4efc-8782-14f8a1e97278"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/6b815be1-1351-4813-8b9b-82d2476ed7c4"/>
+    <inov:occupation>Software Developer</inov:occupation>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/d12107ee-2f88-40ac-8870-1f8b4b56a590">
+    <inov:occupation>Department Manager</inov:occupation>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/dd51e092-d040-4030-b039-483e85df6272"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-technical"/>
+    <inov:age>25</inov:age>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/48eef69b-e77d-4dc1-8e1c-66f6a209c13f"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/b5dc731a-ff68-4384-b27c-5541cef83b6b"/>
+    <inov:gender>Male</inov:gender>
+    <inov:nationality>American</inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/6e6021d2-d309-4bc0-ab0c-331162a94abf"/>
+    <inov:highestDegree>High Scool</inov:highestDegree>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/f583affc-f885-4fd8-92fe-b5b3c3af6a69"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/50529be2-4770-43f3-a492-911bf8b6cc0c"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/75b4b048-306c-4d1f-971f-b9afb13d21ca">
+    <inov:gender>Other</inov:gender>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/e967e6f0-a684-4545-b359-a117feb7da09"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/bdc8b770-cff9-4b1d-a18f-a9cbcc8bf411"/>
+    <inov:age>33</inov:age>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/c2726560-952c-41ee-8074-4c666406260e"/>
+    <inov:occupation>Self Employed</inov:occupation>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/3d78258f-609e-4972-a94c-110a98265f32"/>
+    <inov:nationality>United States</inov:nationality>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/aa87e18c-c8b2-4651-bbd6-abd516e9acca"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/b7b884b5-335a-44f6-99ad-2d38b2f6d884"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/3dec5b7d-4435-49be-afc3-9f4de785c252"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/20cf289f-de5a-4922-acb1-aa789ccb44b4"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-metaphorical"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/75aebdc7-185c-43df-b3ff-e92542286eeb"/>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/38dc8c23-4c97-480a-ad6a-4b4641ea92f6">
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/5ee128d8-a330-4d43-8a9a-a9e01e2947ca"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-technical"/>
+    <inov:age>38</inov:age>
+    <inov:gender>Female</inov:gender>
+    <inov:nationality>American</inov:nationality>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/d2af1899-0f24-4cc6-92c4-3f5b69e7206c"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/c5fd653e-bc89-40e6-8338-f35309e40f7e"/>
+    <inov:occupation>Independent Contractor</inov:occupation>
+    <inov:highestDegree>Associate's degree</inov:highestDegree>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/072e39a0-df2a-4cb2-8d39-b5c8024fa881"/>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/dd89f24a-1b43-4b27-b084-08bfd5f66fe2"/>
+  </inov:Ideator>
+  <inov:Ideator rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/users/3f567b73-d658-4f65-b8d9-28fbf1a3bd88">
+    <inov:occupation>manager</inov:occupation>
+    <inov:hasBrainstormingSession rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/sessions/723ddc89-6206-4443-989b-c0ea58009502"/>
+    <inov:nationality>United States</inov:nationality>
+    <inov:highestDegree>Bachelor</inov:highestDegree>
+    <inov:gender>Male</inov:gender>
+    <inov:hasSubmittedIdeasForIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+    <inov:hasSubmittedIdeasForChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-metaphorical"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/02a5c41b-653b-4420-a3ea-a760011dbec0"/>
+    <inov:age>37</inov:age>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/db1d9741-a5bf-4521-80a8-9493874e6fc9"/>
+    <inov:isCreatorOf rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/e8cee923-1aca-4b3d-a57e-54081398b46f"/>
+  </inov:Ideator>
+</rdf:RDF>

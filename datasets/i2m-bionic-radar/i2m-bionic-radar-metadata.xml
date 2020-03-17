@@ -28,6 +28,7 @@
             3DWGDA5POFBZFCBSHD32NWJT1L71VW
             337F8MIIMZK0EA7V1YYF0106J9440K
             Those hits ran from 2019-04-01 11:19:06 -0700 to 2019-04-01 15:06:56 -0700
+            <!-- TODO add inspiration Config to Challenges -->
 
             The second round (i2m-bionic-radar-live) contained 10 HITS:
             metaphorical:
@@ -45,6 +46,7 @@
             3UQVX1UPFSOQBWS8XKFR7M38Z8I20M
             3Y3N5A7N4GGDFVSMFA9KENBQHREMY0
             3CVBMEMMXBN88XVA143795JXW7EH7V
+            <!-- TODO add inspiration Config to Challenges -->
 
             Those hits ran from 2019-04-30 11:47:41 -0700 to 2019-05-05 13:38:35 -0700
 
@@ -81,6 +83,30 @@
         <inov:sesionTimeInSeconds>1200</inov:sesionTimeInSeconds>
         <gi2mo:startDate>2018-04-01</gi2mo:startDate>
         <gi2mo:endDate>2018-04-01</gi2mo:endDate>
+    </inov:Challenge>
+
+    <inov:Challenge rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-technical">
+        <inov:taskDescription rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/task-descriptions/i2m-bionic-radar"/>
+        <inov:challengeDescription rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenge-descriptions/i2m-bionic-radar-technical"/>
+        <inov:sesionTimeInSeconds>1200</inov:sesionTimeInSeconds>
+        <gi2mo:startDate>2019-04-30</gi2mo:startDate>
+        <gi2mo:endDate>2019-05-05</gi2mo:endDate>
+    </inov:Challenge>
+
+    <inov:Challenge rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-metaphorical">
+        <inov:taskDescription rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/task-descriptions/i2m-bionic-radar"/>
+        <inov:challengeDescription rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenge-descriptions/i2m-bionic-radar-technical"/>
+        <inov:sesionTimeInSeconds>1200</inov:sesionTimeInSeconds>
+        <gi2mo:startDate>2019-04-30</gi2mo:startDate>
+        <gi2mo:endDate>2019-05-05</gi2mo:endDate>
+    </inov:Challenge>
+
+    <inov:Challenge rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-abstract">
+        <inov:taskDescription rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/task-descriptions/i2m-bionic-radar"/>
+        <inov:challengeDescription rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenge-descriptions/i2m-bionic-radar-technical"/>
+        <inov:sesionTimeInSeconds>1200</inov:sesionTimeInSeconds>
+        <gi2mo:startDate>2019-04-30</gi2mo:startDate>
+        <gi2mo:endDate>2019-05-05</gi2mo:endDate>
     </inov:Challenge>
 
     <inov:ResearchDescription rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/challenge-descriptions/i2m-bionic-radar-technical">
