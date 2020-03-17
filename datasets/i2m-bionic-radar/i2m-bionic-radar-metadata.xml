@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:gi2mo="http://purl.org/gi2mo/ns#"
+         xmlns:inov="http://purl.org/innovonto/types/#">
+
+    <gi2mo:IdeaContest rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar">
+        <dcterms:title>Bionic Radar</dcterms:title>
+        <dcterms:description>The second idea contest within the Ideas-to-Market Project. The Fraunhofer FHR, which
+            provided a new radar technology (called Bionic Radar) that uses machine learning to uniquely detect
+            movement patterns via radar, working even in bad weather.
+        </dcterms:description>
+        <dcterms:created>2018-05-15</dcterms:created>
+        <gi2mo:startDate>2019-04-01</gi2mo:startDate>
+        <gi2mo:endDate>2019-06-26</gi2mo:endDate>
+
+        <rdfs:comment>
+            In the Application Case 2 (ac2) we got 3 different research descriptions.
+            We conducted 6 data-collection rounds (3xTest, 3xLive) and collected 581 Sparks and 102 sessions.
+            The challenges had static inspirations
+            for the test-challenge, the inspirations were a word cloud and a video
+            for the live-challenge, the inspirations were word cloud, video and two images
+
+            The first round (i2m-bionic-radar-test-1) contained 4 HITS:
+            371Q3BEXDHGGIGFWVT7P43JYFWPSZ6
+            3W1K7D6QSBOH1UYUK7LUEE9YB84BZP
+            3DWGDA5POFBZFCBSHD32NWJT1L71VW
+            337F8MIIMZK0EA7V1YYF0106J9440K
+            Those hits ran from 2019-04-01 11:19:06 -0700 to 2019-04-01 15:06:56 -0700
+
+            The second round (i2m-bionic-radar-live) contained 10 HITS:
+            metaphorical:
+            38VTL6WC4AKF7O7GNBSYXL04VVJY5F
+            3BO3NEOQM0OQNU4SEPXCJ8M2XRLIA0
+            3X2YVV51PUBCU1BX7N8Y9Y2788K1W9
+            3RQVKZ7ZRKQ4T7SSIJ00M1DV7OW723
+
+            technical:
+            3X878VYTIEPOU1446EF76K7KGQQ7F8
+            3OZ4VAIBEXM6ATRW7298RWFFVGHJVK
+            3BFNCI9LYKXTEPOBMJE55BIND2W73E
+
+            abstract:
+            3UQVX1UPFSOQBWS8XKFR7M38Z8I20M
+            3Y3N5A7N4GGDFVSMFA9KENBQHREMY0
+            3CVBMEMMXBN88XVA143795JXW7EH7V
+
+            Those hits ran from 2019-04-30 11:47:41 -0700 to 2019-05-05 13:38:35 -0700
+
+
+            The CeRRI used those 581 sparks to cluster and then generated 24 Ideas out of them.
+            We send the sparks to CeRRI at 03.05.2019 and received ideas at 03.06.2019
+
+            Those were partially inspired by sparks.
+
+            The ideas were then given to the experts, which then generated Y options.
+            The options were created at the date of the group workshop: 26.06.2019
+        </rdfs:comment>
+    </gi2mo:IdeaContest>
+
+    <inov:Challenge rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-test-technical">
+        <inov:taskDescription rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/task-descriptions/i2m-bionic-radar"/>
+        <inov:challengeDescription rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenge-descriptions/i2m-bionic-radar-technical"/>
+        <inov:sesionTimeInSeconds>1200</inov:sesionTimeInSeconds>
+        <gi2mo:startDate>2018-04-01</gi2mo:startDate>
+        <gi2mo:endDate>2018-04-01</gi2mo:endDate>
+    </inov:Challenge>
+
+    <inov:Challenge rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-test-metaphorical">
+        <inov:taskDescription rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/task-descriptions/i2m-bionic-radar"/>
+        <inov:challengeDescription rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenge-descriptions/i2m-bionic-radar-metaphorical"/>
+        <inov:sesionTimeInSeconds>1200</inov:sesionTimeInSeconds>
+        <gi2mo:startDate>2018-04-01</gi2mo:startDate>
+        <gi2mo:endDate>2018-04-01</gi2mo:endDate>
+    </inov:Challenge>
+
+    <inov:Challenge rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-test-abstract">
+        <inov:taskDescription rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/task-descriptions/i2m-bionic-radar"/>
+        <inov:challengeDescription rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenge-descriptions/i2m-bionic-radar-abstract"/>
+        <inov:sesionTimeInSeconds>1200</inov:sesionTimeInSeconds>
+        <gi2mo:startDate>2018-04-01</gi2mo:startDate>
+        <gi2mo:endDate>2018-04-01</gi2mo:endDate>
+    </inov:Challenge>
+
+    <inov:ResearchDescription rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/challenge-descriptions/i2m-bionic-radar-technical">
+        <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+        <inov:challenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-test-technical"/>
+
+        <dcterms:title xml:lang="de">technisch (detailliert, technisch ausformuliert)</dcterms:title>
+        <dcterms:title xml:lang="en">technical</dcterms:title>
+        <dcterms:description>
+            A technology combines the functionality of two components: radar unit and artificial intelligence.
+            The radar unit enables the detection of moving objects, such as humans, living beings or objects. For this
+            purpose, the technology emits radar waves, which are reflected by the respective object and returned to the
+            radar unit. The reflected signal contains object-specific information about its movement and properties.
+            This object information is subsequently analyzed using artificial intelligence (AI). By storing the
+            information in a database and comparing it with movement data of other objects, the technology can recognize
+            comprehensive movement patterns. Additionally, the AI component ​​recognizes objects that have previously
+            been recorded, thus allowing their exact identification.
+            The technology described above even functions in conditions of constrained visibility and in complete
+            darkness. Severe weather conditions and visual obstacles such as smoke, smog or steam pose no problem. Even
+            biological substances such as human clothing or animal fur do not interfere with movement detection.
+            However, metal and water remain opaque and cannot be penetrated. The technology is approximately hand-sized
+            and can be used anywhere.
+        </dcterms:description>
+        <dcterms:created>2019-03-21</dcterms:created>
+    </inov:ResearchDescription>
+
+    <inov:ResearchDescription rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/challenge-descriptions/i2m-bionic-radar-abstract">
+        <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+        <inov:challenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-test-abstract"/>
+
+        <dcterms:title xml:lang="de">abstrakt (keine eindeutigen Technologiebegriffe)</dcterms:title>
+        <dcterms:title xml:lang="en">abstract</dcterms:title>
+        <dcterms:description>
+            A technology can perceive the movement of objects such as people, living beings and objects. By remembering
+            the object’s movement, it is capable of recognizing the same object later on. Furthermore, the technology
+            can compare the object’s movement with the movement of other objects, and thereby conclude comprehensive
+            movement patterns. These movement patterns enable the detection of objects with the same movement profile.
+            The technology described above even functions in conditions of constrained visibility and in complete
+            darkness. Severe weather conditions and visual obstacles such as smoke, smog or steam pose no problem. Even
+            biological substances such as human clothing or animal fur do not interfere with movement detection.
+            However, metal and water remain opaque and cannot be penetrated. The technology is approximately hand-sized
+            and can be used anywhere.
+        </dcterms:description>
+        <dcterms:created>2019-03-21</dcterms:created>
+
+    </inov:ResearchDescription>
+
+    <inov:ResearchDescription rdf:about="http://www.ideas-to-market.de/ac2/research-descriptions/metaphorical">
+        <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
+        <inov:challenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-test-metaphorical"/>
+        <dcterms:title xml:lang="de">metaphorisch</dcterms:title>
+        <dcterms:title xml:lang="en">metaphorical</dcterms:title>
+        <dcterms:description>
+            A technology can perceive the movement of an object, such as humans, living beings or objects, like a bat.
+            Once remembered, the technology can subsequently recognize it like a mother can pick her child out of a
+            crowd. By comparing the object’s movement with the movement of other objects, the technology can recognize
+            comprehensive movement patterns, like a good doctor can diagnose a knee disease by observing a specific
+            walking motion.
+            The technology described above even functions in conditions of constrained visibility and in complete
+            darkness. Severe weather conditions and visual obstacles such as smoke, smog or steam pose no problem. Even
+            biological substances such as human clothing or animal fur do not interfere with movement detection.
+            However, metal and water remain opaque and cannot be penetrated. The technology is approximately hand-sized
+            and can be used anywhere.
+        </dcterms:description>
+        <dcterms:created>2019-03-21</dcterms:created>
+    </inov:ResearchDescription>
+
+    <inov:TaskDescription rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/task-descriptions/i2m-bionic-radar">
+        <dcterms:description>
+            For which tasks and objectives can the described technology be useful? Brainstorm and generate application
+            ideas for the described technology. Thereby use your experiences from private life, occupation or hobbies.
+            We encourage you to be creative but also to consider the described limitations.
+        </dcterms:description>
+    </inov:TaskDescription>
+
+</rdf:RDF>
