@@ -128,7 +128,7 @@
 
     </inov:ResearchDescription>
 
-    <inov:ResearchDescription rdf:about="http://www.ideas-to-market.de/ac2/research-descriptions/metaphorical">
+    <inov:ResearchDescription rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/challenge-descriptions/i2m-bionic-radar-metaphorical">
         <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-bionic-radar"/>
         <inov:challenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-test-metaphorical"/>
         <dcterms:title xml:lang="de">metaphorisch</dcterms:title>
