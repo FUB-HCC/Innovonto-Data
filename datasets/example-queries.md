@@ -47,3 +47,15 @@
     }
     GROUP BY ?ideator
     ORDER BY DESC(?sessionCount)
+    
+    
+## Find for each idea in which brainstorming session it was generated
+
+    PREFIX gi2mo:<http://purl.org/gi2mo/ns#>    
+    PREFIX inov:<http://purl.org/innovonto/types/#>
+    
+    SELECT ?idea ?session WHERE {
+      ?session a inov:BrainstormingSession.
+      ?session inov:hasTrackingEvent ?trackingEvent.
+      ?trackingEvent inov:submittedIdea ?idea.
+    }
