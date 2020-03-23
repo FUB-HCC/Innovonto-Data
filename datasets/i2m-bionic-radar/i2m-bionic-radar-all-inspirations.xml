@@ -1,23 +1,22 @@
 <rdf:RDF
-    xmlns:dcterms="http://purl.org/dc/terms/"
-    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    xmlns:inov="http://purl.org/innovonto/types/#"
-    xmlns:gi2mo="http://purl.org/gi2mo/ns#"
-    xmlns:oid="http://purl.org/innovonto/legacy/types#">
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:inov="http://purl.org/innovonto/types/#"
+        xmlns:gi2mo="http://purl.org/gi2mo/ns#"
+        xmlns:oid="http://purl.org/innovonto/legacy/types#">
   <inov:StaticInspiration rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/inspirations/d3569542-674e-4815-b37b-404d24138889">
-    <gi2mo:content>&lt;div class="wordcloud-container"&gt;&lt;img src="/images/inspirations/walkingHumanInspiration.jpg"/&gt;&lt;/div&gt;</gi2mo:content>
-    <oid:fallBackContent>https://innovonto-core.imp.fu-berlin.de/media/bionic-radar/walkingHumanInspiration.jpg</oid:fallBackContent>
+    <gi2mo:content>https://innovonto-core.imp.fu-berlin.de/media/bionic-radar/walkingHumanInspiration.jpg</gi2mo:content>
+    <oid:inspirationContainer>&lt;div class="wordcloud-container"&gt;&lt;img src="/images/inspirations/walkingHumanInspiration.jpg"/&gt;&lt;/div&gt;</oid:inspirationContainer>
   </inov:StaticInspiration>
   <inov:StaticInspiration rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/inspirations/ef20cf3a-59bf-4e1f-9484-e0581529c7ab">
-    <gi2mo:content>&lt;video src="/videos/I2M_360grad_ani_08_30fps_640x340_compressed.mp4" autoplay="" loop="", controls="" width="698" height="401"&gt;&lt;/video&gt;</gi2mo:content>
-    <oid:fallBackContent>https://innovonto-core.imp.fu-berlin.de/media/bionic-radar/landscape.png</oid:fallBackContent>
+    <oid:inspirationContainer>&lt;video src="/videos/I2M_360grad_ani_08_30fps_640x340_compressed.mp4" autoplay="" loop="", controls="" width="698" height="401"&gt;&lt;/video&gt;</oid:inspirationContainer>
+    <gi2mo:content>https://innovonto-core.imp.fu-berlin.de/media/bionic-radar/landscape.png</gi2mo:content>
   </inov:StaticInspiration>
   <inov:StaticInspiration rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/inspirations/c30b6dac-476b-4289-a68e-31a0c8e5df14">
-    <gi2mo:content>&lt;div class="wordcloud-container"&gt;&lt;img src="/images/inspirations/movementArrowsInspiration.jpg"/&gt;&lt;/div&gt;</gi2mo:content>
-    <oid:fallBackContent>https://innovonto-core.imp.fu-berlin.de/media/bionic-radar/movementArrowsInspiration.jpg</oid:fallBackContent>
+    <oid:inspirationContainer>&lt;div class="wordcloud-container"&gt;&lt;img src="/images/inspirations/movementArrowsInspiration.jpg"/&gt;&lt;/div&gt;</oid:inspirationContainer>
+    <gi2mo:content>https://innovonto-core.imp.fu-berlin.de/media/bionic-radar/movementArrowsInspiration.jpg</gi2mo:content>
   </inov:StaticInspiration>
   <inov:StaticInspiration rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/inspirations/da884baf-47d1-416d-8275-2e3f96077408">
-    <gi2mo:content>&lt;div class="wordcloud-container"&gt;&lt;img src="/images/inspirations/Technologie_Wordcloud_2_3.jpg"/&gt;&lt;/div&gt;</gi2mo:content>
-    <oid:fallBackContent>https://innovonto-core.imp.fu-berlin.de/media/bionic-radar/wordcloud.jpg</oid:fallBackContent>
+    <oid:inspirationContainer>&lt;div class="wordcloud-container"&gt;&lt;img src="/images/inspirations/Technologie_Wordcloud_2_3.jpg"/&gt;&lt;/div&gt;</oid:inspirationContainer>
+    <gi2mo:content>https://innovonto-core.imp.fu-berlin.de/media/bionic-radar/wordcloud.jpg</gi2mo:content>
   </inov:StaticInspiration>
 </rdf:RDF>
