@@ -1,0 +1,1422 @@
+<rdf:RDF
+        xmlns:dcterms="http://purl.org/dc/terms/"
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:gi2mo="http://purl.org/gi2mo/ns#">
+  <rdf:Description rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/challenge-descriptions/i2m-bionic-radar-abstract">
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description enabled me to generate ideas easily.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/8cbc8a5b-44ca-4e09-8335-d45f17e895db"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description was easy to understand.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/5e8d0acd-5d99-4b66-94de-9b5bd77a5721"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description enabled me to generate ideas easily.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/a0409c6b-5ad3-43c8-8a4e-eb74f5416297"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description was easy to understand.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/8d5e4fc8-44b6-43e7-b191-b9ea81f352be"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description enabled me to generate ideas easily.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/3c676292-9930-49e9-b98c-88638f176825"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description was easy to understand.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/3c676292-9930-49e9-b98c-88638f176825"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description enabled me to generate ideas easily.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/5e8d0acd-5d99-4b66-94de-9b5bd77a5721"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description enabled me to generate ideas easily.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/6b8e7be5-1b4f-49b1-81f2-d2ba8787744b"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description was easy to understand.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/82a88518-d7b1-4c12-a7ee-f95c6a482acd"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description enabled me to generate ideas easily.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/82a88518-d7b1-4c12-a7ee-f95c6a482acd"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description enabled me to generate ideas easily.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/8d5e4fc8-44b6-43e7-b191-b9ea81f352be"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description enabled me to generate ideas easily.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/def412e4-9079-4f41-8833-6a71af260593"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description was easy to understand.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/6b8e7be5-1b4f-49b1-81f2-d2ba8787744b"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >2</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description enabled me to generate ideas easily.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/efacc35b-b127-4b2a-af7f-8f0c858472bc"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >2</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description was easy to understand.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/efacc35b-b127-4b2a-af7f-8f0c858472bc"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description was easy to understand.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/a0409c6b-5ad3-43c8-8a4e-eb74f5416297"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description was easy to understand.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/def412e4-9079-4f41-8833-6a71af260593"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description was easy to understand.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/8cbc8a5b-44ca-4e09-8335-d45f17e895db"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/inspirations/ef20cf3a-59bf-4e1f-9484-e0581529c7ab">
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The animated 3D-landscape enabled me be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/82bd41f8-c8a0-4d6a-8177-b51b4dd8b8c7"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >2</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The animated 3D-landscape enabled me be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/feeb7ba2-74ca-4c39-a183-1eaf672f068d"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The animated 3D-landscape enabled me be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/a84e3787-8cef-4577-bb79-8b5692549a78"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The animated 3D-landscape enabled me be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/015b6209-e9d6-4039-99b3-73825c50284a"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The animated 3D-landscape enabled me be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/efacc35b-b127-4b2a-af7f-8f0c858472bc"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >2</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The animated 3D-landscape enabled me be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/2fba5050-b774-4b0e-800f-50910cc603b1"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >2</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The animated 3D-landscape enabled me be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/3c676292-9930-49e9-b98c-88638f176825"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The animated 3D-landscape enabled me be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/24e7178f-cc79-47e5-9857-3762242d8ede"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The animated 3D-landscape enabled me be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/5e8d0acd-5d99-4b66-94de-9b5bd77a5721"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The animated 3D-landscape enabled me be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/d0827086-dd99-40bb-9146-6e7860208d91"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The animated 3D-landscape enabled me be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/702b08e1-3385-4bb9-9365-d927431a2a45"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The animated 3D-landscape enabled me be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/32967829-d6c8-42dd-8810-681b35d883a3"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The animated 3D-landscape enabled me be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/c1522619-359c-41cc-b0e4-c20bc072de49"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The animated 3D-landscape enabled me be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/3b70614a-8cfd-4eb9-91a0-55ef74b94a5c"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The animated 3D-landscape enabled me be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/163de961-0df1-444f-bcec-d0021815596d"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The animated 3D-landscape enabled me be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/8d5e4fc8-44b6-43e7-b191-b9ea81f352be"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The animated 3D-landscape enabled me be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/dd6806ef-ee94-4cf1-9f82-00c4999f8136"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The animated 3D-landscape enabled me be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/07acbe36-277f-4e5a-8830-4361288fb5cc"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >2</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The animated 3D-landscape enabled me be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/6b8e7be5-1b4f-49b1-81f2-d2ba8787744b"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The animated 3D-landscape enabled me be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/251293e1-66c8-4ff4-b1ff-92a617a88643"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >2</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The animated 3D-landscape enabled me be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/def412e4-9079-4f41-8833-6a71af260593"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/challenge-descriptions/i2m-bionic-radar-technical">
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description enabled me to generate ideas easily.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/c1522619-359c-41cc-b0e4-c20bc072de49"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description enabled me to generate ideas easily.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/702b08e1-3385-4bb9-9365-d927431a2a45"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description was easy to understand.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/07acbe36-277f-4e5a-8830-4361288fb5cc"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description enabled me to generate ideas easily.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/163de961-0df1-444f-bcec-d0021815596d"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description enabled me to generate ideas easily.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/6083ea52-8adb-4526-832f-ff68c349f38a"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description was easy to understand.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/702b08e1-3385-4bb9-9365-d927431a2a45"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description was easy to understand.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/163de961-0df1-444f-bcec-d0021815596d"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description was easy to understand.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/91793c42-0d15-4efe-8dad-8210c804bd50"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description enabled me to generate ideas easily.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/a84e3787-8cef-4577-bb79-8b5692549a78"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >2</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description enabled me to generate ideas easily.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/3b70614a-8cfd-4eb9-91a0-55ef74b94a5c"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description enabled me to generate ideas easily.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/07acbe36-277f-4e5a-8830-4361288fb5cc"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description was easy to understand.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/251293e1-66c8-4ff4-b1ff-92a617a88643"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >2</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description was easy to understand.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/3b70614a-8cfd-4eb9-91a0-55ef74b94a5c"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description enabled me to generate ideas easily.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/251293e1-66c8-4ff4-b1ff-92a617a88643"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description enabled me to generate ideas easily.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/91793c42-0d15-4efe-8dad-8210c804bd50"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description was easy to understand.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/a84e3787-8cef-4577-bb79-8b5692549a78"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description was easy to understand.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/c1522619-359c-41cc-b0e4-c20bc072de49"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description was easy to understand.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/6083ea52-8adb-4526-832f-ff68c349f38a"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/inspirations/da884baf-47d1-416d-8275-2e3f96077408">
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The wordcloud enabled me to be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/def412e4-9079-4f41-8833-6a71af260593"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The wordcloud enabled me to be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/efacc35b-b127-4b2a-af7f-8f0c858472bc"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The wordcloud enabled me to be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/feeb7ba2-74ca-4c39-a183-1eaf672f068d"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The wordcloud enabled me to be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/91793c42-0d15-4efe-8dad-8210c804bd50"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The wordcloud enabled me to be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/a84e3787-8cef-4577-bb79-8b5692549a78"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The wordcloud enabled me to be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/5e8d0acd-5d99-4b66-94de-9b5bd77a5721"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The wordcloud enabled me to be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/82bd41f8-c8a0-4d6a-8177-b51b4dd8b8c7"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The wordcloud enabled me to be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/8cbc8a5b-44ca-4e09-8335-d45f17e895db"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The wordcloud enabled me to be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/3b70614a-8cfd-4eb9-91a0-55ef74b94a5c"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The wordcloud enabled me to be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/d0827086-dd99-40bb-9146-6e7860208d91"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The wordcloud enabled me to be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/8d5e4fc8-44b6-43e7-b191-b9ea81f352be"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The wordcloud enabled me to be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/a0409c6b-5ad3-43c8-8a4e-eb74f5416297"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The wordcloud enabled me to be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/6b8e7be5-1b4f-49b1-81f2-d2ba8787744b"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The wordcloud enabled me to be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/82a88518-d7b1-4c12-a7ee-f95c6a482acd"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The wordcloud enabled me to be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/3c676292-9930-49e9-b98c-88638f176825"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The wordcloud enabled me to be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/251293e1-66c8-4ff4-b1ff-92a617a88643"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The wordcloud enabled me to be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/c1522619-359c-41cc-b0e4-c20bc072de49"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The wordcloud enabled me to be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/163de961-0df1-444f-bcec-d0021815596d"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >2</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The wordcloud enabled me to be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/91651f85-5808-488b-b16e-c32bd44cf4a7"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The wordcloud enabled me to be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/07acbe36-277f-4e5a-8830-4361288fb5cc"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >2</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The wordcloud enabled me to be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/2fba5050-b774-4b0e-800f-50910cc603b1"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The wordcloud enabled me to be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/32967829-d6c8-42dd-8810-681b35d883a3"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The wordcloud enabled me to be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/702b08e1-3385-4bb9-9365-d927431a2a45"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The wordcloud enabled me to be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/dd6806ef-ee94-4cf1-9f82-00c4999f8136"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >2</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The wordcloud enabled me to be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/015b6209-e9d6-4039-99b3-73825c50284a"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The wordcloud enabled me to be more creative</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/24e7178f-cc79-47e5-9857-3762242d8ede"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-test-abstract">
+    <gi2mo:hasReview>
+      <gi2mo:TextualReview>
+        <gi2mo:content>No comments :)</gi2mo:content>
+        <dcterms:description>We try to provide the best possible user experience, so it's always valuable to get feedback. If you have some  advice or recommendations for us, please put it here</dcterms:description>
+        <dcterms:title>Free Text Feedback</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/efacc35b-b127-4b2a-af7f-8f0c858472bc"/>
+      </gi2mo:TextualReview>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:TextualReview>
+        <gi2mo:content>Great task!</gi2mo:content>
+        <dcterms:description>We try to provide the best possible user experience, so it's always valuable to get feedback. If you have some  advice or recommendations for us, please put it here</dcterms:description>
+        <dcterms:title>Free Text Feedback</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/8cbc8a5b-44ca-4e09-8335-d45f17e895db"/>
+      </gi2mo:TextualReview>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:TextualReview>
+        <gi2mo:content>n/a</gi2mo:content>
+        <dcterms:description>We try to provide the best possible user experience, so it's always valuable to get feedback. If you have some  advice or recommendations for us, please put it here</dcterms:description>
+        <dcterms:title>Free Text Feedback</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/a0409c6b-5ad3-43c8-8a4e-eb74f5416297"/>
+      </gi2mo:TextualReview>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:TextualReview>
+        <gi2mo:content>Everything worked fine, thanks</gi2mo:content>
+        <dcterms:description>We try to provide the best possible user experience, so it's always valuable to get feedback. If you have some  advice or recommendations for us, please put it here</dcterms:description>
+        <dcterms:title>Free Text Feedback</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/82a88518-d7b1-4c12-a7ee-f95c6a482acd"/>
+      </gi2mo:TextualReview>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:TextualReview>
+        <gi2mo:content>n/a</gi2mo:content>
+        <dcterms:description>We try to provide the best possible user experience, so it's always valuable to get feedback. If you have some  advice or recommendations for us, please put it here</dcterms:description>
+        <dcterms:title>Free Text Feedback</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/8d5e4fc8-44b6-43e7-b191-b9ea81f352be"/>
+      </gi2mo:TextualReview>
+    </gi2mo:hasReview>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-test-technical">
+    <gi2mo:hasReview>
+      <gi2mo:TextualReview>
+        <gi2mo:content>enjoyed</gi2mo:content>
+        <dcterms:description>We try to provide the best possible user experience, so it's always valuable to get feedback. If you have some  advice or recommendations for us, please put it here</dcterms:description>
+        <dcterms:title>Free Text Feedback</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/a84e3787-8cef-4577-bb79-8b5692549a78"/>
+      </gi2mo:TextualReview>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:TextualReview>
+        <gi2mo:content>On the tag "website" the site Suicide Girls came up. The thumbnail was a nude woman, you might want to deal with that or label that there might be adult content.</gi2mo:content>
+        <dcterms:description>We try to provide the best possible user experience, so it's always valuable to get feedback. If you have some  advice or recommendations for us, please put it here</dcterms:description>
+        <dcterms:title>Free Text Feedback</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/07acbe36-277f-4e5a-8830-4361288fb5cc"/>
+      </gi2mo:TextualReview>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:TextualReview>
+        <gi2mo:content>It was very fun and interesting.  The description of technology was kinda hard to understand the first time I read it. I had to reread it to make sure I understood what it was trying to describe.   But it was a fun study.  Thanks and I hope you have a great week!   </gi2mo:content>
+        <dcterms:description>We try to provide the best possible user experience, so it's always valuable to get feedback. If you have some  advice or recommendations for us, please put it here</dcterms:description>
+        <dcterms:title>Free Text Feedback</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/3b70614a-8cfd-4eb9-91a0-55ef74b94a5c"/>
+      </gi2mo:TextualReview>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:TextualReview>
+        <gi2mo:content>That was fun!</gi2mo:content>
+        <dcterms:description>We try to provide the best possible user experience, so it's always valuable to get feedback. If you have some  advice or recommendations for us, please put it here</dcterms:description>
+        <dcterms:title>Free Text Feedback</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/702b08e1-3385-4bb9-9365-d927431a2a45"/>
+      </gi2mo:TextualReview>
+    </gi2mo:hasReview>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-bionic-radar-test-metaphorical">
+    <gi2mo:hasReview>
+      <gi2mo:TextualReview>
+        <gi2mo:content>I really liked the interface of this study. Everything was understood and worked properly. I did have one accidental typo in one of my suggestions so I resubmitted the idea with the fixed typo. </gi2mo:content>
+        <dcterms:description>We try to provide the best possible user experience, so it's always valuable to get feedback. If you have some  advice or recommendations for us, please put it here</dcterms:description>
+        <dcterms:title>Free Text Feedback</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/82bd41f8-c8a0-4d6a-8177-b51b4dd8b8c7"/>
+      </gi2mo:TextualReview>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:TextualReview>
+        <gi2mo:content>The interface was quite easy to navigate and helpful in the process.  Sometimes the suggestions for defining terms were off-base or difficult to discover. However, overall the system is intuitive, easy to use and helpful. Nice work!</gi2mo:content>
+        <dcterms:description>We try to provide the best possible user experience, so it's always valuable to get feedback. If you have some  advice or recommendations for us, please put it here</dcterms:description>
+        <dcterms:title>Free Text Feedback</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/91651f85-5808-488b-b16e-c32bd44cf4a7"/>
+      </gi2mo:TextualReview>
+    </gi2mo:hasReview>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/challenge-descriptions/i2m-bionic-radar-metaphorical">
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description enabled me to generate ideas easily.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/d0827086-dd99-40bb-9146-6e7860208d91"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description enabled me to generate ideas easily.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/2fba5050-b774-4b0e-800f-50910cc603b1"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >2</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description enabled me to generate ideas easily.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/feeb7ba2-74ca-4c39-a183-1eaf672f068d"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description enabled me to generate ideas easily.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/91651f85-5808-488b-b16e-c32bd44cf4a7"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description enabled me to generate ideas easily.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/015b6209-e9d6-4039-99b3-73825c50284a"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description enabled me to generate ideas easily.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/dd6806ef-ee94-4cf1-9f82-00c4999f8136"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description enabled me to generate ideas easily.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/82bd41f8-c8a0-4d6a-8177-b51b4dd8b8c7"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >2</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description was easy to understand.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/feeb7ba2-74ca-4c39-a183-1eaf672f068d"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >2</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description was easy to understand.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/dd6806ef-ee94-4cf1-9f82-00c4999f8136"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description was easy to understand.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/2fba5050-b774-4b0e-800f-50910cc603b1"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description was easy to understand.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/91651f85-5808-488b-b16e-c32bd44cf4a7"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description was easy to understand.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/32967829-d6c8-42dd-8810-681b35d883a3"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description was easy to understand.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/24e7178f-cc79-47e5-9857-3762242d8ede"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description was easy to understand.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/82bd41f8-c8a0-4d6a-8177-b51b4dd8b8c7"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description enabled me to generate ideas easily.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/32967829-d6c8-42dd-8810-681b35d883a3"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description enabled me to generate ideas easily.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/24e7178f-cc79-47e5-9857-3762242d8ede"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >3</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description was easy to understand.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/d0827086-dd99-40bb-9146-6e7860208d91"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+    <gi2mo:hasReview>
+      <gi2mo:MinMaxRating>
+        <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:maxRatingValue>
+        <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >1</gi2mo:minRatingValue>
+        <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#long"
+        >4</gi2mo:ratingValue>
+        <dcterms:description>4:Agree,3:Rather agree,2:Rather disagree,1:Disagree</dcterms:description>
+        <dcterms:title>The technology description was easy to understand.</dcterms:title>
+        <dcterms:creator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/015b6209-e9d6-4039-99b3-73825c50284a"/>
+      </gi2mo:MinMaxRating>
+    </gi2mo:hasReview>
+  </rdf:Description>
+</rdf:RDF>
