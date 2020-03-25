@@ -6,6 +6,7 @@
         xmlns:gi2mo="http://purl.org/gi2mo/ns#"
         xmlns:oid="http://purl.org/innovonto/legacy/types#">
     <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/d40324a8-44a6-428e-b1de-74b7503f0bac">
+        <inov:ideaType>Idea</inov:ideaType>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Women"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Sports+field"/>
         <oid:status>
@@ -147,6 +148,7 @@
         <oid:createdInternally>true</oid:createdInternally>
     </gi2mo:Idea>
     <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/9f1394cb-df11-4be1-9233-a64b6f82ffde">
+        <inov:ideaType>Idea</inov:ideaType>
         <inov:hasAnnotation>
             <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/6136">
                 <inov:hasResourceCandidate>
@@ -332,6 +334,7 @@
         <dcterms:title>Digital Post-its</dcterms:title>
         <inov:inspiredBy>
             <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/a9881362-fad6-4882-b234-83567e2192c7">
+                <inov:ideaType>Spark</inov:ideaType>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Hotels"/>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Employees"/>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Childless+couples"/>
@@ -722,6 +725,7 @@
         <gi2mo:hasCreator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/43f7c9ff-f990-4a18-b3ff-b4404fad8a49"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Retirement+home"/>
         <oid:createdInternally>true</oid:createdInternally>
+        <inov:ideaType>Idea</inov:ideaType>
         <inov:hasTextualRefinement rdf:parseType="Resource">
             <gi2mo:content>monitor heartbeat, body temperature and other health factors ..</gi2mo:content>
             <dcterms:description>Which problem does the idea solve?</dcterms:description>
@@ -776,8 +780,8 @@
         <inov:icon>/media/tco/icons/180.png</inov:icon>
         <inov:inspiredBy>
             <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/afcf4966-10e9-4f0b-af71-20e88717ff3a">
+                <inov:ideaType>Spark</inov:ideaType>
                 <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
-                <inov:icon>/images/idea-image-placeholder.png</inov:icon>
                 <gi2mo:hasReview>
                     <gi2mo:MinMaxRating>
                         <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
@@ -827,6 +831,7 @@
                         <dcterms:description>Feasibility of the idea</dcterms:description>
                     </gi2mo:MinMaxRating>
                 </gi2mo:hasReview>
+                <inov:ideaType>Spark</inov:ideaType>
                 <oid:status>
                     <oid:IdeaStatus rdf:about="http://purl.org/innovonto/i2m-legacy/status/INCOMPLETE"/>
                 </oid:status>
@@ -991,6 +996,7 @@
         </gi2mo:hasReview>
         <inov:inspiredBy>
             <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/8f80869a-7145-4f0e-b9cf-62cf623c92a2">
+                <inov:ideaType>Spark</inov:ideaType>
                 <dcterms:title>TCO body ink</dcterms:title>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Self-optimizers"/>
                 <inov:hasTextualRefinement rdf:parseType="Resource">
@@ -1234,6 +1240,7 @@
         </inov:hasAnnotation>
     </gi2mo:Idea>
     <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/9eee943f-b704-43e7-abc7-95aa189262a3">
+        <inov:ideaType>Spark</inov:ideaType>
         <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/136"/>
         <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
         <inov:hasAnnotation>
@@ -1368,6 +1375,7 @@
     <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/dcf54d53-cd3d-4ede-aaba-b8470bee7377">
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Women"/>
         <oid:createdInternally>true</oid:createdInternally>
+        <inov:ideaType>Idea</inov:ideaType>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Garden"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Bathroom"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/School"/>
@@ -1630,7 +1638,6 @@
                 <dcterms:description>Novelty of the idea</dcterms:description>
             </gi2mo:MinMaxRating>
         </gi2mo:hasReview>
-        <inov:icon>/images/idea-image-placeholder.png</inov:icon>
         <inov:hasAnnotation>
             <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/1848">
                 <inov:hasResourceCandidate>
@@ -1643,6 +1650,7 @@
                 <inov:annotationState>approved</inov:annotationState>
             </inov:AnnotationCandidate>
         </inov:hasAnnotation>
+        <inov:ideaType>Spark</inov:ideaType>
         <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/INCOMPLETE"/>
         <gi2mo:content>Use it for the car traffic. Put it on traffic lights to avoid problems when the electricity breaks down, as the lights can be controlled remotely. also put it on the asphalt esp at crossings etc to steer the traffic if necessary with visual signs e.g. this lane goes left, this goes right et.c..</gi2mo:content>
         <inov:hasAnnotation>
@@ -1671,9 +1679,9 @@
                 <dcterms:description>Novelty of the idea</dcterms:description>
             </gi2mo:MinMaxRating>
         </gi2mo:hasReview>
-        <inov:icon>/images/idea-image-placeholder.png</inov:icon>
         <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/OntoideaLegacyAppTCO"/>
         <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/INCOMPLETE"/>
+        <inov:ideaType>Spark</inov:ideaType>
         <inov:hasAnnotation>
             <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/2466">
                 <inov:hasResourceCandidate>
@@ -1834,6 +1842,7 @@
         <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/OntoideaLegacyAppTCO"/>
         <inov:inspiredBy rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideas/a9881362-fad6-4882-b234-83567e2192c7"/>
         <oid:createdInternally>true</oid:createdInternally>
+        <inov:ideaType>Idea</inov:ideaType>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Professionals"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Kindergarten"/>
         <inov:hasAnnotation>
@@ -2044,10 +2053,11 @@
             </gi2mo:MinMaxRating>
         </gi2mo:hasReview>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Showroom+%26+exhibition+room"/>
-        <dcterms:title>Temperatur Sign</dcterms:title>
+        <dcterms:title>Temperature Sign</dcterms:title>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Hospitals+%26+medical+practice"/>
         <inov:icon>/media/tco/icons/175.png</inov:icon>
         <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/SELECTED_BY_MODERATORS"/>
+        <inov:ideaType>Idea</inov:ideaType>
         <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
         <gi2mo:hasCreator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/43f7c9ff-f990-4a18-b3ff-b4404fad8a49"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Retail+stores"/>
@@ -2209,6 +2219,7 @@
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Trucks"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Students"/>
         <inov:icon>/media/tco/icons/141.png</inov:icon>
+        <inov:ideaType>Spark</inov:ideaType>
         <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/COMPLETE"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Companies"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Kindergarten"/>
@@ -2342,6 +2353,7 @@
             </inov:AnnotationCandidate>
         </inov:hasAnnotation>
         <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/INCOMPLETE"/>
+        <inov:ideaType>Spark</inov:ideaType>
         <gi2mo:hasReview>
             <gi2mo:MinMaxRating>
                 <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
@@ -2472,6 +2484,7 @@
             </gi2mo:MinMaxRating>
         </gi2mo:hasReview>
         <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/SELECTED_BY_MODERATORS"/>
+        <inov:ideaType>Idea</inov:ideaType>
         <oid:createdInternally>true</oid:createdInternally>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Taxi"/>
         <gi2mo:content>My idea already exists for sun-glasses but you could transfere it to contact lenses so that the surfaces darkens automatically when exposed to sunlight.</gi2mo:content>
@@ -2946,6 +2959,7 @@
                 <dcterms:description>Feasibility of the idea</dcterms:description>
             </gi2mo:MinMaxRating>
         </gi2mo:hasReview>
+        <inov:ideaType>Spark</inov:ideaType>
         <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/COMPLETE"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Theatre"/>
         <gi2mo:hasReview>
@@ -3340,6 +3354,7 @@
             <gi2mo:content>clothes once bought and weared stay always the same, and People often buy new things not because of the design of how it is cut, but because of the layout/Colors on the clothes - especially men.</gi2mo:content>
             <dcterms:description>Which problem does the idea solve?</dcterms:description>
         </inov:hasTextualRefinement>
+        <inov:ideaType>Spark</inov:ideaType>
         <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/COMPLETE"/>
         <inov:hasAnnotation>
             <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/484">
@@ -3384,7 +3399,6 @@
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Families"/>
     </gi2mo:Idea>
     <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/49368635-20d9-4e03-98ca-f6a37c43a71e">
-        <inov:icon>/images/idea-image-placeholder.png</inov:icon>
         <gi2mo:hasReview>
             <gi2mo:MinMaxRating>
                 <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
@@ -3603,6 +3617,7 @@
                 <dcterms:description>If you could buy such a product, how likely would you do so?</dcterms:description>
             </gi2mo:MinMaxRating>
         </gi2mo:hasReview>
+        <inov:ideaType>Spark</inov:ideaType>
         <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/INCOMPLETE"/>
         <inov:hasAnnotation>
             <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/1319">
@@ -3655,6 +3670,7 @@
                 <inov:annotationState>approved</inov:annotationState>
             </inov:AnnotationCandidate>
         </inov:hasAnnotation>
+        <inov:ideaType>Spark</inov:ideaType>
         <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/INCOMPLETE"/>
         <gi2mo:hasReview>
             <gi2mo:MinMaxRating>
@@ -3731,7 +3747,6 @@
                 <dcterms:description>Feasibility of the idea</dcterms:description>
             </gi2mo:MinMaxRating>
         </gi2mo:hasReview>
-        <inov:icon>/images/idea-image-placeholder.png</inov:icon>
         <inov:hasAnnotation>
             <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/1777">
                 <inov:hasResourceCandidate>
@@ -3962,6 +3977,7 @@
                 <dcterms:description>Assumed research and development expenditure of the idea</dcterms:description>
             </gi2mo:MinMaxRating>
         </gi2mo:hasReview>
+        <inov:ideaType>Idea</inov:ideaType>
         <oid:createdInternally>true</oid:createdInternally>
         <gi2mo:hasContributor rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/f2e6cf73-37b3-4538-8478-d0126ea86301"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Children+%28under+13%29"/>
@@ -4002,6 +4018,7 @@
     </gi2mo:Idea>
     <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/77e4b892-e454-4502-99e7-aa5be55ea427">
         <oid:createdInternally>true</oid:createdInternally>
+        <inov:ideaType>Idea</inov:ideaType>
         <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Dining+room"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Women"/>
@@ -4216,6 +4233,7 @@
         </gi2mo:hasReview>
         <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
         <oid:createdInternally>true</oid:createdInternally>
+        <inov:ideaType>Idea</inov:ideaType>
         <inov:hasTextualRefinement rdf:parseType="Resource">
             <gi2mo:content>The urban space can be measured temporarily without having to clear out the measuring stations afterwards </gi2mo:content>
             <dcterms:description>Which problem does the idea solve?</dcterms:description>
@@ -4262,6 +4280,7 @@
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Elderly+people+%28over+65%29"/>
     </gi2mo:Idea>
     <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/20696367-ac5d-4ce5-b669-4f4d8cd181bb">
+        <inov:ideaType>Idea</inov:ideaType>
         <gi2mo:hasReview>
             <gi2mo:MinMaxRating>
                 <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
@@ -4416,6 +4435,7 @@
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Storage+building"/>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Film+set"/>
                 <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/COMPLETE"/>
+                <inov:ideaType>Spark</inov:ideaType>
                 <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Bathroom"/>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Women"/>
@@ -4704,6 +4724,7 @@
     <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/a4dc741a-ad3d-4c2e-8178-680fc73ca008">
         <inov:assignedTo rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/43f24885-e8e6-4402-8b91-bbe9741c2144"/>
         <oid:createdInternally>true</oid:createdInternally>
+        <inov:ideaType>Idea</inov:ideaType>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Museums"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Film+set"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Books+%26+journals"/>
@@ -4832,6 +4853,7 @@
         </gi2mo:hasReview>
         <inov:inspiredBy>
             <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/0926d8f9-b77c-4c69-b4a9-0a8ece152e0d">
+                <inov:ideaType>Spark</inov:ideaType>
                 <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/OntoideaLegacyAppTCO"/>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/University"/>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/School"/>
@@ -5209,6 +5231,7 @@
         </gi2mo:hasReview>
     </gi2mo:Idea>
     <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/92d6d97d-1134-46e8-9cb0-7b17b3d1d3d6">
+        <inov:ideaType>Idea</inov:ideaType>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Singles"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Cinema"/>
         <inov:hasAnnotation>
@@ -5316,6 +5339,7 @@
         </gi2mo:hasReview>
         <inov:inspiredBy>
             <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/3573b82b-6093-4aff-a3ac-bcc2cb072794">
+                <inov:ideaType>Spark</inov:ideaType>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Children+%28under+13%29"/>
                 <inov:hasAnnotation>
                     <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/3043">
@@ -5815,6 +5839,7 @@
         <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Film+set"/>
         <oid:createdInternally>true</oid:createdInternally>
+        <inov:ideaType>Idea</inov:ideaType>
         <inov:assignedTo rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/43f24885-e8e6-4402-8b91-bbe9741c2144"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Men"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Offices"/>
@@ -5881,6 +5906,7 @@
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Offices"/>
         <inov:inspiredBy>
             <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/7e3f2b91-66bc-4377-b002-97d79ca10bb0">
+                <inov:ideaType>Spark</inov:ideaType>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Families"/>
                 <gi2mo:hasReview>
                     <gi2mo:MinMaxRating>
@@ -6240,6 +6266,7 @@
         </inov:hasAnnotation>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Laboratory"/>
         <oid:createdInternally>true</oid:createdInternally>
+        <inov:ideaType>Idea</inov:ideaType>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Elderly+people+%28over+65%29"/>
         <inov:hasAnnotation>
             <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/5481">
@@ -6345,7 +6372,6 @@
         </gi2mo:hasReview>
         <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
         <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
-        <inov:icon>/images/idea-image-placeholder.png</inov:icon>
         <gi2mo:hasReview>
             <gi2mo:MinMaxRating>
                 <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
@@ -6358,6 +6384,7 @@
                 <dcterms:description>If you could buy such a product, how likely would you do so?</dcterms:description>
             </gi2mo:MinMaxRating>
         </gi2mo:hasReview>
+        <inov:ideaType>Spark</inov:ideaType>
         <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/INCOMPLETE"/>
         <gi2mo:hasReview>
             <gi2mo:MinMaxRating>
@@ -6506,6 +6533,7 @@
         <inov:assignedTo rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/51f69d1a-5753-498a-a69c-90b5ec49c8f8"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Men"/>
         <oid:createdInternally>true</oid:createdInternally>
+        <inov:ideaType>Idea</inov:ideaType>
         <inov:icon>/media/tco/icons/168.png</inov:icon>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Retirement+home"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Elderly+people+%28over+65%29"/>
@@ -6564,6 +6592,7 @@
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Cemetery"/>
         <inov:inspiredBy>
             <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/90c4550e-97c9-4b0a-a5f1-8ff0a244f5ea">
+                <inov:ideaType>Spark</inov:ideaType>
                 <inov:hasAnnotation>
                     <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/401">
                         <inov:hasResourceCandidate>
@@ -7030,6 +7059,7 @@
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Train"/>
         <inov:inspiredBy>
             <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/1d3fbb24-07e1-41c5-b112-c59502917e93">
+                <inov:ideaType>Spark</inov:ideaType>
                 <gi2mo:hasReview>
                     <gi2mo:MinMaxRating>
                         <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
@@ -7532,79 +7562,6 @@
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Hospitals+%26+medical+practice"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Bus"/>
     </gi2mo:Idea>
-    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/d5f0c657-384c-4b58-aa03-e1055e12a243">
-        <inov:hasTextualRefinement rdf:parseType="Resource">
-            <gi2mo:content>test</gi2mo:content>
-            <dcterms:description>Describe your idea in more detail (e.g., how is it used?)</dcterms:description>
-        </inov:hasTextualRefinement>
-        <inov:hasAnnotation>
-            <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/8016">
-                <inov:hasResourceCandidate>
-                    <inov:ResourceCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/resourceCandidates/8016">
-                        <inov:hasLinkedResource rdf:resource="http://dbpedia.org/resource/Electrical_conductor"/>
-                        <inov:text>conductive</inov:text>
-                        <inov:selected rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</inov:selected>
-                    </inov:ResourceCandidate>
-                </inov:hasResourceCandidate>
-                <inov:annotationState>approved</inov:annotationState>
-            </inov:AnnotationCandidate>
-        </inov:hasAnnotation>
-        <gi2mo:hasContributor rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/a6437857-75d8-48eb-bf49-6049dcea04a6"/>
-        <dcterms:title>test</dcterms:title>
-        <inov:hasTextualRefinement rdf:parseType="Resource">
-            <gi2mo:content>asdf</gi2mo:content>
-            <dcterms:description>Which problem does the idea solve?</dcterms:description>
-        </inov:hasTextualRefinement>
-        <gi2mo:content>Transparent conductive oxides are materials that can be used as thin coatings to make materials and surfaces intelligent. They are transparent, conductive and can be flexible under certain conditions.</gi2mo:content>
-        <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/OntoideaLegacyAppTCO"/>
-        <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
-        <inov:hasAnnotation>
-            <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/8015">
-                <inov:hasResourceCandidate>
-                    <inov:ResourceCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/resourceCandidates/8015">
-                        <inov:hasLinkedResource rdf:resource="http://dbpedia.org/resource/Surface_(topology)"/>
-                        <inov:text>surfaces</inov:text>
-                        <inov:selected rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</inov:selected>
-                    </inov:ResourceCandidate>
-                </inov:hasResourceCandidate>
-                <inov:annotationState>approved</inov:annotationState>
-            </inov:AnnotationCandidate>
-        </inov:hasAnnotation>
-        <inov:hasAnnotation>
-            <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/8014">
-                <inov:hasResourceCandidate>
-                    <inov:ResourceCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/resourceCandidates/8014">
-                        <inov:hasLinkedResource rdf:resource="http://dbpedia.org/resource/Coating"/>
-                        <inov:text>can used as coatings</inov:text>
-                        <inov:selected rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</inov:selected>
-                    </inov:ResourceCandidate>
-                </inov:hasResourceCandidate>
-                <inov:annotationState>approved</inov:annotationState>
-            </inov:AnnotationCandidate>
-        </inov:hasAnnotation>
-        <inov:icon>/media/tco/icons/193.png</inov:icon>
-        <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/193"/>
-        <inov:hasAnnotation>
-            <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/8013">
-                <inov:hasResourceCandidate>
-                    <inov:ResourceCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/resourceCandidates/8013">
-                        <inov:hasLinkedResource rdf:resource="http://dbpedia.org/resource/Material"/>
-                        <inov:text>materials</inov:text>
-                        <inov:selected rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</inov:selected>
-                    </inov:ResourceCandidate>
-                </inov:hasResourceCandidate>
-                <inov:annotationState>approved</inov:annotationState>
-            </inov:AnnotationCandidate>
-        </inov:hasAnnotation>
-        <inov:assignedTo rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/a6437857-75d8-48eb-bf49-6049dcea04a6"/>
-        <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Bedroom"/>
-        <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Kitchen"/>
-        <oid:createdInternally>true</oid:createdInternally>
-        <dcterms:created>2018-09-24T14:56Z</dcterms:created>
-        <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/SELECTED_BY_MODERATORS"/>
-        <gi2mo:hasCreator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/4fa14467-7d17-4142-8384-c3b8898fbc05"/>
-        <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
-    </gi2mo:Idea>
     <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/f0f0ba3c-b5e8-46d6-806f-88ec74535662">
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Nursery"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Monuments"/>
@@ -7702,6 +7659,7 @@
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Construction+sites"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Public+authorities"/>
         <oid:createdInternally>true</oid:createdInternally>
+        <inov:ideaType>Idea</inov:ideaType>
         <inov:hasTextualRefinement rdf:parseType="Resource">
             <gi2mo:content>Because of the simple circuit construction of glowing LEDs and a light sensor, it is very easy to produce TCO film sheets which can light up a word or a symbol at night. These films are transparent and could cover architecture or beautiful surfaces which need to be seen at daytime.&#xD;
                 This tech could be used for advertising at night, safety indication in all public spaces and public transports, in domestic areas, offices, childcare products, the guidance systems etc.</gi2mo:content>
@@ -7840,7 +7798,7 @@
             </inov:AnnotationCandidate>
         </inov:hasAnnotation>
         <gi2mo:content>The office lamp in the office could respond to the lighting environment at that exact moment, so there's always the same lighting situation throughout the day.</gi2mo:content>
-        <inov:icon>/images/idea-image-placeholder.png</inov:icon>
+        <inov:ideaType>Spark</inov:ideaType>
         <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/INCOMPLETE"/>
         <gi2mo:hasReview>
             <gi2mo:MinMaxRating>
@@ -8016,6 +7974,7 @@
         </inov:hasAnnotation>
     </gi2mo:Idea>
     <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/61f22dbc-93c3-48f8-8b78-bd929e70f24d">
+        <inov:ideaType>Spark</inov:ideaType>
         <inov:hasAnnotation>
             <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/1210">
                 <inov:hasResourceCandidate>
@@ -8028,7 +7987,6 @@
                 <inov:annotationState>approved</inov:annotationState>
             </inov:AnnotationCandidate>
         </inov:hasAnnotation>
-        <inov:icon>/images/idea-image-placeholder.png</inov:icon>
         <inov:hasAnnotation>
             <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/1217">
                 <inov:hasResourceCandidate>
@@ -8255,78 +8213,6 @@
             </inov:AnnotationCandidate>
         </inov:hasAnnotation>
     </gi2mo:Idea>
-    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/9d1544c7-2051-4c50-8a14-de2af538b885">
-        <inov:hasAnnotation>
-            <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/8167">
-                <inov:hasResourceCandidate>
-                    <inov:ResourceCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/resourceCandidates/8167">
-                        <inov:hasLinkedResource rdf:resource="http://dbpedia.org/resource/Material"/>
-                        <inov:text>materials</inov:text>
-                        <inov:selected rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</inov:selected>
-                    </inov:ResourceCandidate>
-                </inov:hasResourceCandidate>
-                <inov:annotationState>approved</inov:annotationState>
-            </inov:AnnotationCandidate>
-        </inov:hasAnnotation>
-        <gi2mo:hasCreator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/4fa14467-7d17-4142-8384-c3b8898fbc05"/>
-        <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/OntoideaLegacyAppTCO"/>
-        <inov:hasAnnotation>
-            <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/8170">
-                <inov:hasResourceCandidate>
-                    <inov:ResourceCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/resourceCandidates/8170">
-                        <inov:hasLinkedResource rdf:resource="http://dbpedia.org/resource/They"/>
-                        <inov:text>They</inov:text>
-                        <inov:selected rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</inov:selected>
-                    </inov:ResourceCandidate>
-                </inov:hasResourceCandidate>
-                <inov:annotationState>approved</inov:annotationState>
-            </inov:AnnotationCandidate>
-        </inov:hasAnnotation>
-        <gi2mo:content>Transparent conductive oxides are materials that can be used as thin coatings to make materials and surfaces intelligent. They are transparent, conductive and can be flexible under certain conditions.</gi2mo:content>
-        <inov:hasAnnotation>
-            <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/8169">
-                <inov:hasResourceCandidate>
-                    <inov:ResourceCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/resourceCandidates/8169">
-                        <inov:hasLinkedResource rdf:resource="http://dbpedia.org/resource/Surface_(topology)"/>
-                        <inov:text>surfaces</inov:text>
-                        <inov:selected rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</inov:selected>
-                    </inov:ResourceCandidate>
-                </inov:hasResourceCandidate>
-                <inov:annotationState>approved</inov:annotationState>
-            </inov:AnnotationCandidate>
-        </inov:hasAnnotation>
-        <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/194"/>
-        <dcterms:created>2018-10-09T12:51Z</dcterms:created>
-        <inov:hasAnnotation>
-            <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/8171">
-                <inov:hasResourceCandidate>
-                    <inov:ResourceCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/resourceCandidates/8171">
-                        <inov:hasLinkedResource rdf:resource="http://dbpedia.org/resource/Electrical_conductor"/>
-                        <inov:text>conductive</inov:text>
-                        <inov:selected rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</inov:selected>
-                    </inov:ResourceCandidate>
-                </inov:hasResourceCandidate>
-                <inov:annotationState>approved</inov:annotationState>
-            </inov:AnnotationCandidate>
-        </inov:hasAnnotation>
-        <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
-        <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
-        <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/INCOMPLETE"/>
-        <dcterms:title>TCO Materials</dcterms:title>
-        <inov:hasAnnotation>
-            <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/8168">
-                <inov:hasResourceCandidate>
-                    <inov:ResourceCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/resourceCandidates/8168">
-                        <inov:hasLinkedResource rdf:resource="http://dbpedia.org/resource/Coating"/>
-                        <inov:text>can used as coatings</inov:text>
-                        <inov:selected rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</inov:selected>
-                    </inov:ResourceCandidate>
-                </inov:hasResourceCandidate>
-                <inov:annotationState>approved</inov:annotationState>
-            </inov:AnnotationCandidate>
-        </inov:hasAnnotation>
-        <oid:createdInternally>true</oid:createdInternally>
-    </gi2mo:Idea>
     <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/7e54fe9c-8de8-406c-ac2b-1f75b47d5d7e">
         <gi2mo:hasReview>
             <gi2mo:MinMaxRating>
@@ -8343,6 +8229,7 @@
         <gi2mo:hasCreator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/5945e835-d256-47d2-90e5-8471e34b7653"/>
         <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
         <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/INCOMPLETE"/>
+        <inov:ideaType>Spark</inov:ideaType>
         <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/44"/>
         <inov:hasAnnotation>
             <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/729">
@@ -8460,7 +8347,7 @@
         </inov:hasAnnotation>
     </gi2mo:Idea>
     <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/81d67bd3-9710-4254-9a32-c1b6b83c97b1">
-        <dcterms:title>Klimareaktive Fläche</dcterms:title>
+        <dcterms:title>Climate-reactive surface</dcterms:title>
         <inov:hasAnnotation>
             <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/2819">
                 <inov:hasResourceCandidate>
@@ -8474,6 +8361,7 @@
             </inov:AnnotationCandidate>
         </inov:hasAnnotation>
         <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/138"/>
+        <inov:ideaType>Spark</inov:ideaType>
         <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/INCOMPLETE"/>
         <inov:hasAnnotation>
             <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/2817">
@@ -8683,6 +8571,7 @@
                 <inov:annotationState>approved</inov:annotationState>
             </inov:AnnotationCandidate>
         </inov:hasAnnotation>
+        <inov:ideaType>Idea</inov:ideaType>
         <oid:createdInternally>true</oid:createdInternally>
         <inov:icon>/media/tco/icons/161.png</inov:icon>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Bathroom"/>
@@ -8717,7 +8606,7 @@
             </gi2mo:MinMaxRating>
         </gi2mo:hasReview>
         <dcterms:created>2018-05-17T10:12Z</dcterms:created>
-        <inov:icon>/images/idea-image-placeholder.png</inov:icon>
+        <inov:ideaType>Spark</inov:ideaType>
         <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/INCOMPLETE"/>
         <gi2mo:content>Change window-color depending on the UV, so that if the sun is shining the color changes to something darker (like the windows within some cars) and if there is no sun or less sun, let the window remain as it is. Similar technology is already in use for glasses.</gi2mo:content>
         <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/65"/>
@@ -8855,11 +8744,13 @@
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Parks+%26+Forest"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Toys+%26+Games"/>
         <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/SELECTED_BY_MODERATORS"/>
+        <inov:ideaType>Idea</inov:ideaType>
         <dcterms:title>NEW TABLE TENNIS FUN</dcterms:title>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Garage"/>
         <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
         <inov:inspiredBy>
             <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/0e462279-5ff8-43b8-9589-16b84a67294e">
+                <inov:ideaType>Spark</inov:ideaType>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Adults+%28under+65%29"/>
                 <gi2mo:content>covering table tennis tables to integrate new challenges for players - i.e. one has to hit moving circles on the table or you can show the score on the table</gi2mo:content>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Balcony%2Fterrace"/>
@@ -9202,34 +9093,12 @@
         <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/OntoideaLegacyAppTCO"/>
         <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/SELECTED_BY_MODERATORS"/>
         <oid:createdInternally>true</oid:createdInternally>
+        <inov:ideaType>Idea</inov:ideaType>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Living+room"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Clothing"/>
     </gi2mo:Idea>
-    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/bfdc4620-d860-4ab8-86ac-be1c35c88d68">
-        <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/INCOMPLETE"/>
-        <inov:hasAnnotation>
-            <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/8335">
-                <inov:hasResourceCandidate>
-                    <inov:ResourceCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/resourceCandidates/8335">
-                        <inov:hasLinkedResource rdf:resource="http://dbpedia.org/resource/Software_testing"/>
-                        <inov:text>test</inov:text>
-                        <inov:selected rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</inov:selected>
-                    </inov:ResourceCandidate>
-                </inov:hasResourceCandidate>
-                <inov:annotationState>approved</inov:annotationState>
-            </inov:AnnotationCandidate>
-        </inov:hasAnnotation>
-        <dcterms:created>2019-07-03T11:08Z</dcterms:created>
-        <gi2mo:hasCreator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/4fa14467-7d17-4142-8384-c3b8898fbc05"/>
-        <gi2mo:content>test</gi2mo:content>
-        <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
-        <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/195"/>
-        <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
-        <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/OntoideaLegacyAppTCO"/>
-        <dcterms:title>test-idea</dcterms:title>
-        <oid:createdInternally>true</oid:createdInternally>
-    </gi2mo:Idea>
     <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/f65ca10d-bcac-46b4-b505-5fc21dff7f5d">
+        <inov:ideaType>Spark</inov:ideaType>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Library"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Kindergarten"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Sports+field"/>
@@ -9588,6 +9457,7 @@
         </inov:hasAnnotation>
         <oid:preselectedFor rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/720d1285-b963-4952-92af-06462563b08e"/>
         <oid:createdInternally>true</oid:createdInternally>
+        <inov:ideaType>Idea</inov:ideaType>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Museums"/>
         <dcterms:created>2018-05-31T16:37Z</dcterms:created>
         <gi2mo:hasReview>
@@ -9604,6 +9474,7 @@
         </gi2mo:hasReview>
         <inov:inspiredBy>
             <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/68de8d44-d494-40b6-b1c4-4545ff0bc2f7">
+                <inov:ideaType>Spark</inov:ideaType>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Buildings"/>
                 <gi2mo:hasReview>
                     <gi2mo:MinMaxRating>
@@ -9924,6 +9795,7 @@
             <gi2mo:content>because the TCO- foil is transparent it could be placed on any surface of the car to increase your G5 signal for example.</gi2mo:content>
             <dcterms:description>Describe your idea in more detail (e.g., how is it used?)</dcterms:description>
         </inov:hasTextualRefinement>
+        <inov:ideaType>Idea</inov:ideaType>
         <oid:createdInternally>true</oid:createdInternally>
         <inov:hasAnnotation>
             <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/5881">
@@ -10003,7 +9875,6 @@
             </gi2mo:MinMaxRating>
         </gi2mo:hasReview>
         <dcterms:created>2018-05-23T19:21Z</dcterms:created>
-        <inov:icon>/images/idea-image-placeholder.png</inov:icon>
         <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
         <gi2mo:hasReview>
             <gi2mo:MinMaxRating>
@@ -10017,6 +9888,7 @@
                 <dcterms:description>Feasibility of the idea</dcterms:description>
             </gi2mo:MinMaxRating>
         </gi2mo:hasReview>
+        <inov:ideaType>Spark</inov:ideaType>
         <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/INCOMPLETE"/>
         <inov:hasAnnotation>
             <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/2287">
@@ -10130,6 +10002,7 @@
                 <inov:annotationState>approved</inov:annotationState>
             </inov:AnnotationCandidate>
         </inov:hasAnnotation>
+        <inov:ideaType>Idea</inov:ideaType>
         <oid:createdInternally>true</oid:createdInternally>
         <dcterms:created>2018-05-31T17:35Z</dcterms:created>
         <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
@@ -10227,10 +10100,12 @@
                 <dcterms:description>Novelty of the idea</dcterms:description>
             </gi2mo:MinMaxRating>
         </gi2mo:hasReview>
+        <inov:ideaType>Idea</inov:ideaType>
         <oid:createdInternally>true</oid:createdInternally>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Unemployed"/>
         <inov:inspiredBy>
             <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/95d84528-3b37-409e-9f7b-68b543dea187">
+                <inov:ideaType>Spark</inov:ideaType>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Men"/>
                 <inov:hasAnnotation>
                     <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/1411">
@@ -10659,74 +10534,15 @@
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Children+%28under+13%29"/>
         <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
     </gi2mo:Idea>
-    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/1ea205f9-85e0-4cfb-8efb-beee47acc7f7">
-        <dcterms:created>2018-05-22T11:27Z</dcterms:created>
-        <inov:icon>/images/idea-image-placeholder.png</inov:icon>
-        <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
-        <oid:createdInternally>true</oid:createdInternally>
-        <dcterms:title>f</dcterms:title>
-        <gi2mo:hasReview>
-            <gi2mo:MinMaxRating>
-                <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
-                >1</gi2mo:ratingValue>
-                <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
-                >5</gi2mo:maxRatingValue>
-                <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
-                >1</gi2mo:minRatingValue>
-                <gi2mo:hasCreator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/eea04356-07d1-482c-9437-cc9dd782bce6"/>
-                <dcterms:description>If you could buy such a product, how likely would you do so?</dcterms:description>
-            </gi2mo:MinMaxRating>
-        </gi2mo:hasReview>
-        <gi2mo:hasReview>
-            <gi2mo:MinMaxRating>
-                <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
-                >1</gi2mo:ratingValue>
-                <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
-                >5</gi2mo:maxRatingValue>
-                <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
-                >1</gi2mo:minRatingValue>
-                <gi2mo:hasCreator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/eea04356-07d1-482c-9437-cc9dd782bce6"/>
-                <dcterms:description>Value of the idea</dcterms:description>
-            </gi2mo:MinMaxRating>
-        </gi2mo:hasReview>
-        <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/INCOMPLETE"/>
-        <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/99"/>
-        <gi2mo:hasCreator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/5e1cd1fb-f70d-439e-bacc-c28fee9b6bb1"/>
-        <gi2mo:hasReview>
-            <gi2mo:MinMaxRating>
-                <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
-                >1</gi2mo:ratingValue>
-                <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
-                >5</gi2mo:maxRatingValue>
-                <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
-                >1</gi2mo:minRatingValue>
-                <gi2mo:hasCreator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/eea04356-07d1-482c-9437-cc9dd782bce6"/>
-                <dcterms:description>Novelty of the idea</dcterms:description>
-            </gi2mo:MinMaxRating>
-        </gi2mo:hasReview>
-        <gi2mo:hasReview>
-            <gi2mo:MinMaxRating>
-                <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
-                >1</gi2mo:ratingValue>
-                <gi2mo:maxRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
-                >5</gi2mo:maxRatingValue>
-                <gi2mo:minRatingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
-                >1</gi2mo:minRatingValue>
-                <gi2mo:hasCreator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/eea04356-07d1-482c-9437-cc9dd782bce6"/>
-                <dcterms:description>Feasibility of the idea</dcterms:description>
-            </gi2mo:MinMaxRating>
-        </gi2mo:hasReview>
-        <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
-        <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/OntoideaLegacyAppTCO"/>
-        <gi2mo:content>wdfafd</gi2mo:content>
-    </gi2mo:Idea>
     <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/43ed15f7-94ca-480b-94d7-66623adb43a9">
+        <inov:ideaType>Idea</inov:ideaType>
         <dcterms:created>2018-05-31T14:34Z</dcterms:created>
         <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/174"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Train"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Women"/>
         <inov:inspiredBy>
             <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/33bd13d1-6367-4065-b017-5587ca80b749">
+                <inov:ideaType>Spark</inov:ideaType>
                 <gi2mo:hasReview>
                     <gi2mo:MinMaxRating>
                         <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
@@ -11360,6 +11176,7 @@
         <dcterms:title>smart dining table</dcterms:title>
         <inov:inspiredBy>
             <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/d4b52a43-e724-482a-b322-fceb759161dc">
+                <inov:ideaType>Spark</inov:ideaType>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Pupils"/>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/People+living+in+rural+places"/>
                 <gi2mo:hasReview>
@@ -11717,6 +11534,7 @@
         </inov:hasTextualRefinement>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Men"/>
         <oid:createdInternally>true</oid:createdInternally>
+        <inov:ideaType>Idea</inov:ideaType>
         <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/184"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Construction+sites"/>
         <oid:status>
@@ -11757,80 +11575,8 @@
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Nursery"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Buildings"/>
     </gi2mo:Idea>
-    <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/452b7d50-a3bd-4df3-ac09-6521d7c316cf">
-        <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/47"/>
-        <inov:icon>/images/idea-image-placeholder.png</inov:icon>
-        <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
-        <gi2mo:hasCreator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/6f8ccb11-0b99-4977-95ae-750377d1dfa6"/>
-        <inov:hasAnnotation>
-            <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/1047">
-                <inov:hasResourceCandidate>
-                    <inov:ResourceCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/resourceCandidates/1047">
-                        <inov:hasLinkedResource rdf:resource="http://dbpedia.org/resource/Room"/>
-                        <inov:text>room</inov:text>
-                        <inov:selected rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</inov:selected>
-                    </inov:ResourceCandidate>
-                </inov:hasResourceCandidate>
-                <inov:annotationState>approved</inov:annotationState>
-            </inov:AnnotationCandidate>
-        </inov:hasAnnotation>
-        <gi2mo:content>Window with a heat-sensitive material, that lights-up if a person is in the room during a fire</gi2mo:content>
-        <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
-        <inov:hasAnnotation>
-            <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/1048">
-                <inov:hasResourceCandidate>
-                    <inov:ResourceCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/resourceCandidates/1048">
-                        <inov:hasLinkedResource rdf:resource="http://dbpedia.org/resource/Fire"/>
-                        <inov:text>fire</inov:text>
-                        <inov:selected rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</inov:selected>
-                    </inov:ResourceCandidate>
-                </inov:hasResourceCandidate>
-                <inov:annotationState>approved</inov:annotationState>
-            </inov:AnnotationCandidate>
-        </inov:hasAnnotation>
-        <dcterms:title>erewrew</dcterms:title>
-        <oid:createdInternally>true</oid:createdInternally>
-        <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/OntoideaLegacyAppTCO"/>
-        <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/ARCHIVED"/>
-        <inov:hasAnnotation>
-            <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/1044">
-                <inov:hasResourceCandidate>
-                    <inov:ResourceCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/resourceCandidates/1044">
-                        <inov:hasLinkedResource rdf:resource="http://dbpedia.org/resource/Window"/>
-                        <inov:text>Window</inov:text>
-                        <inov:selected rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</inov:selected>
-                    </inov:ResourceCandidate>
-                </inov:hasResourceCandidate>
-                <inov:annotationState>approved</inov:annotationState>
-            </inov:AnnotationCandidate>
-        </inov:hasAnnotation>
-        <dcterms:created>2018-05-17T05:17Z</dcterms:created>
-        <inov:hasAnnotation>
-            <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/1045">
-                <inov:hasResourceCandidate>
-                    <inov:ResourceCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/resourceCandidates/1045">
-                        <inov:hasLinkedResource rdf:resource="http://dbpedia.org/resource/Thermochromism"/>
-                        <inov:text>heat-sensitive material</inov:text>
-                        <inov:selected rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</inov:selected>
-                    </inov:ResourceCandidate>
-                </inov:hasResourceCandidate>
-                <inov:annotationState>approved</inov:annotationState>
-            </inov:AnnotationCandidate>
-        </inov:hasAnnotation>
-        <inov:hasAnnotation>
-            <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/1046">
-                <inov:hasResourceCandidate>
-                    <inov:ResourceCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/resourceCandidates/1046">
-                        <inov:hasLinkedResource rdf:resource="http://dbpedia.org/resource/Person"/>
-                        <inov:text>person</inov:text>
-                        <inov:selected rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</inov:selected>
-                    </inov:ResourceCandidate>
-                </inov:hasResourceCandidate>
-                <inov:annotationState>approved</inov:annotationState>
-            </inov:AnnotationCandidate>
-        </inov:hasAnnotation>
-    </gi2mo:Idea>
     <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/a3994718-10c5-49ec-9e11-1a848dc7b506">
+        <inov:ideaType>Idea</inov:ideaType>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Motor+bike"/>
         <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/OntoideaLegacyAppTCO"/>
         <inov:assignedTo rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/ab0332e9-c00f-4a1a-8af4-72cbb720e9bd"/>
@@ -11856,6 +11602,7 @@
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Public+places"/>
         <inov:inspiredBy>
             <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/2983d0d1-713d-4ffc-97eb-a0e7335458d8">
+                <inov:ideaType>Spark</inov:ideaType>
                 <dcterms:created>2018-05-23T19:01Z</dcterms:created>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Bridges"/>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Public+places"/>
@@ -12175,6 +11922,7 @@
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Boat"/>
         <inov:inspiredBy>
             <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/fdc0c0b3-4d4c-476c-81ff-1d650e60fc32">
+                <inov:ideaType>Spark</inov:ideaType>
                 <dcterms:created>2018-05-16T10:54Z</dcterms:created>
                 <gi2mo:hasReview>
                     <gi2mo:MinMaxRating>
@@ -12555,6 +12303,7 @@
         <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/182"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/University"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/School"/>
+        <inov:ideaType>Idea</inov:ideaType>
         <oid:createdInternally>true</oid:createdInternally>
         <inov:hasAnnotation>
             <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/6701">
