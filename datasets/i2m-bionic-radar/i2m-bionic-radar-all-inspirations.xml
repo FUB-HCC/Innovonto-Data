@@ -4,8 +4,8 @@
         xmlns:gi2mo="http://purl.org/gi2mo/ns#"
         xmlns:oid="http://purl.org/innovonto/legacy/types#">
   <inov:StaticInspiration rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/inspirations/d3569542-674e-4815-b37b-404d24138889">
-    <gi2mo:content>https://innovonto-core.imp.fu-berlin.de/media/bionic-radar/walkingHumanInspiration.jpg</gi2mo:content>
-    <oid:inspirationContainer>&lt;div class="wordcloud-container"&gt;&lt;img src="/images/inspirations/inspirations/walkingHumanInspiration.jpg"/&gt;&lt;/div&gt;</oid:inspirationContainer>
+    <gi2mo:content>https://innovonto-core.imp.fu-berlin.de/media/bionic-radar/inspirations/walkingHumanInspiration.jpg</gi2mo:content>
+    <oid:inspirationContainer>&lt;div class="wordcloud-container"&gt;&lt;img src="/images/inspirations/walkingHumanInspiration.jpg"/&gt;&lt;/div&gt;</oid:inspirationContainer>
   </inov:StaticInspiration>
   <inov:StaticInspiration rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/inspirations/ef20cf3a-59bf-4e1f-9484-e0581529c7ab">
     <oid:inspirationContainer>&lt;video src="/videos/I2M_360grad_ani_08_30fps_640x340_compressed.mp4" autoplay="" loop="", controls="" width="698" height="401"&gt;&lt;/video&gt;</oid:inspirationContainer>
