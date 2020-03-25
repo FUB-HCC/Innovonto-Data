@@ -131,7 +131,7 @@
                 -&gt; Interactive play areas, interactive Stickers for Urban Play.</gi2mo:content>
             <dcterms:description>Describe your idea in more detail (e.g., how is it used?)</dcterms:description>
         </inov:hasTextualRefinement>
-        <inov:icon>/media/tco/icons/188.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/188.png</inov:icon>
         <gi2mo:hasReview>
             <gi2mo:MinMaxRating>
                 <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
@@ -260,7 +260,7 @@
             <gi2mo:content>TCO-Patch monitors the vital functions and photosynthesis of trees.</gi2mo:content>
             <dcterms:description>Which problem does the idea solve?</dcterms:description>
         </inov:hasTextualRefinement>
-        <inov:icon>/media/tco/icons/178.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/178.png</inov:icon>
         <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/OntoideaLegacyAppTCO"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Companies"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Garden"/>
@@ -539,7 +539,7 @@
                 </gi2mo:hasReview>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Dining+room"/>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Singles"/>
-                <inov:icon>/media/tco/icons/42.png</inov:icon>
+                <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/42.png</inov:icon>
                 <gi2mo:hasReview>
                     <gi2mo:MinMaxRating>
                         <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
@@ -673,7 +673,7 @@
                 <dcterms:description>Elaboration of the idea</dcterms:description>
             </gi2mo:MinMaxRating>
         </gi2mo:hasReview>
-        <inov:icon>/media/tco/icons/162.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/162.png</inov:icon>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Adults+%28under+65%29"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Electronic+Media"/>
         <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
@@ -777,7 +777,7 @@
         </gi2mo:hasReview>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/%28Amateur%29+athletes"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Women"/>
-        <inov:icon>/media/tco/icons/180.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/180.png</inov:icon>
         <inov:inspiredBy>
             <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/afcf4966-10e9-4f0b-af71-20e88717ff3a">
                 <inov:ideaType>Spark</inov:ideaType>
@@ -1176,7 +1176,7 @@
                 </inov:hasAnnotation>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Adults+%28under+65%29"/>
                 <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
-                <inov:icon>/media/tco/icons/133.png</inov:icon>
+                <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/133.png</inov:icon>
                 <inov:hasAnnotation>
                     <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/2157">
                         <inov:hasResourceCandidate>
@@ -1332,7 +1332,6 @@
             </gi2mo:MinMaxRating>
         </gi2mo:hasReview>
         <gi2mo:hasCreator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/583fe434-db34-4e7c-9735-56c116e66f9c"/>
-        <inov:icon>/images/idea-image-placeholder.png</inov:icon>
         <inov:hasAnnotation>
             <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/2396">
                 <inov:hasResourceCandidate>
@@ -1439,7 +1438,7 @@
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Men"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Hotels"/>
         <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/OntoideaLegacyAppTCO"/>
-        <inov:icon>/media/tco/icons/165.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/165.png</inov:icon>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Bedroom"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Adults+%28under+65%29"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/People+living+in+rural+places"/>
@@ -1899,7 +1898,7 @@
         </inov:hasAnnotation>
         <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/169"/>
         <oid:preselectedFor rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/05a374e2-4061-490a-977a-ba289dbecb94"/>
-        <inov:icon>/media/tco/icons/169.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/169.png</inov:icon>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Museums"/>
         <inov:hasAnnotation>
             <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/4649">
@@ -2055,7 +2054,7 @@
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Showroom+%26+exhibition+room"/>
         <dcterms:title>Temperature Sign</dcterms:title>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Hospitals+%26+medical+practice"/>
-        <inov:icon>/media/tco/icons/175.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/175.png</inov:icon>
         <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/SELECTED_BY_MODERATORS"/>
         <inov:ideaType>Idea</inov:ideaType>
         <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
@@ -2218,7 +2217,7 @@
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Car"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Trucks"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Students"/>
-        <inov:icon>/media/tco/icons/141.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/141.png</inov:icon>
         <inov:ideaType>Spark</inov:ideaType>
         <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/COMPLETE"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Companies"/>
@@ -2368,7 +2367,6 @@
         </gi2mo:hasReview>
         <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
         <gi2mo:hasCreator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/5945e835-d256-47d2-90e5-8471e34b7653"/>
-        <inov:icon>/images/idea-image-placeholder.png</inov:icon>
         <gi2mo:hasReview>
             <gi2mo:MinMaxRating>
                 <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
@@ -2413,7 +2411,7 @@
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Parks+%26+Forest"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Men"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Garage"/>
-        <inov:icon>/media/tco/icons/167.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/167.png</inov:icon>
         <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
         <dcterms:title>sun contact lenses</dcterms:title>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Train"/>
@@ -2931,7 +2929,7 @@
             </gi2mo:MinMaxRating>
         </gi2mo:hasReview>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Museums"/>
-        <inov:icon>/media/tco/icons/40.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/40.png</inov:icon>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Hotels"/>
         <inov:hasAnnotation>
             <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/563">
@@ -3331,7 +3329,7 @@
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Men"/>
         <dcterms:created>2018-05-16T10:45Z</dcterms:created>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Handyman"/>
-        <inov:icon>/media/tco/icons/36.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/36.png</inov:icon>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Women"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Adults+%28under+65%29"/>
         <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
@@ -3940,7 +3938,7 @@
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Singles"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Self-employed"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Single+parents"/>
-        <inov:icon>/media/tco/icons/166.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/166.png</inov:icon>
         <gi2mo:hasReview>
             <gi2mo:TextualReview>
                 <gi2mo:content>USP is missing (other solutions in the market). </gi2mo:content>
@@ -4063,7 +4061,7 @@
         <gi2mo:hasCreator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/c5cd7343-1b30-4f4e-bef8-5e8e94886c55"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Families"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Children+%28under+13%29"/>
-        <inov:icon>/media/tco/icons/163.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/163.png</inov:icon>
         <dcterms:title>board games</dcterms:title>
         <dcterms:created>2018-05-31T10:41Z</dcterms:created>
         <inov:hasTextualRefinement rdf:parseType="Resource">
@@ -4113,7 +4111,7 @@
             </gi2mo:MinMaxRating>
         </gi2mo:hasReview>
         <oid:preselectedFor rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/43f24885-e8e6-4402-8b91-bbe9741c2144"/>
-        <inov:icon>/media/tco/icons/186.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/186.png</inov:icon>
         <inov:hasTextualRefinement rdf:parseType="Resource">
             <gi2mo:content>You can also use it for sporting events (marathon) or for major events such as public viewing.&#xD;
                 -&gt; temporary measurements, e.g. at concerts or city events</gi2mo:content>
@@ -4337,7 +4335,7 @@
             </gi2mo:MinMaxRating>
         </gi2mo:hasReview>
         <dcterms:title>active wallpaper</dcterms:title>
-        <inov:icon>/media/tco/icons/171.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/171.png</inov:icon>
         <gi2mo:content>a TCO wallpaper could add more functions to a normal wall and could be used more like a big interface. Control your smart home, change temperature, turn on/off lights … use gestures like swiping along the wall to dimm the light , etc.</gi2mo:content>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Bedroom"/>
         <gi2mo:hasReview>
@@ -4431,7 +4429,7 @@
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/School"/>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Hospitals+%26+medical+practice"/>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Professionals"/>
-                <inov:icon>/media/tco/icons/43.png</inov:icon>
+                <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/43.png</inov:icon>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Storage+building"/>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Film+set"/>
                 <oid:status rdf:resource="http://purl.org/innovonto/i2m-legacy/status/COMPLETE"/>
@@ -4784,7 +4782,7 @@
                 <inov:annotationState>approved</inov:annotationState>
             </inov:AnnotationCandidate>
         </inov:hasAnnotation>
-        <inov:icon>/media/tco/icons/170.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/170.png</inov:icon>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Showroom+%26+exhibition+room"/>
         <inov:hasAnnotation>
             <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/4776">
@@ -4881,7 +4879,7 @@
                         <inov:annotationState>approved</inov:annotationState>
                     </inov:AnnotationCandidate>
                 </inov:hasAnnotation>
-                <inov:icon>/media/tco/icons/35.png</inov:icon>
+                <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/35.png</inov:icon>
                 <gi2mo:hasReview>
                     <gi2mo:MinMaxRating>
                         <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
@@ -5272,7 +5270,7 @@
                 <inov:annotationState>approved</inov:annotationState>
             </inov:AnnotationCandidate>
         </inov:hasAnnotation>
-        <inov:icon>/media/tco/icons/181.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/181.png</inov:icon>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Museums"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Children+%28under+13%29"/>
         <inov:hasAnnotation>
@@ -5439,7 +5437,7 @@
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Families"/>
                 <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
                 <dcterms:title>Smart fridge</dcterms:title>
-                <inov:icon>/media/tco/icons/139.png</inov:icon>
+                <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/139.png</inov:icon>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Youth+%28under+18%29"/>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/School"/>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Buildings"/>
@@ -5835,7 +5833,7 @@
         </inov:hasTextualRefinement>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Women"/>
         <dcterms:created>2018-05-31T15:22Z</dcterms:created>
-        <inov:icon>/media/tco/icons/179.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/179.png</inov:icon>
         <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Film+set"/>
         <oid:createdInternally>true</oid:createdInternally>
@@ -5897,7 +5895,7 @@
                 <inov:annotationState>approved</inov:annotationState>
             </inov:AnnotationCandidate>
         </inov:hasAnnotation>
-        <inov:icon>/media/tco/icons/173.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/173.png</inov:icon>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Retirement+home"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Children+%28under+13%29"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Buildings"/>
@@ -6215,7 +6213,7 @@
                     </gi2mo:MinMaxRating>
                 </gi2mo:hasReview>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/University"/>
-                <inov:icon>/media/tco/icons/46.png</inov:icon>
+                <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/46.png</inov:icon>
                 <gi2mo:hasCreator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/f0f3b9cd-644b-4035-81b5-62adf7380531"/>
                 <inov:hasAnnotation>
                     <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/822">
@@ -6534,7 +6532,7 @@
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Men"/>
         <oid:createdInternally>true</oid:createdInternally>
         <inov:ideaType>Idea</inov:ideaType>
-        <inov:icon>/media/tco/icons/168.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/168.png</inov:icon>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Retirement+home"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Elderly+people+%28over+65%29"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Plane"/>
@@ -6838,7 +6836,7 @@
                     </gi2mo:MinMaxRating>
                 </gi2mo:hasReview>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Companies"/>
-                <inov:icon>/media/tco/icons/33.png</inov:icon>
+                <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/33.png</inov:icon>
                 <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
                 <gi2mo:hasReview>
                     <gi2mo:MinMaxRating>
@@ -7110,7 +7108,7 @@
                 </gi2mo:hasReview>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Women"/>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/People+living+in+rural+places"/>
-                <inov:icon>/media/tco/icons/34.png</inov:icon>
+                <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/34.png</inov:icon>
                 <inov:hasAnnotation>
                     <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/446">
                         <inov:hasResourceCandidate>
@@ -7649,7 +7647,7 @@
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Sports+goods"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Bridges"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Electronic+Media"/>
-        <inov:icon>/media/tco/icons/189.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/189.png</inov:icon>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Single+parents"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Balcony%2Fterrace"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Kitchen"/>
@@ -8308,7 +8306,6 @@
                 <dcterms:description>Value of the idea</dcterms:description>
             </gi2mo:MinMaxRating>
         </gi2mo:hasReview>
-        <inov:icon>/images/idea-image-placeholder.png</inov:icon>
         <gi2mo:hasReview>
             <gi2mo:MinMaxRating>
                 <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
@@ -8406,7 +8403,6 @@
                 <inov:annotationState>approved</inov:annotationState>
             </inov:AnnotationCandidate>
         </inov:hasAnnotation>
-        <inov:icon>/images/idea-image-placeholder.png</inov:icon>
     </gi2mo:Idea>
     <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/fa48b051-a6b7-4a1a-8657-1519e50e96c9">
         <gi2mo:hasCreator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/43f7c9ff-f990-4a18-b3ff-b4404fad8a49"/>
@@ -8573,7 +8569,7 @@
         </inov:hasAnnotation>
         <inov:ideaType>Idea</inov:ideaType>
         <oid:createdInternally>true</oid:createdInternally>
-        <inov:icon>/media/tco/icons/161.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/161.png</inov:icon>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Bathroom"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Employees"/>
         <gi2mo:content>an invisible sticker could be attached to any surface in your home and connects via wifi to a „smart-home-hub“ it would make preexisting „non-smart“ objects like doorhandles and light switches „smart“ when combined with a certain behavior. &#xD;
@@ -8782,7 +8778,7 @@
                     </gi2mo:MinMaxRating>
                 </gi2mo:hasReview>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Families"/>
-                <inov:icon>/media/tco/icons/132.png</inov:icon>
+                <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/132.png</inov:icon>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Employees"/>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/School"/>
                 <gi2mo:hasReview>
@@ -8890,7 +8886,7 @@
         </inov:inspiredBy>
         <inov:assignedTo rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/05a374e2-4061-490a-977a-ba289dbecb94"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Sports+field"/>
-        <inov:icon>/media/tco/icons/164.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/164.png</inov:icon>
         <gi2mo:hasSubmissionMethod rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/submissionMethods/OntoideaLegacyAppTCO"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Men"/>
         <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
@@ -9056,7 +9052,7 @@
             </gi2mo:MinMaxRating>
         </gi2mo:hasReview>
         <dcterms:created>2018-05-31T13:47Z</dcterms:created>
-        <inov:icon>/media/tco/icons/172.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/172.png</inov:icon>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Monuments"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Public+places"/>
         <inov:hasAnnotation>
@@ -9104,7 +9100,7 @@
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Sports+field"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Packaging"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Medical+device"/>
-        <inov:icon>/media/tco/icons/140.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/140.png</inov:icon>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Unemployed"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Students"/>
         <dcterms:created>2018-05-28T16:45Z</dcterms:created>
@@ -9430,7 +9426,7 @@
         <gi2mo:hasContributor rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/51f69d1a-5753-498a-a69c-90b5ec49c8f8"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Kitchen"/>
         <dcterms:title>TCO-secure glass</dcterms:title>
-        <inov:icon>/media/tco/icons/183.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/183.png</inov:icon>
         <gi2mo:hasReview>
             <gi2mo:MinMaxRating>
                 <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
@@ -9546,7 +9542,7 @@
                         <dcterms:description>If you could buy such a product, how likely would you do so?</dcterms:description>
                     </gi2mo:MinMaxRating>
                 </gi2mo:hasReview>
-                <inov:icon>/media/tco/icons/45.png</inov:icon>
+                <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/45.png</inov:icon>
                 <inov:hasAnnotation>
                     <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/773">
                         <inov:hasResourceCandidate>
@@ -9810,7 +9806,7 @@
             </inov:AnnotationCandidate>
         </inov:hasAnnotation>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Boat"/>
-        <inov:icon>/media/tco/icons/177.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/177.png</inov:icon>
         <inov:hasAnnotation>
             <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/5880">
                 <inov:hasResourceCandidate>
@@ -10008,7 +10004,7 @@
         <inov:hasChallenge rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/challenges/i2m-TCO"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Nursery"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Bedroom"/>
-        <inov:icon>/media/tco/icons/187.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/187.png</inov:icon>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Public+places"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Professionals"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Offices"/>
@@ -10208,7 +10204,7 @@
                 <rdfs:seeAlso rdf:resource="http://purl.org/innovonto/i2m-legacy/98"/>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Single+parents"/>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Singles"/>
-                <inov:icon>/media/tco/icons/98.png</inov:icon>
+                <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/98.png</inov:icon>
                 <gi2mo:hasReview>
                     <gi2mo:MinMaxRating>
                         <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
@@ -10453,7 +10449,7 @@
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Singles"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Construction+sites"/>
         <gi2mo:content>A TCO foil covering a traffic light can be activated and show simple information in the off state off the traffic light.</gi2mo:content>
-        <inov:icon>/media/tco/icons/176.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/176.png</inov:icon>
         <inov:assignedTo rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/05a374e2-4061-490a-977a-ba289dbecb94"/>
         <gi2mo:hasCreator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/5e1cd1fb-f70d-439e-bacc-c28fee9b6bb1"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Trucks"/>
@@ -10696,7 +10692,7 @@
                     </gi2mo:TextualReview>
                 </gi2mo:hasReview>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Employees"/>
-                <inov:icon>/media/tco/icons/1.png</inov:icon>
+                <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/1.png</inov:icon>
                 <gi2mo:hasReview>
                     <gi2mo:MinMaxRating>
                         <gi2mo:ratingValue rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
@@ -11148,7 +11144,7 @@
         <gi2mo:content>Tables at restaurants could be upgraded with a TCO interface foil. Menu cards and other prints could easily be placed and swapped under the foil layer.</gi2mo:content>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Dining+room"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Employees"/>
-        <inov:icon>/media/tco/icons/174.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/174.png</inov:icon>
         <gi2mo:hasContributor rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/720d1285-b963-4952-92af-06462563b08e"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Single+parents"/>
         <inov:hasAnnotation>
@@ -11217,7 +11213,7 @@
                 <gi2mo:hasIdeaContest rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/ideaContests/i2m-TCO"/>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Food+%26+Nutrition"/>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Children+%28under+13%29"/>
-                <inov:icon>/media/tco/icons/38.png</inov:icon>
+                <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/38.png</inov:icon>
                 <inov:hasAnnotation>
                     <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/539">
                         <inov:hasResourceCandidate>
@@ -11514,7 +11510,7 @@
     <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/bb7b44d4-fd1b-4a65-adc7-997b09e5f68a">
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Public+places"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Monuments"/>
-        <inov:icon>/media/tco/icons/184.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/184.png</inov:icon>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Living+room"/>
         <gi2mo:hasCreator rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/43f7c9ff-f990-4a18-b3ff-b4404fad8a49"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Offices"/>
@@ -11811,7 +11807,7 @@
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Library"/>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Kindergarten"/>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Train"/>
-                <inov:icon>/media/tco/icons/131.png</inov:icon>
+                <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/131.png</inov:icon>
                 <dcterms:title>renewable energy</dcterms:title>
             </gi2mo:Idea>
         </inov:inspiredBy>
@@ -12066,7 +12062,7 @@
                 </gi2mo:hasReview>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Taxi"/>
                 <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Students"/>
-                <inov:icon>/media/tco/icons/41.png</inov:icon>
+                <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/41.png</inov:icon>
                 <inov:hasAnnotation>
                     <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/607">
                         <inov:hasResourceCandidate>
@@ -12185,7 +12181,7 @@
             </gi2mo:Idea>
         </inov:inspiredBy>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Museums"/>
-        <inov:icon>/media/tco/icons/185.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/185.png</inov:icon>
         <oid:preselectedFor rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/ab0332e9-c00f-4a1a-8af4-72cbb720e9bd"/>
     </gi2mo:Idea>
     <gi2mo:Idea rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/ideas/2c34bff0-aa29-4909-9af1-faac59c60762">
@@ -12207,7 +12203,7 @@
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Students"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Buildings"/>
         <oid:preselectedFor rdf:resource="https://innovonto-core.imp.fu-berlin.de/entities/users/a2e7ae8e-4516-4569-b637-33ffbb92eaed"/>
-        <inov:icon>/media/tco/icons/182.png</inov:icon>
+        <inov:icon>https://innovonto-core.imp.fu-berlin.de/media/tco/icons/182.png</inov:icon>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Travelers"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Toys+%26+Games"/>
         <gi2mo:hasCategory rdf:resource="http://purl.org/innovonto/i2m-legacy/category/Laboratory"/>
