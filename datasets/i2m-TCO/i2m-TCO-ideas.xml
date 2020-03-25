@@ -8373,7 +8373,7 @@
             </inov:AnnotationCandidate>
         </inov:hasAnnotation>
         <gi2mo:content>Responsive Surface - Temperature responsive surface in construction / building / real estate&#xD;
-            Oberflächen Anpassung in Abhängigkeit zum Klima (Sonne / Verdunklung oder Reflektiv; Temperaturabhängige Farbgestaltung), sonstigen Witterungs- oder Tageszeitabhängigkeit Ambiente-Gestaltungsoptionen</gi2mo:content>
+            Surface adaptation depending on the climate (sun / blackout or reflective; temperature-dependent colour scheme), other weather or time of day dependent ambient design options</gi2mo:content>
         <inov:hasAnnotation>
             <inov:AnnotationCandidate rdf:about="https://innovonto-core.imp.fu-berlin.de/entities/annotationCandidates/2820">
                 <inov:hasResourceCandidate>
